@@ -141,91 +141,91 @@
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=2ZK8zyIt7o) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/luping-liu/LongAlign)
 
 * **[ICLR 2025]** **ITTA:** *Information Theoretic Text‑to‑Image Alignment*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Ugs2W5XFFo) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Chao0511/mitune)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Ugs2W5XFFo) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Chao0511/mitune)
 
 * **[ICLR 2025]** **Meissonic:** *Revitalizing Masked Generative Transformers for Efficient High‑Resolution Text‑to‑Image Synthesis*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=GJsuYHhAga) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/view/meissonic/home) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/viiika/Meissonic) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/MeissonFlow/Meissonic)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=GJsuYHhAga) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/view/meissonic/home) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/viiika/Meissonic) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/MeissonFlow/Meissonic)
 
 * **[ICLR 2025]** **PaRa:** *Personalizing Text‑to‑Image Diffusion via Parameter Rank Reduction*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=KZgo2YQbhc)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=KZgo2YQbhc)
 
 * **[ICLR 2025]** **Fluid:** *Scaling Autoregressive Text‑to‑image Generative Models with Continuous Tokens*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=jQP5o1VAVc)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=jQP5o1VAVc)
 
 * **[ICLR 2025]** **Prompt‑Pruning:** *Not All Prompts Are Made Equal – Prompt‑based Pruning of Text‑to‑Image Diffusion Models*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=3BhZCfJ73Y) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/rezashkv/diffusion_pruning) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/rezashkv/diffusion_pruning)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=3BhZCfJ73Y) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/rezashkv/diffusion_pruning) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/rezashkv/diffusion_pruning)
 
 * **[ICLR 2025]** **Denoising AR Transformers:** *Denoising Autoregressive Transformers for Scalable Text‑to‑Image Generation*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=amDkNPVWcn)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=amDkNPVWcn)
 
 * **[ICLR 2025]** **Progressive Compositionality:** *Progressive Compositionality in Text‑to‑Image Generative Models*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=S85PP4xjFD) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://evansh666.github.io/EvoGen_Page/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/evansh666/EvoGen)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=S85PP4xjFD) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://evansh666.github.io/EvoGen_Page/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/evansh666/EvoGen)
 
 * **[ICLR 2025]** **Classifier Scores:** *Mining your own secrets: Diffusion Classifier Scores for Continual Personalization of Text‑to‑Image Diffusion Models*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=hUdLs6TqZL) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://srvcodes.github.io/continual_personalization)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=hUdLs6TqZL) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://srvcodes.github.io/continual_personalization)
 
 * **[ICLR 2025]** **Engagement:** *Measuring and Improving Engagement of Text‑to‑Image Generation Models*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=TmCcNuo03f) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://behavior-in-the-wild.github.io/image-engagement)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=TmCcNuo03f) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://behavior-in-the-wild.github.io/image-engagement)
 
 * **[ICLR 2025]** **Residual Gate Eraser:** *Concept Pinpoint Eraser for Text‑to-image Diffusion Models via Residual Attention Gate*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ZRDhBwKs7l) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Hyun1A/CPE)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ZRDhBwKs7l) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Hyun1A/CPE)
 
 * **[ICLR 2025]** **Random Seeds:** *Enhancing Compositional Text‑to‑Image Generation with Reliable Random Seeds*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=5BSlakturs) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/doub7e/Reliable-Random-Seeds)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=5BSlakturs) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/doub7e/Reliable-Random-Seeds)
 
 * **[ICLR 2025]** **One‑Prompt‑One‑Story:** *Free‑Lunch Consistent Text‑to‑Image Generation Using a Single Prompt*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=cD1kl2QKv1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://byliutao.github.io/1Prompt1Story.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/byliutao/1Prompt1Story)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=cD1kl2QKv1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://byliutao.github.io/1Prompt1Story.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/byliutao/1Prompt1Story)
 
 * **[ICLR 2025]** **You Only Sample Once:** *Taming One‑Step Text‑to‑Image Synthesis by Self‑Cooperative Diffusion GANs*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=T7bmHkwzS6) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yoso-t2i.github.io) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Luo-Yihong/YOSO) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/Luo-Yihong/yoso_pixart512)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=T7bmHkwzS6) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yoso-t2i.github.io) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Luo-Yihong/YOSO) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/Luo-Yihong/yoso_pixart512)
 
 * **[ICLR 2025]** **Copyright Revisiting:** *Rethinking Artistic Copyright Infringements in the Era of Text‑to‑Image Generative Models*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=0OTVNEm9N4)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=0OTVNEm9N4)
 
 * **[ICLR 2025]** **Concept Combination Erasing:** *Erasing Concept Combination from Text‑to‑Image Diffusion Model*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=OBjF5I4PWg)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=OBjF5I4PWg)
 
 * **[ICLR 2025]** **Cross‑Attention Patterns:** *Cross‑Attention Head Position Patterns Can Align with Human Visual Concepts in Text‑to‑Image Generative Models*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=1vggIT5vvj) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/SNU-DRL/HRV)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=1vggIT5vvj) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/SNU-DRL/HRV)
 
 * **[ICLR 2025]** **TIGeR:** *Unifying Text‑to‑Image Generation and Retrieval with Large Multimodal Models*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=mr2icR6dpD) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tiger-t2i.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/LgQu/TIGeR)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=mr2icR6dpD) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tiger-t2i.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/LgQu/TIGeR)
 
 * **[ICLR 2025]** **DGQ:** *Distribution‑Aware Group Quantization for Text‑to‑Image Diffusion Models*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ZyNEr7Xw5L) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ugonfor/DGQ)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ZyNEr7Xw5L) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ugonfor/DGQ)
 
 * **[ICLR 2025]** **Jacobi Decoding:** *Accelerating Auto‑regressive Text‑to‑Image Generation with Training‑free Speculative Jacobi Decoding*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=LZfjxvqw0N) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=LZfjxvqw0N) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD)
 
 * **[ICLR 2025]** **PT‑T2I/V:** *An Efficient Proxy‑Tokenized Diffusion Transformer for Text‑to‑Image/Video Task*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=lTrrnNdkOX) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://360cvgroup.github.io/Qihoo-T2X/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/360CVGroup/Qihoo-T2X)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=lTrrnNdkOX) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://360cvgroup.github.io/Qihoo-T2X/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/360CVGroup/Qihoo-T2X)
 
 * **[ICLR 2025]** **Gecko Evaluation:** *Revisiting Text‑to‑Image Evaluation with Gecko: on Metrics, Prompts, and Human Rating*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Im2neAMlre) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/google-deepmind/gecko_benchmark_t2i)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Im2neAMlre) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/google-deepmind/gecko_benchmark_t2i)
 
 * **[ICLR 2025]** **SANA:** *Efficient High‑Resolution Text‑to‑Image Synthesis with Linear Diffusion Transformers*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=N8Oj1XhtYZ) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nvlabs.github.io/Sana) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/NVlabs/Sana) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/Efficient-Large-Model/Sana_1600M_1024px_diffusers)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=N8Oj1XhtYZ) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nvlabs.github.io/Sana) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/NVlabs/Sana) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/Efficient-Large-Model/Sana_1600M_1024px_diffusers)
 
 * **[ICLR 2025]** **Rectified Flow:** *Text‑to‑Image Rectified Flow as Plug‑and‑Play Priors*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=SzPZK856iI) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/yangxiaofeng/rectified_flow_prior)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=SzPZK856iI) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/yangxiaofeng/rectified_flow_prior)
 
 * **[ICLR 2025]** **Human Feedback Filtering:** *Automated Filtering of Human Feedback Data for Aligning Text‑to‑Image Diffusion Models*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=8jvVNPHtVJ)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=8jvVNPHtVJ)
 
 * **[ICLR 2025]** **SAFREE:** *Training‑Free and Adaptive Guard for Safe Text‑to‑Image and Video Generation*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=hgTFotBRKl) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://safree-safe-t2i-t2v.github.io) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/jaehong31/SAFREE)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=hgTFotBRKl) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://safree-safe-t2i-t2v.github.io) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/jaehong31/SAFREE)
 
 * **[ICLR 2025]** **IterComp:** *Iterative Composition‑Aware Feedback Learning from Model Gallery for Text‑to‑Image Generation*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=4w99NAikOE) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/YangLing0818/IterComp) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/comin/IterComp)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=4w99NAikOE) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/YangLing0818/IterComp) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/comin/IterComp)
 
 * **[ICLR 2025]** **ScImage:** *How good are multimodal large language models at scientific text‑to‑image generation?*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ugyqNEOjoU) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/datasets/casszhao/ScImage)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ugyqNEOjoU) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/datasets/casszhao/ScImage)
 
 * **[ICLR 2025]** **Score Distillation:** *Guided Score Identity Distillation for Data‑Free One‑Step Text‑to‑Image Generation*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=HMVDiaWMwM) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mingyuanzhou/SiD-LSG) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/UT-Austin-PML/SiD-LSG)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=HMVDiaWMwM) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mingyuanzhou/SiD-LSG) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/UT-Austin-PML/SiD-LSG)
 
 * **[ICLR 2025]** **Causal Variation:** *Evaluating Semantic Variation in Text‑to‑Image Synthesis: A Causal Perspective*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=NWb128pSCb) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zhuxiangru/SemVarBench)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=NWb128pSCb) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zhuxiangru/SemVarBench)
 
 
 <details>
@@ -865,31 +865,31 @@
 
 
 * **[ICLR 2025]** *Lightning‑Fast Image Inversion and Editing for Text‑to‑Image Diffusion Models*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=t9l63huPRt) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://barakmam.github.io/rnri.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/dvirsamuel/NewtonRaphsonInversion)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=t9l63huPRt) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://barakmam.github.io/rnri.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/dvirsamuel/NewtonRaphsonInversion)
 
 
 * **[ICLR 2025]** *Multi‑Reward as Condition for Instruction‑based Image Editing*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=9RFocgIccP) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/bytedance/Multi-Reward-Editing)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=9RFocgIccP) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/bytedance/Multi-Reward-Editing)
 
 
 * **[ICLR 2025]** ***HQ‑Edit:*** *A High‑Quality Dataset for Instruction‑based Image Editing*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=mZptYYttFj) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thefllood.github.io/HQEdit_web/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/UCSC-VLAA/HQ-Edit) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/datasets/UCSC-VLAA/HQ-Edit)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=mZptYYttFj) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thefllood.github.io/HQEdit_web/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/UCSC-VLAA/HQ-Edit) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/datasets/UCSC-VLAA/HQ-Edit)
 
 
 * **[ICLR 2025]** ***CLIPDrag:*** *Combining Text‑based and Drag‑based Instructions for Image Editing*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=2HjRezQ1nj) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/HKUST-LongGroup/CLIPDrag)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=2HjRezQ1nj) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/HKUST-LongGroup/CLIPDrag)
 
 
 * **[ICLR 2025]** *Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Hu0FSOSEyS) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rf-inversion.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/LituRout/RF-Inversion)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Hu0FSOSEyS) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rf-inversion.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/LituRout/RF-Inversion)
 
 
 * **[ICLR 2025]** ***PostEdit:*** *Posterior Sampling for Efficient Zero‑Shot Image Editing*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=J8YWCBPgx7) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/TFNTF/PostEdit)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=J8YWCBPgx7) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/TFNTF/PostEdit)
 
 
 * **[ICLR 2025]** ***OmniEdit:*** *Building Image Editing Generalist Models Through Specialist Supervision*<br>
-[![Paper](https://img.shields.io-badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Hlm0cga0sv) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tiger-ai-lab.github.io/OmniEdit/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/TIGER-AI-Lab/OmniEdit) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/datasets/TIGER-Lab/OmniEdit-Filtered-1.2M)
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Hlm0cga0sv) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tiger-ai-lab.github.io/OmniEdit/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/TIGER-AI-Lab/OmniEdit) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/datasets/TIGER-Lab/OmniEdit-Filtered-1.2M)
 
 
 </details>
