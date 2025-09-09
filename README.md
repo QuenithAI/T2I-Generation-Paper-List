@@ -70,6 +70,10 @@
 <details>
 <summary><h4>✨ 2025</h4></summary>
 
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
 * **[CVPR 2025]** ***PreciseCam:*** *Precise Camera Control for Text-to-Image Generation*<br>
    [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2501.12910)
   [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://graphics.unizar.es/projects/PreciseCam2024/)
@@ -136,6 +140,18 @@
 
 * **[CVPR 2025]** **VODiff:** *Controlling Object Visibility Order in Text‑to‑Image Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/???) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/dliang293/VODiff)
+
+* **[CVPR 2025]** *Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Shin_Large-Scale_Text-to-Image_Model_with_Inpainting_is_a_Zero-Shot_Subject-Driven_Image_CVPR_2025_paper.html) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://diptychprompting.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/chaehunshin/DiptychPrompting) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/alimama-creative/FLUX.1-dev-Controlnet-Inpainting-Beta)
+
+* **[CVPR 2025]** *Six‑CD: Benchmarking Concept Removals for Text-to-image Diffusion Models*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Ren_Six-CD_Benchmarking_Concept_Removals_for_Text-to-image_Diffusion_Models_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Artanisax/Six-CD)
+
+* **[CVPR 2025]** *ConceptGuard: Continual Personalized Text-to-Image Generation with Forgetting and Confusion Mitigation*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Guo_ConceptGuard_Continual_Personalized_Text-to-Image_Generation_with_Forgetting_and_Confusion_Mitigation_CVPR_2025_paper.html)
+
+* **[CVPR 2025]** *ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Jia_ChatGen_Automatic_Text-to-Image_Generation_From_FreeStyle_Chatting_CVPR_2025_paper.html) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chengyou-jia.github.io/ChatGen-Home/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/chengyou-jia/ChatGen) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/ChengyouJia/ChatGen-Base-8B)
 
 * **[ICLR 2025]** **Improving Long‑Text Alignment:** *Improving Long‑Text Alignment for Text‑to‑Image Diffusion Models*<br>
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=2ZK8zyIt7o) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/luping-liu/LongAlign)
@@ -227,14 +243,112 @@
 * **[ICLR 2025]** **Causal Variation:** *Evaluating Semantic Variation in Text‑to‑Image Synthesis: A Causal Perspective*<br>
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=NWb128pSCb) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zhuxiangru/SemVarBench)
 
-
-<details>
-<summary><h4>✅ Published Papers</h4></summary>
-
 </details>
 
 <details>
 <summary><h4>💡 Pre-Print Papers</h4></summary>
+
+
+- [Plot'n Polish: Zero‑shot Story Visualization and Disentangled Editing with Text‑to‑Image Diffusion Models](http://arxiv.org/abs/2509.04446v1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://plotnpolish.github.io)
+- [Skywork UniPic 2.0: Building Kontext Model with Online RL for Unified Multimodal Model](http://arxiv.org/abs/2509.04548v1) [![GitHub Stars](https://img.shields.io/github/stars/SkyworkAI/UniPic?style=social)](https://github.com/SkyworkAI/UniPic) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://unipic-v2.github.io/)
+- [PromptEnhancer: A Simple Approach to Enhance Text‑to‑Image Models via Chain‑of‑Thought Prompt Rewriting](http://arxiv.org/abs/2509.04545v1)
+- [From Editor to Dense Geometry Estimator](http://arxiv.org/abs/2509.04338v1)
+- [Noisy Label Refinement with Semantically Reliable Synthetic Images](http://arxiv.org/abs/2509.04298v1)
+- [MEPG:Multi‑Expert Planning and Generation for Compositionally‑Rich Image Generation](http://arxiv.org/abs/2509.04126v1)
+- [Easier Painting Than Thinking: Can Text‑to‑Image Models Set the Stage, but Not Direct the Play?](http://arxiv.org/abs/2509.03516v1)
+- [Fidelity‑preserving enhancement of ptychography with foundational text‑to‑image models](http://arxiv.org/abs/2509.04513v1)
+- [Exploring Diffusion Models for Generative Forecasting of Financial Charts](http://arxiv.org/abs/2509.02308v1)
+- [Data‑Driven Loss Functions for Inference‑Time Optimization in Text‑to‑Image Generation](http://arxiv.org/abs/2509.02295v1)
+- [Palette Aligned Image Diffusion](http://arxiv.org/abs/2509.02000v1)
+- [Draw‑In‑Mind: Learning Precise Image Editing via Chain‑of‑Thought Imagination](http://arxiv.org/abs/2509.01986v1) [![GitHub Stars](https://img.shields.io/github/stars/showlab/DIM?style=social)](https://github.com/showlab/DIM)
+- [Discrete Noise Inversion for Next‑scale Autoregressive Text‑based Image Editing](http://arxiv.org/abs/2509.01984v2)
+- [Q‑Sched: Pushing the Boundaries of Few‑Step Diffusion Models with Quantization‑Aware Scheduling](http://arxiv.org/abs/2509.01624v1)
+- [RealMat: Realistic Materials with Diffusion and Reinforcement Learning](http://arxiv.org/abs/2509.01134v1)
+- [CompSlider: Compositional Slider for Disentangled Multiple‑Attribute Image Generation](http://arxiv.org/abs/2509.01028v2)
+- [Prompting Away Stereotypes? Evaluating Bias in Text‑to‑Image Models for Occupations](http://arxiv.org/abs/2509.00849v1)
+- [Multi‑Level CLS Token Fusion for Contrastive Learning in Endoscopy Image Classification](http://arxiv.org/abs/2509.00752v1)
+- [HADIS: Hybrid Adaptive Diffusion Model Serving for Efficient Text‑to‑Image Generation](http://arxiv.org/abs/2509.00642v1)
+- [AMCR: A Framework for Assessing and Mitigating Copyright Risks in Generative Models](http://arxiv.org/abs/2509.00641v1)
+- [Reusing Computation in Text‑to‑Image Diffusion for Efficient Generation of Image Sets](http://arxiv.org/abs/2508.21032v1)
+- [Understanding and evaluating computer vision models through the lens of counterfactuals](http://arxiv.org/abs/2508.20881v1)
+- [Pref‑GRPO: Pairwise Preference Reward‑based GRPO for Stable Text‑to‑Image Reinforcement Learning](http://arxiv.org/abs/2508.20751v1)
+- [Persode: Personalized Visual Journaling with Episodic Memory‑Aware AI Agent](http://arxiv.org/abs/2508.20585v1)
+- [Describe, Don't Dictate: Semantic Image Editing with Natural Language Intent](http://arxiv.org/abs/2508.20505v1)
+- [Safe‑Control: A Safety Patch for Mitigating Unsafe Content in Text‑to‑Image Generation Models](http://arxiv.org/abs/2508.21099v1)
+- [Not Every Gift Comes in Gold Paper or with a Red Ribbon: Exploring Color Perception in Text‑to‑Image Models](http://arxiv.org/abs/2508.19791v1)
+- [MonoRelief V2: Leveraging Real Data for High‑Fidelity Monocular Relief Recovery](http://arxiv.org/abs/2508.19555v1)
+- [All‑in‑One Slider for Attribute Manipulation in Diffusion Models](http://arxiv.org/abs/2508.19195v1) 
+- [Visual‑CoG: Stage‑Aware Reinforcement Learning with Chain of Guidance for Text‑to‑Image Generation](http://arxiv.org/abs/2508.18032v2)
+- [CEIDM: A Controlled Entity and Interaction Diffusion Model for Enhanced Text‑to‑Image Generation](http://arxiv.org/abs/2508.17760v1)
+- [Instant Preference Alignment for Text‑to‑Image Diffusion Models](http://arxiv.org/abs/2508.17718v1)
+- [T2I‑ReasonBench: Benchmarking Reasoning‑Informed Text‑to‑Image Generation](http://arxiv.org/abs/2508.17472v1)
+- [Bias Amplification in Stable Diffusion's Representation of Stigma Through Skin Tones and Their Homogeneity](http://arxiv.org/abs/2508.17465v1)
+- [An LLM‑LVLM Driven Agent for Iterative and Fine‑Grained Image Editing](http://arxiv.org/abs/2508.17435v1)
+- [HiCache: Training‑free Acceleration of Diffusion Models via Hermite Polynomial‑based Feature Caching](http://arxiv.org/abs/2508.16984v1)
+- [Delta‑SVD: Efficient Compression for Personalized Text‑to‑Image Models](http://arxiv.org/abs/2508.16863v1)
+- [Improving Performance, Robustness, and Fairness of Radiographic AI Models with Finely‑Controllable Synthetic Data](http://arxiv.org/abs/2508.16783v1)
+- [A Framework for Benchmarking Fairness‑Utility Trade‑offs in Text‑to‑Image Models via Pareto Frontiers](http://arxiv.org/abs/2508.16752v1)
+- [A‑FloPS: Accelerating Diffusion Sampling with Adaptive Flow Path Sampler](http://arxiv.org/abs/2509.00036v1)
+- [UniEM‑3M: A Universal Electron Micrograph Dataset for Microstructural Segmentation and Generation](http://arxiv.org/abs/2508.16239v1)
+- [RAGSR: Regional Attention Guided Diffusion for Image Super‑Resolution](http://arxiv.org/abs/2508.16158v1)
+- [Scaling Group Inference for Diverse and High‑Quality Generation](http://arxiv.org/abs/2508.15773v1)
+- [Waver: Wave Your Way to Lifelike Video Generation](http://arxiv.org/abs/2508.15761v2)
+- [GenTune: Toward Traceable Prompts to Improve Controllability of Image Refinement in Environment Design](http://arxiv.org/abs/2508.15227v1)
+- [Side Effects of Erasing Concepts from Diffusion Models](http://arxiv.org/abs/2508.15124v2)
+- [CurveFlow: Curvature‑Guided Flow Matching for Image Generation](http://arxiv.org/abs/2508.15093v2)
+- [SATURN: Autoregressive Image Generation Guided by Scene Graphs](http://arxiv.org/abs/2508.14502v1)
+- [MUSE: Multi‑Subject Unified Synthesis via Explicit Layout Semantic Expansion](http://arxiv.org/abs/2508.14440v1)
+- [CTA‑Flux: Integrating Chinese Cultural Semantics into High‑Quality English Text‑to‑Image Communities](http://arxiv.org/abs/2508.14405v1)
+- [Sealing The Backdoor: Unlearning Adversarial Text Triggers In Diffusion Models Using Knowledge Distillation](http://arxiv.org/abs/2508.18235v1)
+- [Inference Time Debiasing Concepts in Diffusion Models](http://arxiv.org/abs/2508.14933v1)
+- [Pixels Under Pressure: Exploring Fine‑Tuning Paradigms for Foundation Models in High‑Resolution Medical Imaging](http://arxiv.org/abs/2508.14931v1)
+- [SAGA: Learning Signal‑Aligned Distributions for Improved Text‑to‑Image Generation](http://arxiv.org/abs/2508.13866v1)
+- [UniECS: Unified Multimodal E‑Commerce Search Framework with Gated Cross‑modal Fusion](http://arxiv.org/abs/2508.13843v1)
+- [DiffIER: Optimizing Diffusion Models with Iterative Error Reduction](http://arxiv.org/abs/2508.13628v2)
+- [7Bench: a Comprehensive Benchmark for Layout‑guided Text‑to‑image Models](http://arxiv.org/abs/2508.12919v1)
+- [S²‑Guidance: Stochastic Self Guidance for Training‑Free Enhancement of Diffusion Models](http://arxiv.org/abs/2508.12880v1)
+- [Single‑Reference Text‑to‑Image Manipulation with Dual Contrastive Denoising Score](http://arxiv.org/abs/2508.12718v1)
+- [DeCoT: Decomposing Complex Instructions for Enhanced Text‑to‑Image Generation with Large Language Models](http://arxiv.org/abs/2508.12396v1)
+- [Navigating the Exploration‑Exploitation Tradeoff in Inference‑Time Scaling of Diffusion Models](http://arxiv.org/abs/2508.12361v1)
+- [SafeCtrl: Region‑Based Safety Control for Text‑to‑Image Diffusion via Detect‑Then‑Suppress](http://arxiv.org/abs/2508.11904v1)
+- [LoRAtorio: An intrinsic approach to LoRA Skill Composition](http://arxiv.org/abs/2508.11624v1)
+- [SPG: Style‑Prompting Guidance for Style‑Specific Content Creation](http://arxiv.org/abs/2508.11476v1)
+- [Match & Choose: Model Selection Framework for Fine‑tuning Text‑to‑Image Diffusion Models](http://arxiv.org/abs/2508.10993v1)
+- [NextStep‑1: Toward Autoregressive Image Generation with Continuous Tokens at Scale](http://arxiv.org/abs/2508.10711v2)
+- [CountCluster: Training‑Free Object Quantity Guidance with Cross‑Attention Map Clustering for Text‑to‑Image Generation](http://arxiv.org/abs/2508.10710v1)
+- [NanoControl: A Lightweight Framework for Precise and Efficient Control in Diffusion Transformer](http://arxiv.org/abs/2508.10424v1)
+- [Translation of Text Embedding via Delta Vector to Suppress Strongly Entangled Content in Text‑to‑Image Diffusion Models](http://arxiv.org/abs/2508.10407v2)
+- [High Fidelity Text to Image Generation with Contrastive Alignment and Structural Guidance](http://arxiv.org/abs/2508.10280v1)
+- [Echo‑4o: Harnessing the Power of GPT‑4o Synthetic Images for Improved Image Generation](http://arxiv.org/abs/2508.09987v1)
+- [WeDesign: Generative AI‑Facilitated Community Consultations for Urban Public Space Design](http://arxiv.org/abs/2508.19256v1)
+- [Images Speak Louder Than Scores: Failure Mode Escape for Enhancing Generative Quality](http://arxiv.org/abs/2508.09598v1)
+- [Dual Recursive Feedback on Generation and Appearance Latents for Pose‑Robust Text‑to‑Image Diffusion](http://arxiv.org/abs/2508.09575v1)
+- [Understanding Dementia Speech Alignment with Diffusion‑Based Image Generation](http://arxiv.org/abs/2508.09385v1)
+- [Per‑Query Visual Concept Learning](http://arxiv.org/abs/2508.09045v1)
+- [TARA: Token‑Aware LoRA for Composable Personalization in Diffusion Models](http://arxiv.org/abs/2508.08812v1)
+- [Exploring Palette based Color Guidance in Diffusion Models](http://arxiv.org/abs/2508.08754v1)
+- [SafeFix: Targeted Model Repair via Controlled Image Generation](http://arxiv.org/abs/2508.08701v1)
+- [CLUE: Leveraging Low‑Rank Adaptation to Capture Latent Uncovered Evidence for Image Forgery Localization](http://arxiv.org/abs/2508.07413v1)
+- [CoAR: Concept Injection into Autoregressive Models for Personalized Text‑to‑Image Generation](http://arxiv.org/abs/2508.07341v1)
+- [Multi‑task Adversarial Attacks against Black‑box Model with Few‑shot Queries](http://arxiv.org/abs/2508.10039v1)
+- [Explainability‑in‑Action: Enabling Expressive Manipulation and Tacit Understanding by Bending Diffusion Models in ComfyUI](http://arxiv.org/abs/2508.07183v1)
+- [Trustworthy Medical Imaging with Large Language Models: A Study of Hallucinations Across Modalities](http://arxiv.org/abs/2508.07031v1)
+- [HiMat: DiT‑based Ultra‑High Resolution SVBRDF Generation](http://arxiv.org/abs/2508.07011v2)
+- [CannyEdit: Selective Canny Control and Dual‑Prompt Guidance for Training‑Free Image Editing](http://arxiv.org/abs/2508.06937v1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://vaynexie.github.io/CannyEdit)
+- [AR‑GRPO: Training Autoregressive Image Generation Models via Reinforcement Learning](http://arxiv.org/abs/2508.06924v1)
+- [Talk2Image: A Multi‑Agent System for Multi‑Turn Image Generation and Editing](http://arxiv.org/abs/2508.06916v1)
+- [Towards Effective Prompt Stealing Attack against Text‑to‑Image Diffusion Models](http://arxiv.org/abs/2508.06837v1)
+- [Restage4D: Reanimating Deformable 3D Reconstruction from a Single Video](http://arxiv.org/abs/2508.06715v1)
+- [VISTAR:A User‑Centric and Role‑Driven Benchmark for Text‑to‑Image Evaluation](http://arxiv.org/abs/2508.06152v1)
+- [NEP: Autoregressive Image Editing via Next Editing Token Prediction](http://arxiv.org/abs/2508.06044v1)
+- [Learning 3D Texture‑Aware Representations for Parsing Diverse Human Clothing and Body Parts](http://arxiv.org/abs/2508.06032v1)
+- [UnGuide: Learning to Forget with LoRA‑Guided Diffusion Models](http://arxiv.org/abs/2508.05755v1)
+- [Whose Truth? Pluralistic Geo‑Alignment for (Agentic) AI](http://arxiv.org/abs/2508.05432v1)
+- [UNCAGE: Contrastive Attention Guidance for Masked Generative Transformers in Text‑to‑Image Generation](http://arxiv.org/abs/2508.05399v1)
+- [Textual Inversion for Efficient Adaptation of Open‑Vocabulary Object Detectors Without Forgetting](http://arxiv.org/abs/2508.05323v1)
+- [ACM Multimedia Grand Challenge on ENT Endoscopy Analysis](http://arxiv.org/abs/2508.04801v1)
+
+
 
 </details>
 
@@ -398,6 +512,73 @@
 
 <details>
 <summary><h4>💡 Pre-Print Papers</h4></summary>
+
+- [Text-to-Image GAN with Pretrained Representations](http://arxiv.org/abs/2501.00116v1)
+- [VMix: Improving Text-to-Image Diffusion Model with Cross-Attention Mixing Control](http://arxiv.org/abs/2412.20800v1) [![GitHub Stars](https://img.shields.io/github/stars/fenfenfenfan/VMix?style=social)](https://github.com/fenfenfenfan/VMix)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://vmix-diffusion.github.io/VMix/)
+- [INFELM: In-depth Fairness Evaluation of Large Text-To-Image Models](http://arxiv.org/abs/2501.01973v3)
+- [Is Your Text-to-Image Model Robust to Caption Noise?](http://arxiv.org/abs/2412.19531v1)
+- [DebiasDiff: Debiasing Text-to-image Diffusion Models with Self-discovering Latent Attribute Directions](http://arxiv.org/abs/2412.18810v1) [![GitHub Stars](https://img.shields.io/github/stars/leigest519/DebiasDiff?style=social)](https://github.com/leigest519/DebiasDiff)
+- [Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models](http://arxiv.org/abs/2412.18604v1)  [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://explain-in-diffusion.github.io/)
+- [FameBias: Embedding Manipulation Bias Attack in Text-to-Image Models](http://arxiv.org/abs/2412.18302v1)
+- [EvalMuse-40K: A Reliable and Fine-Grained Benchmark with Comprehensive Human Annotations for Text-to-Image Generation Model Evaluation](http://arxiv.org/abs/2412.18150v2)  [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://shh-han.github.io/EvalMuse-project/)  [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/datasets/DY-Evalab/EvalMuse)
+- [AEIOU: A Unified Defense Framework against NSFW Prompts in Text-to-Image Models](http://arxiv.org/abs/2412.18123v1)
+- [Self-Corrected Flow Distillation for Consistent One-Step and Few-Step Text-to-Image Generation](http://arxiv.org/abs/2412.16906v2)
+- [PromptLA: Towards Integrity Verification of Black-box Text-to-Image Diffusion Models](http://arxiv.org/abs/2412.16257v2)
+- [GALOT: Generative Active Learning via Optimizable Zero-shot Text-to-image Generation](http://arxiv.org/abs/2412.16227v1)
+- [What makes a good metric? Evaluating automatic metrics for text-to-image consistency](http://arxiv.org/abs/2412.13989v1)
+- [Maybe you are looking for CroQS: Cross-modal Query Suggestion for Text-to-Image Retrieval](http://arxiv.org/abs/2412.13834v1)
+- [CoMPaSS: Enhancing Spatial Understanding in Text-to-Image Diffusion Models](http://arxiv.org/abs/2412.13195v2) [![GitHub Stars](https://img.shields.io/github/stars/blurgyy/CoMPaSS?style=social)](https://github.com/blurgyy/CoMPaSS)  [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/blurgy/CoMPaSS-FLUX.1)
+- [ArtAug: Enhancing Text-to-Image Generation through Synthesis-Understanding Interaction](http://arxiv.org/abs/2412.12888v2)  [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/ECNU-CILab/ArtAug-lora-FLUX.1dev-v1)
+- [A Framework for Critical Evaluation of Text-to-Image Models: Integrating Art Historical Analysis, Artistic Exploration, and Critical Prompt Engineering](http://arxiv.org/abs/2412.12774v1)
+- [Efficient Scaling of Diffusion Transformers for Text-to-Image Generation](http://arxiv.org/abs/2412.12391v1)
+- [VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis](http://arxiv.org/abs/2412.11594v3) [![GitHub Stars](https://img.shields.io/github/stars/FelixChan9527/VersaGen_official?style=social)](https://github.com/FelixChan9527/VersaGen_official)
+- [Finding a Wolf in Sheep's Clothing: Combating Adversarial Text-To-Image Prompts with Text Summarization](http://arxiv.org/abs/2412.12212v1)
+- [AlignGuard: Scalable Safety Alignment for Text-to-Image Generation](http://arxiv.org/abs/2412.10493v2) [![GitHub Stars](https://img.shields.io/github/stars/Visualignment/SafetyDPO?style=social)](https://github.com/Visualignment/SafetyDPO)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://alignguard.github.io/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/Visualignment/safe-stable-diffusion-v1-5)
+- [SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training](http://arxiv.org/abs/2412.09619v1)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://snap-research.github.io/snapgen/)
+- [Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG](http://arxiv.org/abs/2412.09614v1)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://context-canvas.github.io/)
+- [DECOR:Decomposition and Projection of Text Embeddings for Text-to-Image Customization](http://arxiv.org/abs/2412.09169v1)
+- [Fast Prompt Alignment for Text-to-Image Generation](http://arxiv.org/abs/2412.08639v1) [![GitHub Stars](https://img.shields.io/github/stars/tiktok/fast_prompt_alignment?style=social)](https://github.com/tiktok/fast_prompt_alignment)
+- [FiVA: Fine-grained Visual Attribute Dataset for Text-to-Image Diffusion Models](http://arxiv.org/abs/2412.07674v1)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://fiva-dataset.github.io/)
+- [Preference Adaptive and Sequential Text-to-Image Generation](http://arxiv.org/abs/2412.10419v2)
+- [Boosting Alignment for Post-Unlearning Text-to-Image Generative Models](http://arxiv.org/abs/2412.07808v2) [![GitHub Stars](https://img.shields.io/github/stars/reds-lab/Restricted_gradient_diversity_unlearning?style=social)](https://github.com/reds-lab/Restricted_gradient_diversity_unlearning)
+- [Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty](http://arxiv.org/abs/2412.06771v2) [![GitHub Stars](https://img.shields.io/github/stars/google-deepmind/proactive_t2i_agents?style=social)](https://github.com/google-deepmind/proactive_t2i_agents)
+- [SILMM: Self-Improving Large Multimodal Models for Compositional Text-to-Image Generation](http://arxiv.org/abs/2412.05818v2) [![GitHub Stars](https://img.shields.io/github/stars/LgQu/SILMM?style=social)](https://github.com/LgQu/SILMM)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://silmm.github.io/)
+- [Evaluating Hallucination in Text-to-Image Diffusion Models with Scene-Graph based Question-Answering Agent](http://arxiv.org/abs/2412.05722v1)
+- [SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models](http://arxiv.org/abs/2412.04852v2) [![GitHub Stars](https://img.shields.io/github/stars/taco-group/SleeperMark?style=social)](https://github.com/taco-group/SleeperMark)
+- [LayerFusion: Harmonized Multi-Layer Text-to-Image Generation with Generative Priors](http://arxiv.org/abs/2412.04460v1)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://layerfusion.github.io/)
+- [T2I-FactualBench: Benchmarking the Factuality of Text-to-Image Models with Knowledge-Intensive Concepts](http://arxiv.org/abs/2412.04300v3)
+- [BodyMetric: Evaluating the Realism of Human Bodies in Text-to-Image Generation](http://arxiv.org/abs/2412.04086v2)
+- [Safeguarding Text-to-Image Generation via Inference-Time Prompt-Noise Optimization](http://arxiv.org/abs/2412.03876v1)
+- [DynamicControl: Adaptive Condition Selection for Improved Text-to-Image Generation](http://arxiv.org/abs/2412.03255v2) [![GitHub Stars](https://img.shields.io/github/stars/hithqd/DynamicControl?style=social)](https://github.com/hithqd/DynamicControl)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://hithqd.github.io/projects/Dynamiccontrol/)
+- [The Role of Text-to-Image Models in Advanced Style Transfer Applications: A Case Study with DALL-E 3](http://arxiv.org/abs/2412.05325v1)
+- [Towards Understanding and Quantifying Uncertainty for Text-to-Image Generation](http://arxiv.org/abs/2412.03178v1)
+- [ShapeWords: Guiding Text-to-Image Synthesis with 3D Shape-Aware Prompts](http://arxiv.org/abs/2412.02912v1)
+- [ScImage: How Good Are Multimodal Large Language Models at Scientific Text-to-Image Generation?](http://arxiv.org/abs/2412.02368v1)
+- [Cross-Attention Head Position Patterns Can Align with Human Visual Concepts in Text-to-Image Generative Models](http://arxiv.org/abs/2412.02237v3)
+- [Generative Photography: Scene-Consistent Camera Control for Realistic Text-to-Image Synthesis](http://arxiv.org/abs/2412.02168v3)
+- [Switti: Designing Scale-Wise Transformers for Text-to-Image Synthesis](http://arxiv.org/abs/2412.01819v4)
+- [Continuous Concepts Removal in Text-to-image Diffusion Models](http://arxiv.org/abs/2412.00580v2)
+- [Blind Inverse Problem Solving Made Easy by Text-to-Image Latent Diffusion](http://arxiv.org/abs/2412.00557v1)
+- [Safety Alignment Backfires: Preventing the Re-emergence of Suppressed Concepts in Fine-tuned Text-to-Image Diffusion Models](http://arxiv.org/abs/2412.00357v1)
+- [Sparrow: Data-Efficient Video-LLM with Text-to-Image Augmentation](http://arxiv.org/abs/2411.19951v5)
+- [QUOTA: Quantifying Objects with Text-to-Image Models for Any Domain](http://arxiv.org/abs/2411.19534v1)
+- [DreamBlend: Advancing Personalized Fine-tuning of Text-to-Image Diffusion Models](http://arxiv.org/abs/2411.19390v1)
+- [EFSA: Episodic Few-Shot Adaptation for Text-to-Image Retrieval](http://arxiv.org/abs/2412.00139v2)
+- [Bridging the Gap: Aligning Text-to-Image Diffusion Models with Specific Feedback](http://arxiv.org/abs/2412.00122v1)
+- [Self-Cross Diffusion Guidance for Text-to-Image Synthesis of Similar Subjects](http://arxiv.org/abs/2411.18936v2)
+- [All Seeds Are Not Equal: Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds](http://arxiv.org/abs/2411.18810v5)
+- [An indicator for effectiveness of text-to-image guardrails utilizing the Single-Turn Crescendo Attack (STCA)](http://arxiv.org/abs/2411.18699v1)
+- [Enhancing MMDiT-Based Text-to-Image Models for Similar Subject Generation](http://arxiv.org/abs/2411.18301v1)
+- [Type-R: Automatically Retouching Typos for Text-to-Image Generation](http://arxiv.org/abs/2411.18159v2)
+- [Reward Incremental Learning in Text-to-Image Generation](http://arxiv.org/abs/2411.17310v1)
+- [ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting](http://arxiv.org/abs/2411.17176v1)
+- [Relations, Negations, and Numbers: Looking for Logic in Generative Text-to-Image Models](http://arxiv.org/abs/2411.17066v1)
+- [Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis](http://arxiv.org/abs/2411.16503v1)
+- [Unlocking the Potential of Text-to-Image Diffusion with PAC-Bayesian Theory](http://arxiv.org/abs/2411.17472v1)
+- [CoCoNO: Attention Contrast-and-Complete for Initial Noise Optimization in Text-to-Image Synthesis](http://arxiv.org/abs/2411.16783v1)
+- [Text-to-Image Synthesis: A Decade Survey](http://arxiv.org/abs/2411.16164v1)
+- [In-Context Experience Replay Facilitates Safety Red-Teaming of Text-to-Image Diffusion Models](http://arxiv.org/abs/2411.16769v2)
+
 
 </details>
 
