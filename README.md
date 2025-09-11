@@ -884,13 +884,25 @@
 <details>
 <summary><h4>💡 Pre-Print Papers</h4></summary>
 
-- [Diffusion Self‑Guidance for Controllable Image Generation](http://arxiv.org/abs/2306.00986v3) [![GitHub Stars](https://img.shields.io/github/stars/superolly/self-guidance?style=social)](https://github.com/superolly/self-guidance)
-- [Robust Image Ordinal Regression with Controllable Image Generation](http://arxiv.org/abs/2305.04213v3) [![GitHub Stars](https://img.shields.io/github/stars/Ch3ngY1/Controllable-Image-Generation?style=social)](https://github.com/Ch3ngY1/Controllable-Image-Generation)
-- [Controllable Image Generation via Collage Representations](http://arxiv.org/abs/2304.13722v1)
-- [Diagnostic Benchmark and Iterative Inpainting for Layout‑Guided Image Generation](http://arxiv.org/abs/2304.06671v3) [![GitHub Stars](https://img.shields.io/github/stars/j-min/IterInpaint?style=social)](https://github.com/j-min/IterInpaint) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://layoutbench.github.io) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/spaces/j-min/IterInpaint-CLEVR)
-- [NoisyTwins: Class‑Consistent and Diverse Image Generation through StyleGANs](http://arxiv.org/abs/2304.05866v1) [![GitHub Stars](https://img.shields.io/github/stars/val-iisc/NoisyTwins?style=social)](https://github.com/val-iisc/NoisyTwins) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://rangwani-harsh.github.io/NoisyTwins)
-- [GlueGen: Plug and Play Multi‑modal Encoders for X‑to‑image Generation](http://arxiv.org/abs/2303.10056v2) [![GitHub Stars](https://img.shields.io/github/stars/salesforce/GlueGen?style=social)](https://github.com/salesforce/GlueGen)
-- [MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation](http://arxiv.org/abs/2302.08113v1) [![GitHub Stars](https://img.shields.io/github/stars/omerbt/MultiDiffusion?style=social)](https://github.com/omerbt/MultiDiffusion) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://multidiffusion.github.io) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/spaces/weizmannscience/MultiDiffusion)
+- [UNIC‑Adapter: Unified Image‑instruction Adapter with Multi‑modal Transformer for Image Generation](http://arxiv.org/abs/2412.18928v1)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/AIDC-AI/UNIC-Adapter)
+- [Steering Rectified Flow Models in the Vector Field for Controlled Image Generation](http://arxiv.org/abs/2412.00100v1) [![GitHub Stars](https://img.shields.io/github/stars/FlowChef/flowchef?style=social)](https://github.com/FlowChef/flowchef) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://flowchef.github.io) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/FlowChef)
+- [Enhancing Weakly Supervised Semantic Segmentation for Fibrosis via Controllable Image Generation](http://arxiv.org/abs/2411.03551v1)
+- [CtrLoRA: An Extensible and Efficient Framework for Controllable Image Generation](http://arxiv.org/abs/2410.09400v2) [![GitHub Stars](https://img.shields.io/github/stars/xyfJASON/ctrlora?style=social)](https://github.com/xyfJASON/ctrlora) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/xyfJASON/ctrlora)
+- [ControlAR: Controllable Image Generation with Autoregressive Models](http://arxiv.org/abs/2410.02705v3) [![GitHub Stars](https://img.shields.io/github/stars/hustvl/ControlAR?style=social)](https://github.com/hustvl/ControlAR) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/wondervictor/ControlAR)
+- [BrainDreamer: Reasoning‑Coherent and Controllable Image Generation from EEG Brain Signals via Language Guidance](http://arxiv.org/abs/2409.14021v1)
+- [CSGO: Content‑Style Composition in Text‑to‑Image Generation](http://arxiv.org/abs/2408.16766v2) [![GitHub Stars](https://img.shields.io/github/stars/InstantX-research/CSGO?style=social)](https://github.com/InstantX‑research/CSGO) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://csgo-gen.github.io) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/InstantX/CSGO)
+- [MUSES: 3D‑Controllable Image Generation via Multi‑Modal Agent Collaboration](http://arxiv.org/abs/2408.10605v5) [![GitHub Stars](https://img.shields.io/github/stars/DINGYANB/MUSES?style=social)](https://github.com/DINGYANB/MUSES) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/yanboding/MUSES)
+- [Prompt‑Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models](http://arxiv.org/abs/2406.16333v1) [![GitHub Stars](https://img.shields.io/github/stars/TruthAI-Lab/PCIG?style=social)](https://github.com/TruthAI-Lab/PCIG)
+- [Controllable Image Generation With Composed Parallel Token Prediction](http://arxiv.org/abs/2405.06535v1)
+- [Condition‑Aware Neural Network for Controlled Image Generation](http://arxiv.org/abs/2404.01143v1) [![GitHub Stars](https://img.shields.io/github/stars/mit-han-lab/efficientvit?style=social)](https://github.com/mit-han-lab/efficientvit)
+- [Refining Text‑to‑Image Generation: Towards Accurate Training‑Free Glyph‑Enhanced Image Generation](http://arxiv.org/abs/2403.16422v2)
+- [GazeFusion: Saliency‑Guided Image Generation](http://arxiv.org/abs/2407.04191v2) [![GitHub Stars](https://img.shields.io/github/stars/NYU-ICL/saliency-guided-image-generation?style=social)](https://github.com/NYU-ICL/saliency-guided-image-generation)
+- [TCIG: Two‑Stage Controlled Image Generation with Quality Enhancement through Diffusion](http://arxiv.org/abs/2403.01212v1)
+- [Text2Street: Controllable Text‑to‑Image Generation for Street Views](http://arxiv.org/abs/2402.04504v1)
+- [Spatial‑Aware Latent Initialization for Controllable Image Generation](http://arxiv.org/abs/2401.16157v1)
+- [PIXART‑δ: Fast and Controllable Image Generation with Latent Consistency Models](http://arxiv.org/abs/2401.05252v1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://pixart-alpha.github.io) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/collections/PixArt-alpha/pixart-delta-lcm)
+- [OmniControlNet: Dual‑stage Integration for Conditional Image Generation](http://arxiv.org/abs/2406.05871v1) [![GitHub Stars](https://img.shields.io/github/stars/Yuanshi9815/OminiControl?style=social)](https://github.com/Yuanshi9815/OminiControl) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/Yuanshi/OminiControl)
+
 
 
 </details>
@@ -959,6 +971,16 @@
 
 <details>
 <summary><h4>💡 Pre-Print Papers</h4></summary>
+
+- [Diffusion Self‑Guidance for Controllable Image Generation](http://arxiv.org/abs/2306.00986v3) [![GitHub Stars](https://img.shields.io/github/stars/superolly/self-guidance?style=social)](https://github.com/superolly/self-guidance)
+- [Robust Image Ordinal Regression with Controllable Image Generation](http://arxiv.org/abs/2305.04213v3) [![GitHub Stars](https://img.shields.io/github/stars/Ch3ngY1/Controllable-Image-Generation?style=social)](https://github.com/Ch3ngY1/Controllable-Image-Generation)
+- [Controllable Image Generation via Collage Representations](http://arxiv.org/abs/2304.13722v1)
+- [Diagnostic Benchmark and Iterative Inpainting for Layout‑Guided Image Generation](http://arxiv.org/abs/2304.06671v3) [![GitHub Stars](https://img.shields.io/github/stars/j-min/IterInpaint?style=social)](https://github.com/j-min/IterInpaint) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://layoutbench.github.io) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/spaces/j-min/IterInpaint-CLEVR)
+- [NoisyTwins: Class‑Consistent and Diverse Image Generation through StyleGANs](http://arxiv.org/abs/2304.05866v1) [![GitHub Stars](https://img.shields.io/github/stars/val-iisc/NoisyTwins?style=social)](https://github.com/val-iisc/NoisyTwins) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://rangwani-harsh.github.io/NoisyTwins)
+- [GlueGen: Plug and Play Multi‑modal Encoders for X‑to‑image Generation](http://arxiv.org/abs/2303.10056v2) [![GitHub Stars](https://img.shields.io/github/stars/salesforce/GlueGen?style=social)](https://github.com/salesforce/GlueGen)
+- [MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation](http://arxiv.org/abs/2302.08113v1) [![GitHub Stars](https://img.shields.io/github/stars/omerbt/MultiDiffusion?style=social)](https://github.com/omerbt/MultiDiffusion) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://multidiffusion.github.io) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/spaces/weizmannscience/MultiDiffusion)
+
+
 
 </details>
 
