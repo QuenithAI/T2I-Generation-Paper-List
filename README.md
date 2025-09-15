@@ -657,6 +657,7 @@
 <details>
 <summary><h4>💡 Pre-Print Papers</h4></summary>
 
+- [LaCon: Late-Constraint Diffusion for Steerable Guided Image Synthesis](https://arxiv.org/abs/2305.11520) [![GitHub Stars](https://img.shields.io/github/stars/AlonzoLeeeooo/LCDG?style=social)]((https://github.com/AlonzoLeeeooo/LCDG))   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/AlonzoLeeeooo/LaCon)
 - [RenAIssance: A Survey into AI Text‑to‑Image Generation in the Era of Large Model](http://arxiv.org/abs/2309.00810v1)
 - [Intriguing Properties of Diffusion Models: An Empirical Study of the Natural Attack Capability in Text‑to‑Image Generative Models](http://arxiv.org/abs/2308.15692v2)
 - [Dense Text‑to‑Image Generation with Attention Modulation](http://arxiv.org/abs/2308.12964v1) [![GitHub Stars](https://img.shields.io/github/stars/naver-ai/DenseDiffusion?style=social)](https://github.com/naver-ai/DenseDiffusion)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/naver-ai/DenseDiffusion)
