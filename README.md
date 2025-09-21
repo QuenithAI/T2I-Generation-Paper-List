@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Sep 21th, 2025)**: Add a new direction: [🔄 Unified Generation and Understanding](#-unified-generation-and-understanding).
 - **(Aug 21th, 2025)**: Add a new direction: [🎨 Personalized Image Generation](#personalized).
 - **(Aug 20th, 2025)**: Initial commit and repository structure established.
 
