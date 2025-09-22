@@ -742,6 +742,26 @@
 <details>
 <summary><h4>✅ Published Papers</h4></summary>
 
+* **[ICCV 2025]** ***UNO:*** A Universal Customization Method for Both Single and Multi‑Subject Conditioning<br>[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2504.02160) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bytedance.github.io/UNO) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/bytedance/UNO) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/bytedance-research/UNO)
+
+* **[ICCV 2025]** ***CoMPaSS:*** Enhancing Spatial Understanding in Text‑to‑Image Diffusion Models<br>[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2412.13195) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://compass.blurgy.xyz) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/blurgyy/CoMPaSS) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/blurgy/CoMPaSS-FLUX.1)
+
+* **[ICCV 2025]** ***SP‑Ctrl:*** Rethink Sparse Signals for Pose‑Guided Text‑to‑Image Generation<br>[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2506.20983) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/DREAMXFAR/SP-Ctrl)
+
+* **[ICCV 2025]** ***CompCon:*** Discovering Divergent Representations Between Text‑to‑Image Models<br>[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2509.08940) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/adobe-research/CompCon)
+
+* **[ICCV 2025]** ***C2OT:*** The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow‑Based Generation<br>[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.10636) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hkchengrex.com/C2OT) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/hkchengrex/C2OT) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/hkchengrex/c2ot-cifar10-fm)
+
+* **[ICCV 2025]** ***RAG‑Diffusion:*** Region‑Aware Text‑to‑Image Generation via Hard Binding and Soft Refinement<br>[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2411.06558) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://huggingface.co/spaces/NJU/RAG-Diffusion) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/NJU-PCALab/RAG-Diffusion)
+
+* **[ICCV 2025]** ***CharaConsist:*** Fine‑Grained Consistent Character Generation<br>[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2507.11533) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://murray-wang.github.io/CharaConsist) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Murray-Wang/CharaConsist) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/black-forest-labs/FLUX.1)
+
+* **[ICCV 2025]** ***Shadow Director:*** Parametric Shadow Control for Portrait Generation in Text‑to‑Image Diffusion Models (ICCV 2025)<br>[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.21943) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hm-cai.com/ShadowDirector)
+
+* **[ICCV 2025]** ***ImageGen‑CoT:*** Enhancing Text‑to‑Image In‑Context Learning with Chain‑of‑Thought Reasoning (ICCV 2025)<br>[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.19312) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imagegen-cot.github.io)
+
+* **[NeurIPS 2025]** ***SoftREPA:*** Aligning Text to Image in Diffusion Models is Easier Than You Think (NeurIPS 2025)<br>[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.08250) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://softrepa.github.io) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/softrepa/SoftREPA)
+
 * **[AAAI 2025]** *Simple-ControlNet: Simplifying Control Mechanism in Text-to-Image Diffusion*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://ojs.aaai.org/index.php/AAAI/article/view/32309) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/feng-zhida/Simple-ControlNet) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/fzd/SimpleControlNet) 
 
@@ -1200,6 +1220,28 @@
 
 * **[NeurIPS 2025]** ***In-Context Edit:*** *Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2504.20690) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://river-zhang.github.io/ICEdit-gh-pages/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/River-Zhang/ICEdit?tab=readme-ov-file) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/RiverZ/normal-lora/tree/main)
+
+* **[NeurIPS 2025]** ***Dual‑Conditional Inversion:*** *for Boosting Diffusion‑Based Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2506.02560)
+
+* **[NeurIPS 2025]** ***CAMILA:*** *Context‑Aware Masking for Image Editing with Language Alignment*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/119101) 
+
+* **[NeurIPS 2025]** ***EditInfinity:*** *Image Editing with Binary‑Quantized Generative Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/115392) 
+
+* **[NeurIPS 2025]** ***KRIS‑Bench:*** *Benchmarking Knowledge‑Based Reasoning in Image Editing Systems*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2505.16707) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yongliang-wu.github.io/kris_bench_project_page/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mercurystraw/Kris_Bench) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/datasets/Yongliang-Wu/kris_bench)
+
+* **[NeurIPS 2025]** ***LoongX:*** *Neural-Driven Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2507.05397) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://loongx1.github.io) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/LanceZPF/loongx)
+
+* **[NeurIPS 2025]** ***CREA:*** *CREA: A Collaborative Multi‑Agent Framework for Creative Image Editing and Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2504.05306) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://crea-diffusion.github.io)
+
+* **[NeurIPS 2025]** ***IEAP:*** *Image Editing As Programs with Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2506.04158) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yujiahu1109.github.io/IEAP/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/YujiaHu1109/IEAP) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/spaces/Cicici1109/IEAP)
+
 
 * **[CVPR 2025]** ***FDS:*** *Frequency‑Aware Denoising Score for Text‑Guided Latent Diffusion Image Editing*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2503.19191) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ivrl.github.io/fds-webpage/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/IVRL/FDS)
