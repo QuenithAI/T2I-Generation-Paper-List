@@ -473,14 +473,14 @@
 
 
 * **[CVPR 2024]** ***Discriminative Probing and Tuning:*** *for Text‑to‑Image Generation (DPT‑T2I)*<br>
-  [![Paper](https://img.shields.io-badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00710) [![Project Page](https://img.shields.io-badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dpt-t2i.github.io/) [![GitHub](https://img.shields.io-badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/LgQu/DPT-T2I) [![Hugging Face](https://img.shields.io-badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/leigangqu/DPT-T2I)
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00710) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dpt-t2i.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/LgQu/DPT-T2I) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/leigangqu/DPT-T2I)
 
 
 * **[CVPR 2024]** ***DiffAgent:*** *Fast and Accurate Text‑to‑Image API Selection with Large Language Model*<br>
-  [![Paper](https://img.shields.io-badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00611) [![GitHub](https://img.shields.io-badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/OpenGVLab/DiffAgent)
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00611) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/OpenGVLab/DiffAgent)
 
 * **[CVPR 2024]** ***FlashEval:*** *Towards Fast and Accurate Evaluation of Text‑to‑Image Diffusion Generative Models*<br>
-  [![Paper](https://img.shields.io-badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.01526) [![Project Page](https://img.shields.io-badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thu-nics.github.io/FlashEval/) [![GitHub](https://img.shields.io-badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/thu-nics/FlashEval) 
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.01526) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thu-nics.github.io/FlashEval/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/thu-nics/FlashEval) 
 
 
 * **[ECCV 2024]** ***LaVi‑Bridge:*** *Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation*<br>
@@ -1240,7 +1240,7 @@
 - [MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation](http://arxiv.org/abs/2404.11565v2)  [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://snap-research.github.io/mixture-of-attention)
 - [CAT: Contrastive Adapter Training for Personalized Image Generation](http://arxiv.org/abs/2404.07554v2)
 - [MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation](http://arxiv.org/abs/2404.05674v1) [![GitHub Stars](https://img.shields.io/github/stars/bytedance/MoMA?style=social)](https://github.com/bytedance/MoMA) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://moma-adapter.github.io) [![Hugging-Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/KunpengSong/MoMA_llava_7b)
-- [MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration](http://arxiv.org/abs/2403.15059v1) [![GitHub Stars](https://img.shields.io/github/stars/alibaba/mm-diff?style=social)](https://github.com/alibaba/mm-diff) [![Project Page](https://img.shields.io-badge/Project-Page-blue?logo=website)](https://mm-diff.github.io)
+- [MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration](http://arxiv.org/abs/2403.15059v1) [![GitHub Stars](https://img.shields.io/github/stars/alibaba/mm-diff?style=social)](https://github.com/alibaba/mm-diff) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://mm-diff.github.io)
 - [IDAdapter: Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models](http://arxiv.org/abs/2403.13535v2)
 - [Fast Personalized Text-to-Image Syntheses With Attention Injection](http://arxiv.org/abs/2403.11284v1)
 - [Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition](http://arxiv.org/abs/2402.15504v1) [![GitHub Stars](https://img.shields.io/github/stars/louisYen/Gen4Gen?style=social)](https://github.com/louisYen/Gen4Gen) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://danielchyeh.github.io/Gen4Gen)
@@ -1684,7 +1684,7 @@
 - [FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers](http://arxiv.org/abs/2412.09611v1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://fluxspace.github.io/)
 - [PrEditor3D: Fast and Precise 3D Shape Editing](http://arxiv.org/abs/2412.06592v1)
 - [MoViE: Mobile Diffusion for Video Editing](http://arxiv.org/abs/2412.06578v1) [![GitHub Stars](https://img.shields.io/github/stars/Qualcomm-AI-research/mobile-video-editing?style=social)](https://github.com/Qualcomm-AI-research/mobile-video-editing)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://qualcomm-ai-research.github.io/mobile-video-editing/)
-- [GraPE: A Generate-Plan-Edit Framework for Compositional T2I Synthesis](http://arxiv.org/abs/2412.06089v2) [![GitHub Stars](https://img.shields.io/github/stars/dair-iitd/PixEdit?style=social)](https://github.com/dair-iitd/PixEdit)   [![Project Page](https://img.shields.io-badge/Project-Page-blue?logo=website)](https://dair-iitd.github.io/GraPE/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/aggr8/PixEdit-v1)
+- [GraPE: A Generate-Plan-Edit Framework for Compositional T2I Synthesis](http://arxiv.org/abs/2412.06089v2) [![GitHub Stars](https://img.shields.io/github/stars/dair-iitd/PixEdit?style=social)](https://github.com/dair-iitd/PixEdit)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://dair-iitd.github.io/GraPE/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/aggr8/PixEdit-v1)
 - [Text-to-3D Generation by 2D Editing](http://arxiv.org/abs/2412.05929v2)
 
 
