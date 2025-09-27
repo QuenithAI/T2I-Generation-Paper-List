@@ -155,6 +155,18 @@
 * **[CVPR 2025]** *ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting*<br>
   [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Jia_ChatGen_Automatic_Text-to-Image_Generation_From_FreeStyle_Chatting_CVPR_2025_paper.html) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chengyou-jia.github.io/ChatGen-Home/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/chengyou-jia/ChatGen) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/ChengyouJia/ChatGen-Base-8B)
 
+* **[CVPR 2025]** **CoSER:** *Towards Consistent Dense Multiview Text‑to‑Image Generator for 3D Creation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Li_CoSER_Towards_Consistent_Dense_Multiview_Text-to-Image_Generator_for_3D_Creation_CVPR_2025_paper.html)
+
+* **[CVPR 2025]** **PQPP:** *A Joint Benchmark for Text‑to‑Image Prompt and Query Performance Prediction*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Poesina_PQPP_A_Joint_Benchmark_for_Text-to-Image_Prompt_and_Query_Performance_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Eduard6421/PQPP)
+
+* **[CVPR 2025]** **STEPS:** *Sequential Probability Tensor Estimation for Text‑to‑Image Hard Prompt Search*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Qiu_STEPS_Sequential_Probability_Tensor_Estimation_for_Text-to-Image_Hard_Prompt_Search_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ynqiu/STEPS) 
+
+* **[CVPR 2025]** **ACE:** *Anti‑Editing Concept Erasure in Text‑to‑Image Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_ACE_Anti-Editing_Concept_Erasure_in_Text-to-Image_Models_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/120L020904/ACE)
+
 * **[ICLR 2025]** **Improving Long‑Text Alignment:** *Improving Long‑Text Alignment for Text‑to‑Image Diffusion Models*<br>
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=2ZK8zyIt7o) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/luping-liu/LongAlign)
 
@@ -166,9 +178,6 @@
 
 * **[ICLR 2025]** **PaRa:** *Personalizing Text‑to‑Image Diffusion via Parameter Rank Reduction*<br>
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=KZgo2YQbhc)
-
-* **[ICLR 2025]** **Fluid:** *Scaling Autoregressive Text‑to‑image Generative Models with Continuous Tokens*<br>
-[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=jQP5o1VAVc)
 
 * **[ICLR 2025]** **Prompt‑Pruning:** *Not All Prompts Are Made Equal – Prompt‑based Pruning of Text‑to‑Image Diffusion Models*<br>
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=3BhZCfJ73Y) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/rezashkv/diffusion_pruning) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/rezashkv/diffusion_pruning)
@@ -377,9 +386,6 @@
 * **[CVPR 2024]** ***Continuous 3D Words:*** *Learning Continuous 3D Words for Text-to-Image Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2402.08654.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ttchengab/continuous_3d_words_code/)
 
-* **[CVPR 2024]** ***HanDiffuser:*** *Text-to-Image Generation With Realistic Hand Appearances*<br>
-[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2403.01693.pdf)
-
 * **[CVPR 2024]** ***Rich Human Feedback:*** *Rich Human Feedback for Text-to-Image Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2312.10240.pdf)
 
@@ -443,6 +449,40 @@
 * **[CVPR 2024]** ***EmoGen:*** *Emotional Image Content Generation with Text-to-Image Diffusion Models*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_EmoGen_Emotional_Image_Content_Generation_with_Text-to-Image_Diffusion_Models_CVPR_2024_paper.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/JingyuanYY/EmoGen)
 
+* **[CVPR 2024]** ***Fake‑Inversion:*** *Learning to Detect Images from Unseen Text‑to‑Image Models by Inverting Stable Diffusion*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.01023) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fake-inversion.github.io)
+
+* **[CVPR 2024]** ***ViewDiff:*** *3D‑Consistent Image Generation with Text‑to‑Image Models*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00482) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lukashoel.github.io/ViewDiff/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/facebookresearch/ViewDiff) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](#)
+
+* **[CVPR 2024]** ***LeftRefill:*** *Filling Right Canvas based on Left Reference through Generalized Text‑to‑Image Diffusion Model*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00736) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ewrfcas.github.io/LeftRefill/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ewrfcas/LeftRefill)
+
+* **[CVPR 2024]** ***OpenBias:*** *Open‑Set Bias Detection in Text‑to‑Image Generative Models*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.01162) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Picsart-AI-Research/OpenBias)
+
+* **[CVPR 2024]** ***InitNO:*** *Boosting Text‑to‑Image Diffusion Models via Initial Noise Optimization*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00896) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xiefan-guo.github.io/initno/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/xiefan-guo/initno)
+
+
+* **[CVPR 2024]** ***DreamMatcher:*** *Appearance Matching Self‑Attention for Semantically‑Consistent Text‑to‑Image Personalization*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00774) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cvlab-kaist.github.io/DreamMatcher/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/cvlab-kaist/DreamMatcher)
+
+* **[CVPR 2024]** ***HanDiffuser:*** *Text‑to‑Image Generation with Realistic Hand Appearances*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00239) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://supreethn.github.io/research/handiffuser/)
+
+
+* **[CVPR 2024]** ***Discriminative Probing and Tuning:*** *for Text‑to‑Image Generation (DPT‑T2I)*<br>
+  [![Paper](https://img.shields.io-badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00710) [![Project Page](https://img.shields.io-badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dpt-t2i.github.io/) [![GitHub](https://img.shields.io-badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/LgQu/DPT-T2I) [![Hugging Face](https://img.shields.io-badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/leigangqu/DPT-T2I)
+
+
+* **[CVPR 2024]** ***DiffAgent:*** *Fast and Accurate Text‑to‑Image API Selection with Large Language Model*<br>
+  [![Paper](https://img.shields.io-badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00611) [![GitHub](https://img.shields.io-badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/OpenGVLab/DiffAgent)
+
+* **[CVPR 2024]** ***FlashEval:*** *Towards Fast and Accurate Evaluation of Text‑to‑Image Diffusion Generative Models*<br>
+  [![Paper](https://img.shields.io-badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.01526) [![Project Page](https://img.shields.io-badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thu-nics.github.io/FlashEval/) [![GitHub](https://img.shields.io-badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/thu-nics/FlashEval) 
+
+
 * **[ECCV 2024]** ***LaVi‑Bridge:*** *Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2403.07860) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shihaozhaozsh.github.io/LaVi-Bridge/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ShihaoZhaoZSH/LaVi-Bridge)
 
@@ -499,6 +539,16 @@
 
 * **[ICLR 2024]** ***PixArt-α:*** *Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2310.00426.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pixart-alpha.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/PixArt-alpha/PixArt-alpha) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/spaces/PixArt-alpha/PixArt-alpha)
+
+* **[ICLR 2024]** ***Image Content Suppression:*** *Get What You Want, Not What You Don’t: Image Content Suppression for Text‑to‑Image Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=zpVPhvVKXk) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](N/A) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/sen-mao/SuppressEOT) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](N/A)
+
+* **[ICLR 2024]** *Confidence‑aware Reward Optimization for Fine‑tuning Text‑to‑Image Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=Let8OMe20n) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/kykim0/TextNorm)
+
+* **[ICLR 2024]** ***Würstchen:*** *An Efficient Architecture for Large‑Scale Text‑to‑Image Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=gU58d5QeGv) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/dome272/Wuerstchen) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/warp-ai/wuerstchen)
+
 
 * **[SIGGRAPH 2024]** ***RGB↔X:*** *Image Decomposition and Synthesis Using Material- and Lighting-aware Diffusion Models*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://zheng95z.github.io/assets/files/sig24-rgbx.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zheng95z.github.io/publications/rgbx24)
@@ -618,6 +668,42 @@
 
 * **[ICCV 2023]** ***DiffFit:*** *Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_DiffFit_Unlocking_Transferability_of_Large_Diffusion_Models_via_Simple_Parameter-efficient_ICCV_2023_paper.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mkshing/DiffFit-pytorch)
+
+* **[ICCV 2023]** *Inspecting the Geographical Representativeness of Images from Text‑to‑Image Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/ICCV51070.2023.00474)
+
+* **[ICCV 2023]** *Expressive Text‑to‑Image Generation with Rich Text*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/ICCV51070.2023.00694) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://songweig.github.io/rich-text-to-image/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/songweige/rich-text-to-image) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/spaces/songweig/rich-text-to-image)
+
+* **[ICCV 2023]** *Text‑Conditioned Sampling Framework for Text‑to‑Image Generation with Masked Generative Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/ICCV51070.2023.02125) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hello3196.github.io/TCTS_FAS/) 
+
+* **[ICCV 2023]** ***DALL‑EVAL:*** *Probing the Reasoning Skills and Social Biases of Text‑to‑Image Generation Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/ICCV51070.2023.00283) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/j-min/DallEval) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/datasets/j-min/PaintSkills)
+
+* **[ICCV 2023]** ***HRS‑Bench:*** *Holistic, Reliable and Scalable Benchmark for Text‑to‑Image Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/ICCV51070.2023.01834) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eslambakr.github.io/hrsbench.github.io) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/eslambakr/hrsbench.github.io)
+
+* **[ICCV 2023]** *Ablating Concepts in Text‑to‑Image Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/ICCV51070.2023.02074) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.cs.cmu.edu/~concept-ablation/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/nupurkmr9/concept-ablation) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/spaces/nupurkmr9/concept-ablation)
+
+* **[ICCV 2023]** *Editing Implicit Assumptions in Text‑to‑Image Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/ICCV51070.2023.00649) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://time-diffusion.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/bahjat-kawar/time-diffusion) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/spaces/bahjat-kawar/time-diffusion)
+
+* **[ICCV 2023]** *Discriminative Class Tokens for Text‑to‑Image Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/ICCV51070.2023.02077) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vesteinn.github.io/discriminative_class_tokens/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/idansc/discriminative_class_tokens)
+
+* **[ICCV 2023]** *Harnessing the Spatial‑Temporal Attention of Diffusion Models for High‑Fidelity Text‑to‑Image Synthesis*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/ICCV51070.2023.00714) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/UCSB-NLP-Chang/Diffusion-SpaceTime-Attn)
+
+* **[ICCV 2023]** ***Human Preference Score:*** *Better Aligning Text‑to‑Image Models with Human Preference*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/ICCV51070.2023.00200) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tgxs002.github.io/align_sd_web/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/tgxs002/align_sd) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/spaces/xswu/align_sd)
+
+* **[ICCV 2023]** *Unleashing Text‑to‑Image Diffusion Models for Visual Perception*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/ICCV51070.2023.00527) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vpd.ivg-research.xyz/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/wl-zhao/VPD)
+
+* **[ICCV 2023]** ***MagicFusion:*** *Boosting Text‑to‑Image Generation Performance by Fusing Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/ICCV51070.2023.02065) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://magicfusion.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/MagicFusion/MagicFusion.github.io)
 
 * **[NeurIPS 2023]** ***ImageReward:*** *Learning and Evaluating Human Preferences for Text-to-Image Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/pdf?id=JVzeOYEx6d) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/THUDM/ImageReward)
@@ -865,6 +951,9 @@
 * **[ICLR 2024]** ***PCDMs:*** *Advancing Pose‑Guided Image Synthesis with Progressive Conditional Diffusion Models*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2310.06313.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/muzishen/PCDMs) 
 
+* **[ICLR 2024]** ***R & B:*** *Region and Boundary Aware Zero‑shot Grounded Text‑to‑image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=8Q4uVOJ5bX) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sagileo.github.io/Region-and-Boundary/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/StevenShaw1999/RnB)
+
 * **[WACV 2024]** ***Layout Control with Cross‑Attention Guidance:*** *Training‑Free Layout Control with Cross‑Attention Guidance*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/WACV2024/papers/Chen_Training-Free_Layout_Control_With_Cross-Attention_Guidance_WACV_2024_paper.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://silent-chen.github.io/layout-guidance/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/silent-chen/layout-guidance) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/spaces/silentchen/layout-guidance)
 
@@ -1001,6 +1090,7 @@
 * **[CVPR 2025]** ***DreamCache:*** *Finetuning-Free Lightweight Personalized Image Generation via Feature Caching*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2411.17786) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emanuele97x.github.io/DreamCache) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Emanuele97x/DreamCache)
 
+
 * **[NeurIPS 2025]** ***MS-Diffusion:*** *Multi-Subject Zero-shot Image Personalization with Layout Guidance*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2406.07209) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ms-diffusion.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/MS-Diffusion/MS-Diffusion) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/doge1516/MS-Diffusion)
 
@@ -1093,6 +1183,9 @@
 * **[CVPR 2024]** ***SSR‑Encoder:*** *Encoding Selective Subject Representation for Subject‑Driven Generation*<br>
   [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_SSR-Encoder_Encoding_Selective_Subject_Representation_for_Subject-Driven_Generation_CVPR_2024_paper.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Xiaojiu-z/SSR_Encoder)
 
+* **[CVPR 2024]** ***Cross Initialization:*** *Face Personalization of Text‑to‑Image Models*<br>
+  [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://doi.org/10.1109/CVPR52733.2024.00802) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/lyuPang/CrossInitialization)
+
 * **[ECCV 2024]** ***Be Yourself:*** *Bounded Attention for Multi‑Subject Text‑to‑Image Generation*<br>
   [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2403.16990) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omer11a.github.io/bounded-attention/)
 
@@ -1110,6 +1203,9 @@
 
 * **[NeurIPS 2024]** ***AttnDreamBooth:*** *Towards Text‑Aligned Personalized Image Generation*<br>
   [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://proceedings.neurips.cc/paper_files/paper/2024/file/465a13a95741fab2e912f98adb07df1d-Paper-Conference.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://attndreambooth.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/lyuPang/AttnDreamBooth)
+
+* **[ICLR 2024]** ***DisenBooth:*** *DisenBooth: Identity‑Preserving Disentangled Tuning for Subject‑Driven Text‑to‑Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=FlhjUkC7vH) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://disenbooth.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/forchchch/DisenBooth)
 
 * **[AAAI 2024]** ***Decoupled Textual Embeddings:*** *for Customized Image Generation*<br>
   [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2312.11826.pdf)
