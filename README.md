@@ -254,6 +254,16 @@
 * **[ICLR 2025]** **Causal Variation:** *Evaluating Semantic Variation in Text‑to‑Image Synthesis: A Causal Perspective*<br>
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=NWb128pSCb) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zhuxiangru/SemVarBench)
 
+* **[NeurIPS 2025]** ***LABridge:*** *A Text–Image Latent Alignment Framework via OU Diffusion Bridge*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/119312)
+
+* **[NeurIPS 2025]** *Compositional Discrete Latent Code for High-Fidelity, Productive Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/120203) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/lavoiems/DiscreteLatentCode) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/lavoies/DLC_512x256)
+
+* **[NeurIPS 2025]** ***STARFlow:*** *Scaling Latent Normalizing Flows for High-Resolution Image Synthesis*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/120027)
+
+
 </details>
 
 <details>
@@ -872,6 +882,9 @@
 * **[ICLR 2025]** *Enhancing Compositional T2I with Reliable Random Seeds*<br>
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=openreview)](https://openreview.net/forum?id=5BSlakturs) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/doub7e/Reliable-Random-Seeds)
 
+* **[NeurIPS 2025]** *Discovering Latent Graphs with GFlowNets for Diverse Conditional Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/118199)
+
 
 </details>
 
@@ -1091,18 +1104,20 @@
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2411.17786) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emanuele97x.github.io/DreamCache) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Emanuele97x/DreamCache)
 
 
-* **[NeurIPS 2025]** ***MS-Diffusion:*** *Multi-Subject Zero-shot Image Personalization with Layout Guidance*<br>
+* **[ICLR 2025]** ***MS-Diffusion:*** *Multi-Subject Zero-shot Image Personalization with Layout Guidance*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2406.07209) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ms-diffusion.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/MS-Diffusion/MS-Diffusion) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/doge1516/MS-Diffusion)
 
-* **[NeurIPS 2025]** ***ClassDiffusion:*** *More Aligned Personalization Tuning with Explicit Class Guidance*<br>
+* **[ICLR 2025]** ***ClassDiffusion:*** *More Aligned Personalization Tuning with Explicit Class Guidance*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/pdf?id=iTm4H6N4aG) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://classdiffusion.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Rbrq03/ClassDiffusion)
 
-* **[NeurIPS 2025]** ***DreamBench++:*** *A Human-Aligned Benchmark for Personalized Image Generation*<br>
+* **[ICLR 2025]** ***DreamBench++:*** *A Human-Aligned Benchmark for Personalized Image Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2406.16855) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dreambenchplus.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/yuangpeng/dreambench_plus) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/datasets/yuangpeng/dreambench_plus)
 
-* **[NeurIPS 2025]** ***TweedieMix:*** *Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation*<br>
+* **[ICLR 2025]** ***TweedieMix:*** *Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2410.05591) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/KwonGihyun/TweedieMix) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/KwonGihyun/TweedieMix)
 
+* **[NeurIPS 2025]** ***RePIC:*** *Reinforced Post-Training for Personalizing Multi-Modal Language Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/119231) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/oyt9306/RePIC) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/Yeongtak/RePIC_Qwen2.5VL_7B)
 
 </details>
 
@@ -1378,6 +1393,12 @@
 * **[ICLR 2025]** ***OmniEdit:*** *Building Image Editing Generalist Models Through Specialist Supervision*<br>
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Hlm0cga0sv) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tiger-ai-lab.github.io/OmniEdit/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/TIGER-AI-Lab/OmniEdit) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/datasets/TIGER-Lab/OmniEdit-Filtered-1.2M)
 
+* **[NeurIPS 2025]** ***SplitFlow:*** *Flow Decomposition for Inversion-Free Text-to-Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/116281)
+* **[NeurIPS 2025]** ***IEAP:*** *Image Editing As Programs with Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/118240) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yujiahu1109.github.io/IEAP/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/YujiaHu1109/IEAP) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/Cicici1109/IEAP)
+* **[NeurIPS 2025]** ***In-Context Edit:*** *Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/119860) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://river-zhang.github.io/ICEdit-gh-pages/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/River-Zhang/ICEdit) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/sanaka87/ICEdit-MoE-LoRA)
 
 </details>
 
