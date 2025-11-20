@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Nov 20th, 2025)**: We have updated all accepted papers in AAAI 2026.
 - **(Sep 21th, 2025)**: Add a new direction: [🔄 Unified Generation and Understanding](#-unified-generation-and-understanding).
 - **(Aug 21th, 2025)**: Add a new direction: [🎨 Personalized Image Generation](#personalized).
 - **(Aug 20th, 2025)**: Initial commit and repository structure established.
@@ -68,6 +69,33 @@
 [<small>⇧ Back to ToC</small>](#contents)
 
 ### <span id="t2i">🖼️ Text-to-Image Generation</span>
+
+
+<details>
+<summary><h4>✨ 2026</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+* **[AAAI 2026]** ***Infinite‑Story:*** *A Training‑Free Consistent Text‑to‑Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2511.13002) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jihun999.github.io/)
+
+* **[AAAI 2026]** ***DOS:*** *Directional Object Separation in Text Embeddings for Multi‑Object Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2510.14376) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/dongnami/DOS)
+
+* **[AAAI 2026]** *Right Looks, Wrong Reasons: Compositional Fidelity in Text‑to‑Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2511.10136)
+
+* **[AAAI 2026]** *How Bias Binds: Measuring Hidden Associations for Bias Control in Text‑to‑Image Compositions*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2511.07091)
+
+</details>
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+</details>
+
+</details>
 
 <details>
 <summary><h4>✨ 2025</h4></summary>
@@ -269,7 +297,10 @@
 <details>
 <summary><h4>💡 Pre-Print Papers</h4></summary>
 
-
+- [Follow the Flow: On Information Flow Across Textual Tokens in Text‑to‑Image Models](https://arxiv.org/abs/2504.01137) [![GitHub Stars](https://img.shields.io/github/stars/tokeron/lens?style=social)](https://github.com/tokeron/lens) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://guykap12.github.io/guykap12.github.io-follow_the_flow/)
+- [Finding Dori: Memorization in Text‑to‑Image Diffusion Models Is Less Local Than Assumed](https://arxiv.org/abs/2507.16880)
+- [Personalized Safety Alignment for Text‑to‑Image Diffusion Models](https://arxiv.org/abs/2508.01151) [![GitHub Stars](https://img.shields.io/github/stars/M-E-AGI-Lab/PSAlign?style=social)](https://github.com/M-E-AGI-Lab/PSAlign) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://m-e-agi-lab.github.io/PSAlign/)
+- [WISE: A World Knowledge‑Informed Semantic Evaluation for Text‑to‑Image Generation](https://arxiv.org/abs/2503.07265)
 - [Plot'n Polish: Zero‑shot Story Visualization and Disentangled Editing with Text‑to‑Image Diffusion Models](http://arxiv.org/abs/2509.04446v1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://plotnpolish.github.io)
 - [Skywork UniPic 2.0: Building Kontext Model with Online RL for Unified Multimodal Model](http://arxiv.org/abs/2509.04548v1) [![GitHub Stars](https://img.shields.io/github/stars/SkyworkAI/UniPic?style=social)](https://github.com/SkyworkAI/UniPic) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://unipic-v2.github.io/)
 - [PromptEnhancer: A Simple Approach to Enhance Text‑to‑Image Models via Chain‑of‑Thought Prompt Rewriting](http://arxiv.org/abs/2509.04545v1)
@@ -575,6 +606,13 @@
 <details>
 <summary><h4>💡 Pre-Print Papers</h4></summary>
 
+- [VideoElevator: Elevating Video Generation Quality with Versatile Text‑to‑Image Diffusion Models](https://arxiv.org/abs/2403.05438) [![GitHub Stars](https://img.shields.io/github/stars/YBYBZhang/VideoElevator?style=social)](https://github.com/YBYBZhang/VideoElevator) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://videoelevator.github.io)
+- [Stylebreeder: Exploring and Democratizing Artistic Styles through Text‑to‑Image Models](https://arxiv.org/abs/2406.14599) [![GitHub Stars](https://img.shields.io/github/stars/stylebreeder/stylebreeder?style=social)](https://github.com/stylebreeder/stylebreeder) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://stylebreeder.github.io) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/datasets/stylebreeder/stylebreeder)
+- [FRAP: Faithful and Realistic Text‑to‑Image Generation with Adaptive Prompt Weighting](https://arxiv.org/abs/2408.11706) [![GitHub Stars](https://img.shields.io/github/stars/LiyaoJiang1998/FRAP?style=social)](https://github.com/LiyaoJiang1998/FRAP)
+- [ReNo: Enhancing One‑step Text‑to‑Image Models through Reward‑based Noise Optimization](https://arxiv.org/abs/2406.04312) [![GitHub Stars](https://img.shields.io/github/stars/ExplainableML/ReNO?style=social)](https://github.com/ExplainableML/ReNO)
+- [DialogGen: Multi‑modal Interactive Dialogue System for Multi‑turn Text‑to‑Image Generation](https://arxiv.org/abs/2403.08857)
+- [Generating Compositional Scenes with Text‑to‑image RGBA Instance Generation](https://arxiv.org/abs/2411.10913) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://mulanrgba.github.io)
+- [Mastering Text‑to‑Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs](https://arxiv.org/abs/2401.11708)
 - [Text-to-Image GAN with Pretrained Representations](http://arxiv.org/abs/2501.00116v1)
 - [VMix: Improving Text-to-Image Diffusion Model with Cross-Attention Mixing Control](http://arxiv.org/abs/2412.20800v1) [![GitHub Stars](https://img.shields.io/github/stars/fenfenfenfan/VMix?style=social)](https://github.com/fenfenfenfan/VMix)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://vmix-diffusion.github.io/VMix/)
 - [INFELM: In-depth Fairness Evaluation of Large Text-To-Image Models](http://arxiv.org/abs/2501.01973v3)
@@ -755,6 +793,23 @@
 <details>
 <summary><h4>💡 Pre-Print Papers</h4></summary>
 
+- [Prompt‑Free Diffusion: Taking “Text” out of Text‑to‑Image Diffusion Models](https://arxiv.org/abs/2305.16223) [![GitHub Stars](https://img.shields.io/github/stars/SHI-Labs/Prompt-Free-Diffusion?style=social)](https://github.com/SHI-Labs/Prompt-Free-Diffusion) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/shi-labs/prompt-free-diffusion)
+- [Circumventing Concept Erasure Methods for Text‑to‑Image Generative Models](https://arxiv.org/abs/2308.01508) [![GitHub Stars](https://img.shields.io/github/stars/NYU-DICE-Lab/circumventing-concept-erasure?style=social)](https://github.com/NYU-DICE-Lab/circumventing-concept-erasure)
+- [SneakyPrompt: Jailbreaking Text‑to‑Image Generative Models](https://arxiv.org/abs/2305.12082) [![GitHub Stars](https://img.shields.io/github/stars/Yuchen413/text2image_safety?style=social)](https://github.com/Yuchen413/text2image_safety)
+- [Zero‑Day Backdoor Attack against Text‑to‑Image Diffusion Models via Personalization](https://arxiv.org/abs/2305.10701)
+- [Social Biases through the Text‑to‑Image Generation Lens](https://arxiv.org/abs/2304.06034)
+- [Text‑to‑Image Diffusion Models in Generative AI: A Survey](https://arxiv.org/abs/2303.07909)
+- [Encoder‑based Domain Tuning for Fast Personalization of Text‑to‑Image Models](https://arxiv.org/abs/2302.12228) [![GitHub Stars](https://img.shields.io/github/stars/mkshing/e4t-diffusion?style=social)](https://github.com/mkshing/e4t-diffusion) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://tuning-encoder.github.io)
+- [Prompt Stealing Attacks against Text‑to‑Image Generation Models](https://arxiv.org/abs/2302.09923)
+- [SingleInsert: Inserting New Concepts from a Single Image into Text‑to‑Image Models](https://arxiv.org/abs/2310.08094) [![GitHub Stars](https://img.shields.io/github/stars/JarrentWu1031/SingleInsert?style=social)](https://github.com/JarrentWu1031/SingleInsert) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://jarrentwu1031.github.io/SingleInsert-web)
+- [Improving Compositional Text‑to‑image Generation with Large Vision‑Language Models](https://arxiv.org/abs/2310.06311)
+- [TIFA: Accurate and Interpretable Text‑to‑Image Faithfulness Evaluation](https://arxiv.org/abs/2303.11897)
+- [Navigating Text‑to‑Image Customization: From LyCORIS Fine‑Tuning to Model Evaluation](https://arxiv.org/abs/2309.14859)
+- [Hypernym Understanding towards Text‑to‑Image Model WordNet Hierarchy](https://arxiv.org/abs/2310.09247)
+- [Aligning Text‑to‑Image Diffusion Models with Reward Backpropagation](https://arxiv.org/abs/2310.03739)
+- [Prompt Expansion for Adaptive Text‑to‑Image Generation](https://arxiv.org/abs/2312.16720)
+- [Localizing and Editing Knowledge in Text‑to‑Image Generative Models](https://arxiv.org/abs/2310.13730)
+- [Localizing Object‑level Shape Variations with Text‑to‑Image Diffusion Models](https://arxiv.org/abs/2303.11306)
 - [LaCon: Late-Constraint Diffusion for Steerable Guided Image Synthesis](https://arxiv.org/abs/2305.11520) [![GitHub Stars](https://img.shields.io/github/stars/AlonzoLeeeooo/LCDG?style=social)]((https://github.com/AlonzoLeeeooo/LCDG))   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/AlonzoLeeeooo/LaCon)
 - [RenAIssance: A Survey into AI Text‑to‑Image Generation in the Era of Large Model](http://arxiv.org/abs/2309.00810v1)
 - [Intriguing Properties of Diffusion Models: An Empirical Study of the Natural Attack Capability in Text‑to‑Image Generative Models](http://arxiv.org/abs/2308.15692v2)
@@ -833,6 +888,23 @@
 ### <span id="conditional">🕹️ Conditional Image Generation</span>
 
 <details>
+<summary><h4>✨ 2026</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+
+</details>
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+</details>
+
+</details>
+
+
+
+<details>
 <summary><h4>✨ 2025</h4></summary>
 
 <details>
@@ -856,7 +928,6 @@
 
 * **[ICCV 2025]** ***ImageGen‑CoT:*** Enhancing Text‑to‑Image In‑Context Learning with Chain‑of‑Thought Reasoning (ICCV 2025)<br>[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.19312) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imagegen-cot.github.io)
 
-* **[NeurIPS 2025]** ***SoftREPA:*** Aligning Text to Image in Diffusion Models is Easier Than You Think (NeurIPS 2025)<br>[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.08250) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://softrepa.github.io) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/softrepa/SoftREPA)
 
 * **[AAAI 2025]** *Simple-ControlNet: Simplifying Control Mechanism in Text-to-Image Diffusion*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://ojs.aaai.org/index.php/AAAI/article/view/32309) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/feng-zhida/Simple-ControlNet) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/fzd/SimpleControlNet) 
@@ -885,6 +956,7 @@
 * **[NeurIPS 2025]** *Discovering Latent Graphs with GFlowNets for Diverse Conditional Image Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://neurips.cc/virtual/2025/poster/118199)
 
+* **[NeurIPS 2025]** ***SoftREPA:*** Aligning Text to Image in Diffusion Models is Easier Than You Think (NeurIPS 2025)<br>[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.08250) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://softrepa.github.io) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/softrepa/SoftREPA)
 
 </details>
 
@@ -1087,6 +1159,26 @@
 [<small>⇧ Back to ToC</small>](#contents)
 
 ### <span id="personalized">🎨 Personalized Image Generation</span>
+
+<details>
+<summary><h4>✨ 2026</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+* **[AAAI 2026]** *PerTouch: VLM-Driven Agent for Personalized and Semantic Image Retouching*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2511.12998)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Auroral703/PerTouch#readme)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Auroral703/PerTouch)
+
+</details>
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+</details>
+
+</details>
+
 
 <details>
 <summary><h4>✨ 2025</h4></summary>
@@ -1322,6 +1414,32 @@
 [<small>⇧ Back to ToC</small>](#contents)
 
 ### <span id="editing">✂️ Image Editing</span>
+
+<details>
+<summary><h4>✨ 2026</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+* **[AAAI 2026]** ***X2Edit:*** *Revisiting Arbitrary-Instruction Image Editing through Self-Constructed Data and Task-Aware Representation Learning*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2508.07607.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pan-zihao.github.io/publications/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/OPPO-Mente-Lab/X2Edit) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/OPPOer/X2Edit)
+
+* **[AAAI 2026]** ***FIA-Edit:*** *Frequency-Interactive Attention for Efficient and High-Fidelity Inversion-Free Text-Guided Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2511.12151.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/kk42yy/FIA-Edit) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/kk42yy/FIA-Edit)
+
+* **[AAAI 2026]** ***X-Planner:*** *Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2507.05259.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danielchyeh.github.io/x-planner/)
+
+
+</details>
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+</details>
+
+</details>
+
+
 
 <details>
 <summary><h4>✨ 2025</h4></summary>
@@ -1793,6 +1911,30 @@
 
 
 ### <span id="unified">🔄 Unified Generation and Understanding</span>
+
+<details>
+<summary><h4>✨ 2026</h4></summary>
+
+<details>
+<summary><h4>✅ Published Papers</h4></summary>
+
+* **[AAAI 2026]** ***SymmFlow:*** *Symmetrical Flow Matching: Unified Image Generation, Segmentation, and Classification with Score-Based Generative Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2506.10634.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://caetas.github.io/symmflow.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/caetas/SymmetricFlow) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/ocaetas/SymmFlow)
+
+* **[AAAI 2026]** ***DualSpeechLM:*** *Towards Unified Speech Understanding and Generation via Dual Speech Token Modeling with Large Language Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2508.08961.pdf)
+
+* **[AAAI 2026]** ***URaG:*** *Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2511.10552.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/shi-yx/URaG)
+
+</details>
+
+<details>
+<summary><h4>💡 Pre-Print Papers</h4></summary>
+</details>
+
+</details>
+
 
 <details>
 <summary><h4>✨ 2025</h4></summary>
