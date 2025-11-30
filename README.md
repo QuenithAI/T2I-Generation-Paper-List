@@ -2156,7 +2156,7 @@
 
 QuenithAI is a professional organization composed of top researchers, dedicated to providing high-quality 1-on-1 research mentoring for university students worldwide. Our mission is to help students bridge the gap from theoretical knowledge to cutting-edge research and publish their work in top-tier conferences and journals.
 
-Maintaining this `Awesome Text-to-Image Generation` list requires significant effort, just as completing a high-quality paper requires focused dedication and expert guidance. If you're looking for one-on-one support from top scholars on your own research project, to quickly identify innovative ideas and make publications, we invite you to contact us ASAP.
+Maintaining this `T2I-Generation-Paper-List` list requires significant effort, just as completing a high-quality paper requires focused dedication and expert guidance. If you're looking for one-on-one support from top scholars on your own research project, to quickly identify innovative ideas and make publications, we invite you to contact us ASAP.
 
 ➡️ **Contact us via [WeChat](assets/wechat.jpg) or [E-mail](mailto:your.email@example.com) to start your research journey.**
 
