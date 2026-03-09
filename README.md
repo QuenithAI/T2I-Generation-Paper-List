@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Mar 9th, 2026)**: We have updated all accepted papers in CVPR 2026.
 - **(Nov 20th, 2025)**: We have updated all accepted papers in AAAI 2026.
 - **(Sep 21th, 2025)**: Add a new direction: [🔄 Unified Generation and Understanding](#-unified-generation-and-understanding).
 - **(Aug 21th, 2025)**: Add a new direction: [🎨 Personalized Image Generation](#personalized).
@@ -57,6 +58,7 @@
 - [🗂️ Datasets](#️-datasets)
 - [🎓 About Us](#-about-us)
 - [🤝 Contributing](#-contributing)
+- [💬 Join the Community](#-join-the-community)
 
 ---
 
@@ -88,6 +90,24 @@
 
 * **[AAAI 2026]** *How Bias Binds: Measuring Hidden Associations for Bias Control in Text‑to‑Image Compositions*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2511.07091)
+
+* **[CVPR 2026]** *Improving Text-to-Image Generation with Intrinsic Self-Confidence Rewards*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.00918) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wookiekim.github.io/SOLACE/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/wookiekim/SOLACE)
+
+* **[CVPR 2026]** *Enhancing Spatial Understanding in Image Generation via Reward Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.24233) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dagroup-pku.github.io/SpatialT2I/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/DAGroup-PKU/SpatialT2I)
+
+* **[CVPR 2026]** *RAISE: Requirement-Adaptive Evolutionary Refinement for Training-Free Text-to-Image Alignment*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.00483) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/LiyaoJiang1998/RAISE)
+
+* **[CVPR 2026]** *CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.03281) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hanyang-21.github.io/CFG-Ctrl/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/hanyang-21/CFG-Ctrl)
+
+* **[CVPR 2026]** *Toward Early Quality Assessment of Text-to-Image Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.02829) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Guhuary/ProbeSelect)
+
+* **[CVPR 2026]** *AutoDebias: Automated Framework for Debiasing Text-to-Image Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.00445)
 
 </details>
 
@@ -902,6 +922,11 @@
 <details>
 <summary><h4>✅ Published Papers</h4></summary>
 
+* **[CVPR 2026]** *EmoStyle: Emotion-Driven Image Stylization*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2512.05478) ![Project Page](https://img.shields.io/badge/Project-N/A-lightgrey?style=for-the-badge&logo=googlechrome&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/JingyuanYY/EmoStyle) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/lilwhit3/EmoStyle)
+
+* **[CVPR 2026]** *Cycle-Consistent Tuning for Layered Image Decomposition*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2602.20989) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vcc.tech/research/2026/ImgDecom) ![GitHub](https://img.shields.io/badge/GitHub-N/A-lightgrey?style=for-the-badge&logo=github) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-N/A-lightgrey?style=for-the-badge)
 
 </details>
 
@@ -1182,6 +1207,34 @@
 [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Auroral703/PerTouch#readme)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Auroral703/PerTouch)
 
+* **[CVPR 2026]** ***USO:*** *Unified Style and Subject-Driven Generation via Disentangled and Reward Learning*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.18966) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bytedance.github.io/USO/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/bytedance/USO) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/bytedance-research/USO)
+
+* **[CVPR 2026]** ***UMO:*** *Scaling Multi-Identity Consistency for Image Customization via Matching Reward*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2509.06818) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bytedance.github.io/UMO/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/bytedance/UMO) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/bytedance-research/UMO)
+
+* **[CVPR 2026]** *A Training-Free Style-Personalization via SVD-Based Feature Decomposition*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2507.04482)
+
+* **[CVPR 2026]** ***DCoAR:*** *Deep Concept Injection into Unified Autoregressive Models for Personalized Text-to-Image Generation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.07341) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/KZF-kzf/CoAR)
+
+* **[CVPR 2026]** ***PositionIC:*** *Unified Position and Identity Consistency for Image Customization*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2507.13861) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/MeiGen-AI/PositionIC) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/ScottHan/PositionIC)
+
+* **[CVPR 2026]** ***Omni-Attribute:*** *Open-vocabulary Attribute Encoder for Visual Concept Personalization*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2512.10955) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://snap-research.github.io/omni-attribute/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/snap-research/omni-attribute)
+
+* **[CVPR 2026]** *Visual Personalization Turing Test*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2601.22680) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://snap-research.github.io/vptt/)
+
+* **[CVPR 2026]** ***Scone:*** *Bridging Composition and Distinction in Subject-Driven Image Generation via Unified Understanding-Generation Modeling*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2512.12675) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Ryann-Ran/Scone) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/Ryann829/Scone)
+
+* **[CVPR 2026]** ***ConceptPrism:*** *Concept Disentanglement in Personalized Diffusion Models via Residual Token Optimization*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.19575)
+
+* **[CVPR 2026 Findings]** ***OpenSubject:*** *Leveraging Video-Derived Identity and Diversity Priors for Subject-driven Image Generation and Manipulation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2512.08294) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/LAW1223/OpenSubject) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/AIPeanutman/OpenSubject)
+
+* **[CVPR 2026]** ***The Consistency Critic:*** *Correcting Inconsistencies in Generated Images via Reference-Guided Attentive Alignment*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2511.20614) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ouyangziheng.github.io/ImageCritic-Page/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/HVision-NKU/ImageCritic) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/ziheng1234/ImageCritic)
+
+* **[CVPR 2026]** ***Proxy-Tuning:*** *Tailoring Multimodal Autoregressive Models for Subject-Driven Image Generation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.10125)
+
+* **[CVPR 2026]** ***CRAFT-LoRA:*** *Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.18936)
+
+* **[CVPR 2026]** ***IdGlow:*** *Dynamic Identity Modulation for Multi-Subject Generation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.00607)
+
 </details>
 
 <details>
@@ -1445,6 +1498,35 @@
 * **[AAAI 2026]** ***X-Planner:*** *Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2507.05259.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danielchyeh.github.io/x-planner/)
 
+* **[CVPR 2026]** *Delta Velocity Rectified Flow for Text-to-Image Editing*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.05342) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Harvard-AI-and-Robotics-Lab/DeltaVelocityRectifiedFlow)
+
+* **[CVPR 2026]** *BeautyGRPO: Aesthetic Alignment for Face Retouching via Dynamic Path Guidance and Fine-Grained Preference Modeling*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.01163) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://beautygrpo.github.io/)
+
+* **[CVPR 2026]** *Towards Source-Aware Object Swapping with Initial Noise Perturbation*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.23697)
+
+* **[CVPR 2026]** *ChordEdit: One-Step Low-Energy Transport for Image Editing*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.19083) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chordedit.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ChordEdit/ChordEdit)
+
+* **[CVPR 2026]** *From Scale to Speed: Adaptive Test-Time Scaling for Image Editing*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.00141)
+
+* **[CVPR 2026]** *Kontinuous Kontext: Continuous Strength Control for Instruction-based Image Editing*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.08532) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://snap-research.github.io/kontinuouskontext/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/snap-research/kontinuouskontext) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/RishubhPar/KontinuousKontextWeights)
+
+* **[CVPR 2026]** *SliderEdit: Continuous Image Editing with Fine-Grained Instruction Control*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.09715) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://armanzarei.github.io/SliderEdit/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ArmanZarei/SliderEdit)
+
+* **[CVPR 2026]** *JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.23002) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jarvisevo.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/LYL1015/JarvisEvo) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/JarvisEvo/JarvisEvo)
+
+* **[CVPR 2026]** *MotionEdit: Benchmarking and Learning Motion-Centric Image Editing*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.10284) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://motion-edit.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/elainew728/motion-edit) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/elaine1wan/motionedit)
+
+* **[CVPR 2026]** *InterCoG: Towards Spatially Precise Image Editing with Interleaved Chain-of-Grounding Reasoning*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.01586)
+
+* **[CVPR 2026]** *InstantRetouch: Efficient and High-Fidelity Instruction-Guided Image Retouching with Bilateral Space*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://gnwekge78707.github.io/papers/DistilledBilateral___CVPR_2026__arxiv_.pdf)
+
+* **[CVPR 2026]** *REASONEDIT: Towards Reasoning-Enhanced Image Editing Models*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.22625) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/stepfun-ai/Step1X-Edit) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/stepfun-ai/Step1X-Edit-v1p2)
+
+* **[CVPR 2026]** *OneHOI: Unifying Human-Object Interaction Generation and Editing*<br> [![Paper](https://img.shields.io/badge/Paper-Page-red?style=for-the-badge)](https://jiuntian.com/publications/) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jiuntian.github.io/OneHOI/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/jiuntian/OneHOI)
+
+* **[CVPR 2026]** *Generative Visual Chain-of-Thought for Image Editing*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.01893) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pris-cv.github.io/GVCoT/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/PRIS-CV/GVCoT)
+
+* **[CVPR 2026]** *InstructMix2Mix: Consistent Sparse-View Editing Through Multi-View Model Personalization*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.14899) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danielgilo.github.io/instruct-mix2mix/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/DanielGilo/instruct-mix2mix/)
 
 </details>
 
@@ -1950,6 +2032,12 @@
 * **[AAAI 2026]** ***URaG:*** *Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2511.10552.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/shi-yx/URaG)
 
+* **[CVPR 2026]** ***DREAM:*** *Where Visual Understanding Meets Text-to-Image Generation*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-D15E5E?style=for-the-badge)](https://arxiv.org/abs/2603.02667) ![Project Page](https://img.shields.io/badge/Project%20Page-N%2FA-lightgrey?style=for-the-badge&logo=googlechrome&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/chaoli-charlie/dream) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-N%2FA-lightgrey?style=for-the-badge)
+
+* **[CVPR 2026]** ***Mobile-O:*** *Unified Multimodal Understanding and Generation on Mobile Device*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-D15E5E?style=for-the-badge)](https://arxiv.org/abs/2602.20161) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amshaker.github.io/Mobile-O/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Amshaker/Mobile-O) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/Amshaker/Mobile-O-0.5B)
+
+* **[CVPR 2026]** ***U-Mind:*** *A Unified Framework for Real-Time Multimodal Interaction with Audiovisual Generation*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-D15E5E?style=for-the-badge)](https://arxiv.org/abs/2602.23739)
+
 </details>
 
 <details>
@@ -2180,3 +2268,10 @@ Maintaining this `T2I-Generation-Paper-List` list requires significant effort, j
 ## <span id="contributing">🤝 Contributing</span>
 
 Contributions are welcome! Please see our [**Contribution Guidelines**](CONTRIBUTING.md) for details on how to add new papers, correct information, or improve the repository.
+
+---
+
+## <span id="community">💬 Join the Community</span>
+
+Join our community to stay up-to-date with the latest advancements, share your work, and collaborate with other researchers and developers in the field of video generation.
+**If you are interested, please contact our administrator to join the group.**
