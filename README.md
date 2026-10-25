@@ -39,8 +39,8 @@
 - **(Oct 24th, 2026)**: We have updated all accepted papers in **ICLR 2026**.
 - **(Mar 9th, 2026)**: We have updated all accepted papers in **CVPR 2026**.
 - **(Nov 20th, 2025)**: We have updated all accepted papers in **AAAI 2026**.
-- **(Sep 21th, 2025)**: Add a new direction: [🔄 Unified Generation and Understanding](#-unified-generation-and-understanding).
-- **(Aug 21th, 2025)**: Add a new direction: [🎨 Personalized Image Generation](#personalized).
+- **(Sep 21st, 2025)**: Add a new direction: [🔄 Unified Generation and Understanding](#-unified-generation-and-understanding).
+- **(Aug 21st, 2025)**: Add a new direction: [🎨 Personalized Image Generation](#personalized).
 - **(Aug 20th, 2025)**: Initial commit and repository structure established.
 
 </details>
