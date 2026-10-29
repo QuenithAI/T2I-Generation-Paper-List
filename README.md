@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Oct 29th, 2026)**: We have updated all accepted papers in **ACL 2026**.
 - **(Oct 24th, 2026)**: We have updated all accepted papers in **ICLR 2026**.
 - **(Mar 9th, 2026)**: We have updated all accepted papers in **CVPR 2026**.
 - **(Nov 20th, 2025)**: We have updated all accepted papers in **AAAI 2026**.
@@ -91,6 +92,39 @@
 
 * **[AAAI 2026]** *How Bias Binds: Measuring Hidden Associations for Bias Control in Text‑to‑Image Compositions*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2511.07091)
+
+* **[ACL 2026]** *Automatic and Reliable Evaluation for Academic Caption-to-Figure Generation with LMMs*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.2055.pdf)
+
+* **[ACL 2026]** *Cross-Modal Masked Compositional Concept Modeling for Enhancing Visio-Linguistic Compositionality*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.1490.pdf)
+
+* **[ACL 2026]** *Evaluating Visual Narrative Coherence in Story Visualization via Diversified Storylines*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.1578.pdf)
+
+* **[ACL 2026]** ***Follow the Flow:*** *On Information Flow Across Textual Tokens in Text-to-Image Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2504.01137) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://guykap12.github.io/guykap12.github.io-follow_the_flow/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/tokeron/lens)
+
+* **[ACL 2026]** ***IGenBench:*** *Benchmarking the Reliability of Text-to-Infographic Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.1713.pdf)
+
+* **[ACL 2026]** ***LADR:*** *Locality-Aware Dynamic Rescue for Efficient Text-to-Image Generation with Diffusion Large Language Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.1251.pdf)
+
+* **[ACL 2026]** ***Retrievals Can Be Detrimental:*** *Unveiling the Backdoor Vulnerability of Retrieval-Augmented Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.242.pdf)
+
+* **[ACL 2026]** ***REVEALER:*** *Reinforcement-Guided Visual Reasoning for Element-Level Text-Image Alignment Evaluation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.2200.pdf)
+
+* **[ACL 2026]** ***SciFlow-Bench:*** *Evaluating Structure-Aware Scientific Diagram Generation via Inverse Parsing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.807.pdf)
+
+* **[ACL 2026]** ***ServImage:*** *An Image Generation and Editing Benchmark from Real-world Commercial Imaging Services*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.2014.pdf)
+
+* **[ACL 2026]** ***Unified Thinker:*** *A General Reasoning Core for Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.484.pdf)
 
 * **[CVPR 2026]** *Improving Text-to-Image Generation with Intrinsic Self-Confidence Rewards*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.00918) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wookiekim.github.io/SOLACE/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/wookiekim/SOLACE)
@@ -760,7 +794,6 @@
 - [BLIP3o-NEXT: Next Frontier of Native Image Generation](https://arxiv.org/pdf/2510.15857) [![GitHub Stars](https://img.shields.io/github/stars/JiuhaiChen/BLIP3o?style=social)](https://github.com/JiuhaiChen/BLIP3o) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://jiuhaichen.github.io/BLIP3o-NEXT.github.io/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/BLIP3o/BLIP3o-NEXT-SFT-3B)
 - [UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image Generation](https://arxiv.org/pdf/2510.18701) [![GitHub Stars](https://img.shields.io/github/stars/CodeGoat24/UniGenBench?style=social)](https://github.com/CodeGoat24/UniGenBench) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/datasets/CodeGoat24/UniGenBench)
 - [Generating an Image From 1,000 Words: Enhancing Text-to-Image With Structured Captions](https://arxiv.org/pdf/2511.06876) [![GitHub Stars](https://img.shields.io/github/stars/Bria-AI/FIBO?style=social)](https://github.com/Bria-AI/FIBO) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/briaai/FIBO)
-- [Follow the Flow: On Information Flow Across Textual Tokens in Text‑to‑Image Models](https://arxiv.org/abs/2504.01137) [![GitHub Stars](https://img.shields.io/github/stars/tokeron/lens?style=social)](https://github.com/tokeron/lens) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://guykap12.github.io/guykap12.github.io-follow_the_flow/)
 - [Finding Dori: Memorization in Text‑to‑Image Diffusion Models Is Less Local Than Assumed](https://arxiv.org/abs/2507.16880)
 - [Personalized Safety Alignment for Text‑to‑Image Diffusion Models](https://arxiv.org/abs/2508.01151) [![GitHub Stars](https://img.shields.io/github/stars/M-E-AGI-Lab/PSAlign?style=social)](https://github.com/M-E-AGI-Lab/PSAlign) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://m-e-agi-lab.github.io/PSAlign/)
 - [WISE: A World Knowledge‑Informed Semantic Evaluation for Text‑to‑Image Generation](https://arxiv.org/abs/2503.07265)
@@ -1350,6 +1383,12 @@
 <details>
 <summary><h4>✅ Published Papers</h4></summary>
 
+* **[ACL 2026]** ***ReContraster:*** *Making Your Posters Stand Out with Regional Contrast*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.98.pdf)
+
+* **[ACL 2026]** ***Vector Calligrapher:*** *Generating Scalable Vector Graphics via Structured Linguistic Supervision*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.511.pdf)
+
 * **[CVPR 2026]** *EmoStyle: Emotion-Driven Image Stylization*<br>
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2512.05478) ![Project Page](https://img.shields.io/badge/Project-N/A-lightgrey?style=for-the-badge&logo=googlechrome&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/JingyuanYY/EmoStyle) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/lilwhit3/EmoStyle)
 
@@ -1463,7 +1502,7 @@
 * **[ICLR 2025]** *IFAdapter: Instance Feature Control for Grounded T2I*<br>
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=openreview)](https://openreview.net/forum?id=25l4SWH2eS) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ifadapter.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/WUyinwei-hah/IFAdapter) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/WuYW/IFAdapter)
 
-* **[ICLR 2025]** *LayerFusion / Harmonized Multi-Layer T2I (Foreground+Background)*<br>
+* **[ICLR 2025]** *LayerFusion/Harmonized Multi-Layer T2I (Foreground+Background)*<br>
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=openreview)](https://openreview.net/forum?id=OE2T7AgQFN) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://layerfusion.github.io/)
 
 * **[ICLR 2025]** *Enhancing Compositional T2I with Reliable Random Seeds*<br>
@@ -1686,6 +1725,12 @@
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2511.12998)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Auroral703/PerTouch#readme)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Auroral703/PerTouch)
+
+* **[ACL 2026]** ***From Competition to Synergy:*** *Unlocking Reinforcement Learning for Subject-Driven Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.1908.pdf)
+
+* **[ACL 2026]** *Multimodal Large Language Models for Multi-Subject In-Context Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.1518.pdf)
 
 * **[CVPR 2026]** ***USO:*** *Unified Style and Subject-Driven Generation via Disentangled and Reward Learning*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.18966) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bytedance.github.io/USO/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/bytedance/USO) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/bytedance-research/USO)
 
@@ -2014,6 +2059,9 @@
 
 * **[AAAI 2026]** ***X-Planner:*** *Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2507.05259.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danielchyeh.github.io/x-planner/)
+
+* **[ACL 2026]** ***I2E:*** *From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.2076.pdf)
 
 * **[CVPR 2026]** *Delta Velocity Rectified Flow for Text-to-Image Editing*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.05342) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Harvard-AI-and-Robotics-Lab/DeltaVelocityRectifiedFlow)
 
@@ -2403,7 +2451,7 @@
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2024/papers/Bodur_Prompt_Augmentation_for_Self-supervised_Text-guided_Image_Manipulation_CVPR_2024_paper.pdf)
 
 
-* **[CVPR 2024]** ***StyleFeatureEditor:*** *The Devil is in the Details — StyleFeatureEditor for Detail‑Rich StyleGAN Inversion and High Quality Image Editing*<br>
+* **[CVPR 2024]** ***StyleFeatureEditor:*** *The Devil is in the Details—StyleFeatureEditor for Detail‑Rich StyleGAN Inversion and High Quality Image Editing*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2024/papers/Bobkov_The_Devil_is_in_the_Details_StyleFeatureEditor_for_Detail-Rich_StyleGAN_CVPR_2024_paper.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/AIRI-Institute/StyleFeatureEditor)
 
 
@@ -2451,7 +2499,7 @@
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2309.17102.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mllm-ie.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/apple/ml-mgie)
 
 
-* **[ICLR 2024]** ***SDE‑Drag:*** *The Blessing of Randomness — SDE Beats ODE in General Diffusion‑based Image Editing*<br>
+* **[ICLR 2024]** ***SDE‑Drag:*** *The Blessing of Randomness—SDE Beats ODE in General Diffusion‑based Image Editing*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2311.01410.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ml-gsai.github.io/SDE-Drag-demo/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ML-GSAI/SDE-Drag)
 
 
@@ -2619,6 +2667,12 @@
 
 * **[AAAI 2026]** ***URaG:*** *Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/pdf/2511.10552.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/shi-yx/URaG)
+
+* **[ACL 2026]** ***FactVerse:*** *A Benchmark for Factual Consistency in Interleaved Image–Text Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.1323.pdf)
+
+* **[ACL 2026]** ***UniCorn:*** *Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.621.pdf)
 
 * **[CVPR 2026]** ***DREAM:*** *Where Visual Understanding Meets Text-to-Image Generation*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-D15E5E?style=for-the-badge)](https://arxiv.org/abs/2603.02667) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/chaoli-charlie/dream) 
 
