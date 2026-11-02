@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Nov 2nd, 2026)**: We have updated all accepted papers in **ICML 2026**.
 - **(Oct 29th, 2026)**: We have updated all accepted papers in **ACL 2026**.
 - **(Oct 24th, 2026)**: We have updated all accepted papers in **ICLR 2026**.
 - **(Mar 9th, 2026)**: We have updated all accepted papers in **CVPR 2026**.
@@ -582,6 +583,354 @@
 * **[ICLR 2026]** *Weak-to-Strong Diffusion with Reflection*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=tg19FVh3p1)
 
+* **[ICML 2026]** ***$\sigma$:*** *Sigmoid Modulation for Ultra High Resolution Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=47JZSOkw5C) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/bxuanz/SigMa)
+
+* **[ICML 2026]** *(1D) Ordered Tokens Enable Efficient Test-Time Search*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=Gr3wxsTqLw) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://soto.epfl.ch/)
+
+* **[ICML 2026]** *A Time-Reparameterized Cumulative Intensity Extrapolation Sampler for Discrete Flow Matching*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=Qmlf1LwnBM)
+
+* **[ICML 2026]** *A Unified Framework for Diffusion Model Unlearning with f-Divergence*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=6kyKD3bVi6) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/tonellolab/f-DMU)
+
+* **[ICML 2026]** *Absorbing Quantization Error by Deformable Noise Scheduler for Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=IHST9i1wP4) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ZephyrYoung-eYuan/DNS_AQE)
+
+* **[ICML 2026]** ***Advantage Weighted Matching:*** *Aligning RL with Pretraining in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=nLY2pOYBrJ) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/scxue/advantage_weighted_matching)
+
+* **[ICML 2026]** *Alignment-Guided Score Matching for Text-to-Image Alignment in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=vKWxArobP3) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jaayeon.github.io/AGSM/)
+
+* **[ICML 2026]** *Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=ZSt77efXHI) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/YunzeTong/TurningPoint-GRPO)
+
+* **[ICML 2026]** ***Ambient Dataloops:*** *Generative Models for Dataset Refinement*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=Li5ki5Dopo) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adrianrm99.github.io/_pages/ambient_dataloops/)
+
+* **[ICML 2026]** ***AtelierEval:*** *Agentic Evaluation of Humans & LLMs as Text-to-Image Prompters*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=Q8LOMDdr2y) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Astarojth/AtelierEval)
+
+* **[ICML 2026]** ***Attention Sinks in Diffusion Transformers:*** *A Causal Analysis*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=QwE8cOtclR) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/wfz666/ICML26-attention-sink)
+
+* **[ICML 2026]** *Benchmarking and Evolving Reason-Reflect-Rectify for Reflective Visual Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=o0mCWplKnL) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/xiaomoguhz/R3-Bench)
+
+* **[ICML 2026]** *Benchmarking and Improving Fine-Grained Text-to-Image Alignment via Paired Reinforcement Learning*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=nC1A9GSm3S)
+
+* **[ICML 2026]** ***Beyond Generative Priors:*** *Minority Sampling with JEPA-Guided Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=SHLRiQAlMp) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/soobin-um/jepa-guidance)
+
+* **[ICML 2026]** ***Both Semantics and Reconstruction Matter:*** *Making Representation Encoders Ready for Text-to-Image Generation and Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=UmlXZ4t44h)
+
+* **[ICML 2026]** ***Breaking the Lock-in:*** *Diversifying Text-to-Image Generation via Representation Modulation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=VIAJO1MJA1) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/daheekwon/DAVE)
+
+* **[ICML 2026]** *Budget-Constrained Step-Level Diffusion Caching*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=kN0NMoVWXG) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Westlake-AGI-Lab/BudCache)
+
+* **[ICML 2026]** ***Cert-LAS:*** *Toward Certified Model Ownership Verification for Text-to-Image Diffusion Models via Layer-Adaptive Smoothing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=KmDPaiwdZh) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Leyi-Qi/Cert-LAS)
+
+* **[ICML 2026]** ***CoF-T2I:*** *Video Models as Pure Visual Reasoners for Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=xI364qxvhX)
+
+* **[ICML 2026]** *Concept Removal for Frontier Image Generative Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=s7NR3XGdwq)
+
+* **[ICML 2026]** ***Conformal Reliability:*** *A New Evaluation Metric for Conditional Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=47BMisNtar) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ggc29.github.io/CReL/)
+
+* **[ICML 2026]** ***ContrastiveCFG:*** *Guiding Diffusion Sampling by Contrasting Positive and Negative Concepts*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=RZ5uhiNAbx)
+
+* **[ICML 2026]** ***CSD:*** *Content-aware Speculative Decoding for Efficient Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=pJbip42zR6) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/aderfebr/CSD)
+
+* **[ICML 2026]** ***DDIM Inversion as a Perturbation Amplifier:*** *Breaking Mimicry Protection via Reconstruction Error Minimization*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=A2KdZrSSZl) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Violette-py/DIRP)
+
+* **[ICML 2026]** ***DetailMaster:*** *Can Your Text-to-Image Model Handle Long Prompts?*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=dHH6UrXIQ5) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/datajuicer/data-juicer/tree/DetailMaster)
+
+* **[ICML 2026]** *Diagnosing and Correcting Concept Omission in Multimodal Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=uvSU4dNYv3) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/KangHyun-dsail/OSI)
+
+* **[ICML 2026]** ***Diffusion Controller:*** *Framework, Algorithms and Parameterization*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=IGTMjtehxq)
+
+* **[ICML 2026]** *Distillation Models are Good Samplers for Diffusion Reinforcement Learning*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=VkMWujvv2c) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/HiDream-ai/DMSampler)
+
+* **[ICML 2026]** ***DyPE:*** *Dynamic Position Extrapolation for Ultra High Resolution Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=JfjYFLHqus) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://noamissachar.github.io/DyPE/)
+
+* **[ICML 2026]** *Elastic Diffusion Transformer*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=493YXJPdeq)
+
+* **[ICML 2026]** *Entropy-Aware Dynamic KV Cache Sparsification for Autoregressive Image Generation and Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=j1CQevnH6D)
+
+* **[ICML 2026]** ***Erased but Not Forgotten:*** *How Backdoors Compromise Concept Erasure*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=OpHKAVkOIN) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/multimodal-ai-lab/EEB)
+
+* **[ICML 2026]** *Error Propagation Mechanisms and Compensation Strategies for Quantized Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=4YIY66tpvQ)
+
+* **[ICML 2026]** *Exposing Hidden Biases in Text-to-Image Models via Automated Prompt Search*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=jqlNq5JpJ4)
+
+* **[ICML 2026]** ***FAIL:*** *Flow Matching Adversarial Imitation Learning for Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=DQK5CYXCYd)
+
+* **[ICML 2026]** ***Finding DoRI:*** *Discovery of Retained Images in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=F3uCTULtDZ) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sprintml.com/blog/2026-06-24-finding-dori/)
+
+* **[ICML 2026]** ***ForceForget:*** *Reinforcement Concept Removal for Enhancing Safety in Text-to-Image Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=0Cn92msBcW)
+
+* **[ICML 2026]** ***Forget-It-All:*** *Multi-Concept Machine Unlearning via Concept-Aware Neuron Masking*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=FfrpNZofIk) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/kaiyuan02415/Forget-It-All)
+
+* **[ICML 2026]** ***FourTune:*** *Towards Fully 4-Bit Efficient Post-Training for Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=RpwnrBkht2)
+
+* **[ICML 2026]** ***GASS:*** *Geometry-Aware Spherical Sampling for Disentangled Diversity Enhancement in Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=efxovXR9xH) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/L-YeZhu/GASS_T2I)
+
+* **[ICML 2026]** ***GEM:*** *Geometric Erasure by Contrastive Velocity Matching in Rectified Flows*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=NBMCwxTRSA) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/multimodal-ai-lab/GEM)
+
+* **[ICML 2026]** ***GenExam:*** *A Multidisciplinary Text-to-Image Exam*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2509.14232) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/OpenGVLab/GenExam) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/datasets/OpenGVLab/GenExam)
+
+* **[ICML 2026]** ***Geometric Decoupling:*** *Diagnosing the Structural Instability of Latent*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=QXgHl2nTEX) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Byronliang8/Diffusion-Geometry)
+
+* **[ICML 2026]** *Gradient Preconditioning for Efficient and Reliable Reward-Guided Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=83f0m2VJZm)
+
+* **[ICML 2026]** ***GUDA:*** *Counterfactual Group-wise Training Data Attribution for Diffusion Models via Unlearning*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=5f0gw9YpZC) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/sony/guda)
+
+* **[ICML 2026]** ***HoloFair:*** *Unified T2I Fairness Evaluation and Fair-GRPO Debiasing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=e26lNHXxgs) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/1059684669/HoloFair)
+
+* **[ICML 2026]** ***How to Guide Your Flow:*** *Few-Step Alignment via Flow Map Reward Guidance*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=gEogY6cPrL) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://flow-map-reward-guidance.github.io/)
+
+* **[ICML 2026]** ***iGRPO:*** *Fast Online RL for Flow Matching Model with Instant Reward*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=swRU7Utr9Q)
+
+* **[ICML 2026]** *Improving Classifier-Free Guidance of Flow Matching via Manifold Projection*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=IPp3LD6u16) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/LeonSuZhengYi/CFG-MP)
+
+* **[ICML 2026]** *Inference Time Concept Removal Guidance for Text-to-Image Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=BSDvEh7oqy)
+
+* **[ICML 2026]** ***Initialization is Half the Battle:*** *Generating Diverse Images from a Guidance Potential Posterior*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=zXJjT0slV7) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/South7X/divin)
+
+* **[ICML 2026]** *Learning to Watermark in the Latent Space of Generative Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=V6GG63yCtH)
+
+* **[ICML 2026]** ***Letting Trajectories Spread:*** *Quality-Preserving Control for Diverse Flow Matching*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=LtHNTRg73G)
+
+* **[ICML 2026]** *Localizing Memorized Regions in Diffusion Models via Coordinate-Wise Curvature Differences*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=x16DrZepIl) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Gwangho99/mem-curv-diff)
+
+* **[ICML 2026]** *Lookahead Sample Reward Guidance for Test-Time Scaling of Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=IbRm6gwmew) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/aailab-kaist/Diffusion-LiDAR-Sampling)
+
+* **[ICML 2026]** *Low-Compute Watermark Removal via Dual-Domain Natural Projection*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=02NO4Fcsqm) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Pragati-Meshram/DAWN)
+
+* **[ICML 2026]** ***Mean Flow Distillation:*** *Robust and Stable Distillation for Flow Matching Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=kOMsEkgMuz) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/happyw1nd/MFD)
+
+* **[ICML 2026]** ***MIRO:*** *MultI-Reward cOnditioned pretraining improves T2I quality and efficiency*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=mGCa0Jp7Hu) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nicolas-dufour.github.io/miro/)
+
+* **[ICML 2026]** ***MIST:*** *Moment-Aligned Invariant Stability Transform for Robust Flow Matching*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=w9Qub62Qf5)
+
+* **[ICML 2026]** *Mitigating Noise-Induced Layout Priors for Object Counting in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=NJHPCVfC2n) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/lxlong1201/Mitigate)
+
+* **[ICML 2026]** ***MUSE:*** *Resolving Manifold Misalignment in Visual Tokenization via Topological Orthogonality*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=fCjkHj6Z4V) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/PanqiYang1/MUSE)
+
+* **[ICML 2026]** ***NanoFLUX:*** *Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=wvQjM6G4Hh)
+
+* **[ICML 2026]** *Optimizing Few-Step Generation with Adaptive Matching Distillation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=QGA9cWGb12)
+
+* **[ICML 2026]** ***OrchJail:*** *Jailbreaking Tool-Calling Text-to-Image Agents by Orchestration-Guided Fuzzing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=VviX6pPCgV)
+
+* **[ICML 2026]** *Orthogonal Concept Erasure for Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=VE2aKpTWrK) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/HansSunY/OCE)
+
+* **[ICML 2026]** *Pareto-Guided Optimal Transport for Multi-Reward Alignment*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=5EIKSU0IOK)
+
+* **[ICML 2026]** *Preference-Calibrated Optimization with Score-Level Distribution Alignment for Text-to-Image Diffusion Model Unlearning*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=3WsZ9s9oaN)
+
+* **[ICML 2026]** ***Prompt Reinjection:*** *Alleviating Prompt Forgetting in Multimodal Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=P3b1028tNC)
+
+* **[ICML 2026]** ***PromptRL:*** *Prompt Matters in RL for Flow-Based Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=YKamMflrv7) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/G-U-N/UniRL)
+
+* **[ICML 2026]** ***Q-Sched:*** *Pushing the Boundaries of Few-Step Diffusion Models with Quantization-Aware Scheduling*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2509.01624) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/enyac-group/q-sched)
+
+* **[ICML 2026]** ***RAIGen:*** *Rare Attribute Identification in Text-to-Image Generative Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=oXxf72fqb6) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vssilpa.github.io/RAIGen_webpage/)
+
+* **[ICML 2026]** *Reconstructing Template-Memorized Images from Natural Prompts*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=iyG31VdQfG) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thesoly.github.io/lr-tmi/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/TheSolY/lr-tmi)
+
+* **[ICML 2026]** ***RECOVER:*** *Reliable Detection of Unauthorized Data Usage in Text-to-Image Diffusion Models via Inversion Robustness*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=HYZ3ooGuew)
+
+* **[ICML 2026]** ***Responsible Text-to-Image Diffusion:*** *Interpretable and Linearly Controllable Semantics for Fair and Safe Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=W9ltOfYnhY) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Moslem-Sh21/responsible-t2i-diffusion)
+
+* **[ICML 2026]** *Restoring Initial Noise Sensitivity in Text-to-Image Distillation through Geometric Alignment*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=dlufiUI3xI) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Hannah1102/GAD)
+
+* **[ICML 2026]** ***Rethinking Forgery Attacks on Semantic Watermarks in Black-Box Settings:*** *A Geometric Distortion Perspective*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=abAtCFbDqc)
+
+* **[ICML 2026]** ***Rethinking the Design Space of Reinforcement Learning for Diffusion Models:*** *On the Importance of Likelihood Estimation Beyond Loss Design*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=3mJ9eTU319)
+
+* **[ICML 2026]** *Rethinking Visual Autoregressive Sampling with Information-Grounding Guidance*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=4PL5wouooK)
+
+* **[ICML 2026]** ***RSTR:*** *Reducing SpatioTemporal Redundancy in Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=enfG9qcdz6)
+
+* **[ICML 2026]** ***RT-Lynx:*** *Putting the GEMM Sparsity In a Right Way for Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=yBSqPjKmU0)
+
+* **[ICML 2026]** ***SAEmnesia:*** *Erasing Concepts in Diffusion Models with Supervised Sparse Autoencoders*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=Pa6EoOViOq) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eidoslab.github.io/SAEmnesia) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/EIDOSLAB/SAEmnesia)
+
+* **[ICML 2026]** *Safe Autoregressive Image Generation with Iterative Self-Improving Codebooks*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=hASSCnNDOl)
+
+* **[ICML 2026]** ***ScaleErasure:*** *Inference-Time Minimal Intervention for Precise Concept Erasure in Next-Scale Autoregressive Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=xnap60lY3b)
+
+* **[ICML 2026]** ***ScalingAR:*** *Scaling Confidence for Autoregressive Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=JBEt767Naf)
+
+* **[ICML 2026]** *Semantic-level Backdoor Attack against Text-to-Image Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=btN3w8aJfo) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/DPAS-Lab/SemBD)
+
+* **[ICML 2026]** ***SemBind:*** *Binding Diffusion Watermarks to Semantics Against Black-Box Forgery Attacks*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=Sva22o2fRs) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/XinZhang1999/SemBind)
+
+* **[ICML 2026]** ***Show, Don't Tell:*** *Morphing Latent Reasoning into Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=pwz7P09W83)
+
+* **[ICML 2026]** ***SIPO:*** *Stabilized and Improved Preference Optimization for Aligning Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=JLgqmlc9S7)
+
+* **[ICML 2026]** ***SJD-SV:*** *Speculative Jacobi Decoding with Semantics Verification for Autoregressive Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=FECofldBP8)
+
+* **[ICML 2026]** ***Spectral Evolution Search:*** *Efficient Inference-Time Scaling for Reward-Aligned Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=tBt12b9dxa) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/yjy415/Spectral-Evolution-Search)
+
+* **[ICML 2026]** *Speculative Coupled Decoding for Training-Free Lossless Acceleration of Autoregressive Visual Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=ea4sx1kxDz)
+
+* **[ICML 2026]** ***Stable Velocity:*** *A Variance Perspective on Flow Matching*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=2C6ENeBAZB) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://linydthu.github.io/StableVelocity/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/linYDTHU/StableVelocity)
+
+* **[ICML 2026]** ***StreamFlow:*** *Theory, Algorithm, and Implementation for High-Efficiency Rectified Flow Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=pvaviwbsry) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://world-snapshot.github.io/StreamFlow/)
+
+* **[ICML 2026]** ***SurrogateSHAP:*** *Training-Free Contributor Attribution for Text-to-Image (T2I) Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=Zdx1hFJarp)
+
+* **[ICML 2026]** ***TAG:*** *Tangential Amplifying Guidance for Hallucination-Resistant Sampling*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=1XJqPy2LhA) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hyeon-cho.github.io/TAG/)
+
+* **[ICML 2026]** ***TDM-R1:*** *Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=4w9DpowGcs)
+
+* **[ICML 2026]** *Temporal Difference Learning for Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=jwLSuhDyDc)
+
+* **[ICML 2026]** *Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=WbfRe0cheB) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://temporalscorerescaling.github.io/)
+
+* **[ICML 2026]** *Test-Time Guidance for Flow-Based Generative Models via Parallel Tempering on Source Distributions*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=5jGcYMUZx1)
+
+* **[ICML 2026]** *Test-Time Reinforcement Learning for Flow Matching*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=X1j8ntqW43) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://theshy-dream.github.io/flow-ttrl/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/TheShy-Dream/Flow-TTRL)
+
+* **[ICML 2026]** ***TextAtlas5M:*** *A Large-Scale Dataset for Long Text Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=5vufrrbi4N)
+
+* **[ICML 2026]** *The Entropic Signature of Class Speciation in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=rp02mO31RL)
+
+* **[ICML 2026]** ***The Velocity Deficit:*** *Initial Energy Injection for Flow Matching*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=ddBkQ4koaI)
+
+* **[ICML 2026]** ***Think-Then-Generate:*** *Reasoning-Aware Text-to-Image Diffusion with LLM Encoders*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=RAULvuDNNP)
+
+* **[ICML 2026]** *Threshold-Guided Optimization for Visual Generative Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=B258ihKAk9)
+
+* **[ICML 2026]** *Towards Seed-Robust Safety Alignment in Text-to-Image Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=PwH2T3WI9o)
+
+* **[ICML 2026]** ***UnHype:*** *CLIP-Guided Hypernetworks for Dynamic LoRA Unlearning*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=cUPGCuaNWZ) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gmum.github.io/UnHype/)
+
+* **[ICML 2026]** *Unified Safe In-context Image Generation in Multimodal Diffusion Transformers via Restricting Unsafe Information Flows*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=4OBHizHowb) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/deng12yx/UVR)
+
+* **[ICML 2026]** ***UniPercept:*** *Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=8VVbElV06v) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thunderbolt215.github.io/Unipercept-project/)
+
+* **[ICML 2026]** ***Unlearning in Diffusion Models:*** *A Unified Framework with KL Divergence and Likelihood Constraints*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=98xDF2hkIy)
+
+* **[ICML 2026]** *Unpaired Visual Editing with Self-Consistent Flow Matching*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=80gMhZMWZy) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://research.nvidia.com/labs/par/byg/)
+
+* **[ICML 2026]** *When Do Diffusion Models Learn to Generate Multiple Objects?*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=AKrhb31pI7) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/eugene6923/MOSAIC)
+
+* **[ICML 2026]** ***WISE:*** *World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.07265) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/PKU-YuanGroup/WISE)
+
+* **[ICML 2026]** ***WMVLM:*** *Evaluating Diffusion Model Image Watermarking via Vision-Language Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=Nw55XJi7Jb)
+
+* **[ICML 2026]** ***You Don’t Need All That Attention:*** *Surgical Memorization Mitigation in Text-to-Image Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=DxoS2VhNk8) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/kairanzhao/GUARD)
+
+* **[ICML 2026]** ***Z-Erase:*** *Enabling Concept Erasure in Single Stream Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=fCvS9dhzhM)
+
 </details>
 
 <details>
@@ -790,13 +1139,11 @@
 <details>
 <summary><h4>💡 Pre-Print Papers</h4></summary>
 
-- [GenExam: A Multidisciplinary Text-to-Image Exam](https://arxiv.org/pdf/2509.14232) [![GitHub Stars](https://img.shields.io/github/stars/OpenGVLab/GenExam?style=social)](https://github.com/OpenGVLab/GenExam) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/datasets/OpenGVLab/GenExam)
 - [BLIP3o-NEXT: Next Frontier of Native Image Generation](https://arxiv.org/pdf/2510.15857) [![GitHub Stars](https://img.shields.io/github/stars/JiuhaiChen/BLIP3o?style=social)](https://github.com/JiuhaiChen/BLIP3o) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://jiuhaichen.github.io/BLIP3o-NEXT.github.io/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/BLIP3o/BLIP3o-NEXT-SFT-3B)
 - [UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image Generation](https://arxiv.org/pdf/2510.18701) [![GitHub Stars](https://img.shields.io/github/stars/CodeGoat24/UniGenBench?style=social)](https://github.com/CodeGoat24/UniGenBench) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/datasets/CodeGoat24/UniGenBench)
 - [Generating an Image From 1,000 Words: Enhancing Text-to-Image With Structured Captions](https://arxiv.org/pdf/2511.06876) [![GitHub Stars](https://img.shields.io/github/stars/Bria-AI/FIBO?style=social)](https://github.com/Bria-AI/FIBO) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/briaai/FIBO)
 - [Finding Dori: Memorization in Text‑to‑Image Diffusion Models Is Less Local Than Assumed](https://arxiv.org/abs/2507.16880)
 - [Personalized Safety Alignment for Text‑to‑Image Diffusion Models](https://arxiv.org/abs/2508.01151) [![GitHub Stars](https://img.shields.io/github/stars/M-E-AGI-Lab/PSAlign?style=social)](https://github.com/M-E-AGI-Lab/PSAlign) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://m-e-agi-lab.github.io/PSAlign/)
-- [WISE: A World Knowledge‑Informed Semantic Evaluation for Text‑to‑Image Generation](https://arxiv.org/abs/2503.07265)
 - [Plot'n Polish: Zero‑shot Story Visualization and Disentangled Editing with Text‑to‑Image Diffusion Models](http://arxiv.org/abs/2509.04446v1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://plotnpolish.github.io)
 - [Skywork UniPic 2.0: Building Kontext Model with Online RL for Unified Multimodal Model](http://arxiv.org/abs/2509.04548v1) [![GitHub Stars](https://img.shields.io/github/stars/SkyworkAI/UniPic?style=social)](https://github.com/SkyworkAI/UniPic) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://unipic-v2.github.io/)
 - [PromptEnhancer: A Simple Approach to Enhance Text‑to‑Image Models via Chain‑of‑Thought Prompt Rewriting](http://arxiv.org/abs/2509.04545v1)
@@ -808,7 +1155,6 @@
 - [Data‑Driven Loss Functions for Inference‑Time Optimization in Text‑to‑Image Generation](http://arxiv.org/abs/2509.02295v1)
 - [Palette Aligned Image Diffusion](http://arxiv.org/abs/2509.02000v1)
 - [Discrete Noise Inversion for Next‑scale Autoregressive Text‑based Image Editing](http://arxiv.org/abs/2509.01984v2)
-- [Q‑Sched: Pushing the Boundaries of Few‑Step Diffusion Models with Quantization‑Aware Scheduling](http://arxiv.org/abs/2509.01624v1)
 - [RealMat: Realistic Materials with Diffusion and Reinforcement Learning](http://arxiv.org/abs/2509.01134v1)
 - [CompSlider: Compositional Slider for Disentangled Multiple‑Attribute Image Generation](http://arxiv.org/abs/2509.01028v2)
 - [Prompting Away Stereotypes? Evaluating Bias in Text‑to‑Image Models for Occupations](http://arxiv.org/abs/2509.00849v1)
@@ -1449,6 +1795,135 @@
 * **[ICLR 2026]** ***VMDiff:*** *Visual Mixing Diffusion for Limitless Cross-Object Synthesis*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=rrXxoH2jgF)
 
+* **[ICML 2026]** *A Flat Vocabulary or a Rich Hierarchy? Re-introducing Intrinsic Structure Transforms the Autoregressive Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=igKogILa1h)
+
+* **[ICML 2026]** *Adaptive Visual Autoregressive Acceleration via Dual-Linkage Entropy Analysis*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=pea0kmkrtm)
+
+* **[ICML 2026]** *Adversarial Flow Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=3GPPUHlJU9)
+
+* **[ICML 2026]** ***AnyCanvas:*** *Potential Field Guidance for Training-Free Spatial Control in Text-to-Image Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Ujy9pCPV1V)
+
+* **[ICML 2026]** *Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=hEQDZg1ZeD) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Na-Li66/F-DPMSolver)
+
+* **[ICML 2026]** *Autoregression with Self-Token Prediction*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=LEwd3HJny8)
+
+* **[ICML 2026]** *Autoregressive Image Generation with Masked Bit Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=jALSox02QD)
+
+* **[ICML 2026]** *Bi-Anchor Interpolation Solver for Accelerating Generative Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=UDS2siRAyT) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/HKUST-LongGroup/BA-solver)
+
+* **[ICML 2026]** *Compositional Generative Modeling from Decentralized Data*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=KH2KhgpCcY)
+
+* **[ICML 2026]** ***Concept-Guided Tokenization:*** *Closing the Gap Between Reconstruction and Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=utRSxIkoSJ) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/hustyyq/ConceptTok)
+
+* **[ICML 2026]** *Contrastive Flow Map Matching*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=d9AhmsW5JA)
+
+* **[ICML 2026]** ***DiFA:*** *Inference-Time Forward-Process Alignment for Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=YGyWLM0OEW) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ShiguiLi/DiFA)
+
+* **[ICML 2026]** ***Divide-and-Denoise:*** *A Game-Theoretic Method for Fairly Composing Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=9voQUicsc2)
+
+* **[ICML 2026]** *End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=fSnxuRhWoC)
+
+* **[ICML 2026]** ***Envisioning Beyond the Few:*** *Disentangled Semantics and Primitives for Few-Shot Atypical Layout-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Jva4wVEySO) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/iCVTEAM/DSP)
+
+* **[ICML 2026]** ***FaPS:*** *A General and Fast Training Method for Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=7t4MKg9ZOm)
+
+* **[ICML 2026]** ***FasterVAR:*** *Plug-and-Play Acceleration for Visual Autoregressive Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=C6kxImRizt) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/sen-mao/FasterVAR)
+
+* **[ICML 2026]** *General and Efficient Steering of Unconditional Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=TU63jmFEWN) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/isotrivial/na-rfm)
+
+* **[ICML 2026]** *Geometry-Aware Image Flow Matching*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=m1bU4KRgtB)
+
+* **[ICML 2026]** ***Latent Forcing:*** *Reordering the Diffusion Trajectory for Pixel-Space Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=LFUaHUCO1a) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/AlanBaade/LatentForcing)
+
+* **[ICML 2026]** *Meta Flow Maps enable scalable reward alignment*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=K5gV8Yptne)
+
+* **[ICML 2026]** ***OcclusionFormer:*** *Arranging Z-Order for Layout-Grounded Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=6FNTrLYLbu) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://henghuiding.com/OcclusionFormer/)
+
+* **[ICML 2026]** ***On the Collapse of Generative Paths:*** *A Criterion and Correction for Diffusion Steering*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=emv2qsi3TG) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ziseoklee.github.io/projects/ACE/)
+
+* **[ICML 2026]** *One-step Latent-free Image Generation with Pixel Mean Flows*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=WUK8JIeetF) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Lyy-iiis/pMF)
+
+* **[ICML 2026]** *Optimizing Visual Generative Models via Distribution-wise Rewards*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=dxi8kGgKMM)
+
+* **[ICML 2026]** ***Primal-Spectral Generative Modeling:*** *Fast Analytical Generation via Pseudoinverse Lévy Inversion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=62GA9BSI5t)
+
+* **[ICML 2026]** ***Prism-MoE:*** *Efficient Dense-to-MoE Conversion for Visual Autoregressive Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=BpDRqTfn08)
+
+* **[ICML 2026]** ***ProtoVAR:*** *Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=5YvTHX0QS9)
+
+* **[ICML 2026]** ***RePack then Refine:*** *Efficient Diffusion Transformers with Vision Foundation Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=MSQq78w3JN) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/guanfangdong/RePack-then-Refine)
+
+* **[ICML 2026]** ***Rethinking Generative Image Pretraining:*** *How Far Are We From Scaling Up Next-Pixel Prediction?*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=5pOlWjnGn3) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/google-deepmind/simply)
+
+* **[ICML 2026]** ***RevealLayer:*** *Disentangling Hidden and Visible Layers via Occlusion-Aware Image Decomposition*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=nqmb8hv39b) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://360cvgroup.github.io/RevealLayer/)
+
+* **[ICML 2026]** ***RobuQ:*** *Pushing DiTs to W1.58A2 via Robust Activation Quantization*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ftM5GTQAh1) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/racoonykc/RobuQ)
+
+* **[ICML 2026]** *Scalable GANs with Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=bTfHzEx9Xk) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hse1032.github.io/GAT)
+
+* **[ICML 2026]** ***ScoreMix:*** *Synthetic Data Generation by Score Composition in Diffusion Models Improves Recognition*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=zru3OX8jVU) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://parsa-ra.github.io/scoremix/)
+
+* **[ICML 2026]** ***Set-Coupled Guidance:*** *Set-Level Coordination in Diffusion-Based Dataset Distillation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=onosLtwoiK) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/tade1s/SCG)
+
+* **[ICML 2026]** *Spectral Guidance for Flexible and Efficient Control of Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=v63OyiRoS2) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/gabmoreira/spectralguidance)
+
+* **[ICML 2026]** *Spectrally-Guided Diffusion Noise Schedules*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=5cIgeU4WOG)
+
+* **[ICML 2026]** ***StructMAR:*** *Structure-Aware Masked Autoregression for Explicit Layout Alignment in Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=FJKIQydJaT)
+
+* **[ICML 2026]** ***The Latent Color Subspace:*** *Emergent Order in High-Dimensional Chaos*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=d93mcbLGhV) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ExplainableML/LCS)
+
+* **[ICML 2026]** *Trajectory-Aware Spiking DiTs Conversion via Membrane Potential Error-Feedback*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=nsd26wlIGP) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/JustVelkhana/SpikingDiT)
+
+* **[ICML 2026]** ***Variational Flow Maps:*** *Make Some Noise for One-Step Conditional Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=XHI7FCd1w1)
+
+* **[ICML 2026]** ***ViewMask-1-to-3:*** *Multi-View Consistent Image Generation via Multimodal Discrete Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=vayyDtdtWX)
+
+* **[ICML 2026]** *Visual Implicit Autoregressive Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=YnAT2dUBNO) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mobiushy/VIAR)
+
 </details>
 
 <details>
@@ -1797,6 +2272,33 @@
 * **[ICLR 2026]** *Story-Iter: A Training-free Iterative Paradigm for Long Story Visualization*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=puBVb9vTah)
 
 * **[ICLR 2026]** *WithAnyone: Toward Controllable and ID Consistent Image Generation*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/pdf/2510.14975.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://doby-xu.github.io/WithAnyone/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Doby-Xu/WithAnyone) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/WithAnyone/WithAnyone)
+
+* **[ICML 2026]** *Boost the Identity-Preserving Embedding for Consistent Visual Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=pPCsSseMW5)
+
+* **[ICML 2026]** ***Dual Optimal Transport for Multi-Concept Composition:*** *Structural Alignment and Texture Injection in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Y45P7D88uX) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/fuhao7i/OTComp)
+
+* **[ICML 2026]** ***MICE-Bench:*** *A Challenging and Comprehensive Benchmark for Multi-Reference Image Creation and Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=2p9PIlKD6q)
+
+* **[ICML 2026]** ***MMD Guidance:*** *Training-Free Distribution Adaptation for Diffusion Models via Maximum Mean Discrepancy Guidance*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=WTgOxAio8a) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/matinamehdizadeh/MMD-Guidance)
+
+* **[ICML 2026]** *Personalized Image Generation via Human-in-the-loop Bayesian Optimization*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=sq3JUR4IDd) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://annonanom125.github.io/annonAnomrepo/index.html)
+
+* **[ICML 2026]** ***SCNS:*** *Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=TOJtbehWQ1)
+
+* **[ICML 2026]** ***SSR-Merge:*** *Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=eYwCaFakq6)
+
+* **[ICML 2026]** ***StyleDistillation:*** *A New Insight of Image Style Enables Personalized Aesthetic Manipulation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=hR6yH73UFb)
+
+* **[ICML 2026]** ***UFO:*** *Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=mporzu6RNi)
 
 </details>
 
@@ -2175,6 +2677,105 @@
 
 * **[ICLR 2026]** ***There and Back Again:*** *On the relation between Noise and Image Inversions in Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=8PaDdLuVKN)
 
+* **[ICML 2026]** ***AdaEraser:*** *Training-Free Object Removal via Adaptive Attention Suppression*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Hc1G5UDPxc)
+
+* **[ICML 2026]** ***AesFormer:*** *Transform Everyday Photos into Beautiful Memories*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=wwEJH8o9bQ) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/PKU-ICST-MIPL/AesFormer_ICML2026)
+
+* **[ICML 2026]** ***Alterbute:*** *Editing Intrinsic Attributes of Objects in Images*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=iZ2Enqf9Kn) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talreiss.github.io/alterbute/)
+
+* **[ICML 2026]** ***B-Spar:*** *Bayesian Sparse-Reward Modeling for RL-based Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=aoUqzNEKpA) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/chan2lucky/B-Spar)
+
+* **[ICML 2026]** ***CacheEdit:*** *Efficient Multi-round Image Editing via Adaptive Token-wise Reuse.*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=6IlpepWXJr)
+
+* **[ICML 2026]** ***Causal-Adapter:*** *Taming Text-to-Image Diffusion for Faithful Counterfactual Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=si8F5lk6Kg) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leitong02.github.io/causaladapter/)
+
+* **[ICML 2026]** ***CoCoEdit:*** *Content-Consistent Image Editing via Region Regularized Reinforcement Learning*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=XBhLiyFVDx) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/langmanbusi/CoCoEdit)
+
+* **[ICML 2026]** *Conflict-Aware Additive Guidance for Flow Models under Compositional Rewards*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=DJtX0Fo7ii)
+
+* **[ICML 2026]** ***DirectEdit:*** *Step-Level Accurate Inversion for Flow-Based Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=1MT6RdvOcT) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://desongyang.github.io/Directedit/)
+
+* **[ICML 2026]** ***DLEBench:*** *Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=QdmL5vs0sg)
+
+* **[ICML 2026]** *Factored Classifier-Free Guidance*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=vHwGQhSloL)
+
+* **[ICML 2026]** ***From Statics to Dynamics:*** *Physics-Aware Image Editing with Latent Transition Priors*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=7YeCG53Bo9) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://liangbingzhao.github.io/statics2dynamics/)
+
+* **[ICML 2026]** ***Light Up Your Face:*** *A Physically Consistent Dataset and Diffusion Model for Face Fill-Light Enhancement*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=PLT2FKIs2c) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gobunu.github.io/Light-Up-Your-Face/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/gobunu/Light-Up-Your-Face)
+
+* **[ICML 2026]** ***PhotoAgent:*** *Exploratory Visual Aesthetic Planning with Large Vision Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Ws8swqL5ob) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mdyao.github.io/PhotoAgent/)
+
+* **[ICML 2026]** *Preference-Enhanced Reinforcement Learning for Pluralistic Image Inpainting*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=VOnLrMdLbV)
+
+* **[ICML 2026]** ***Reasoning to Edit:*** *Hypothetical Instruction-Based Image Editing with Visual Reasoning*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2507.01908) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/hithqd/ReasonBrain)
+
+* **[ICML 2026]** *Relighting as a Probe of Visual Priors via Augmented Latent Intrinsics*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=23pS2aZozA) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://augmented-latent-intrinsics.github.io/)
+
+* **[ICML 2026]** ***Rex:*** *A Family of Reversible Exponential (Stochastic) Runge-Kutta Solvers*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=7pQIzVNctu) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rex-solver.github.io)
+
+* **[ICML 2026]** *Self-Prompting Diffusion Transformer for Open-Vocabulary Scene Text Edit via In-Context Learning*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=wQuDFEdjb4) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hongxiii.github.io/mstedit/)
+
+* **[ICML 2026]** *Semantic Editing with Coupled Stochastic Differential Equations*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=kaOPDyq5sv) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://z-jianxin.github.io/syncSDE-release/)
+
+* **[ICML 2026]** *Semantic Granularity Navigation in Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=oTRMveQEzW) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://naviedit.github.io/)
+
+* **[ICML 2026]** *Shifting the Breaking Point of Flow Matching for Multi-Instance Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=n2An7C7n7e) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://idattn.silviacascianelli.com/)
+
+* **[ICML 2026]** ***SlerpFlow:*** *Spherical Trajectory Correction for Rectified Flow Inversion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=8kBvoukwPs) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/0answer0/SlerpFlow)
+
+* **[ICML 2026]** ***Sparse Relaxed-Lasso Steering:*** *Automatic Sparse Autoencoder Feature Selection for Precise Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=U4U77OLsy1)
+
+* **[ICML 2026]** ***SpatialReward:*** *Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=kdKSU8ULh9) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lorangan-ddup.github.io/SpatialReward/)
+
+* **[ICML 2026]** ***StableI2I:*** *Spotting Unintended Changes in Image-to-Image Transition*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=z9VuS0wKGW) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://henry-lee-real.github.io/StableI2I_Page/)
+
+* **[ICML 2026]** ***T-Edit:*** *Triple-Branch Diffusion Anchoring for Consistent Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=RBE1rgYl39)
+
+* **[ICML 2026]** ***Taming I2V models for Image HOI Editing:*** *A Cognitive Benchmark and Agentic Self-Correcting Framework*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=RtesAw5Cka) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Andyplus1/HOIEdit) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/oceanflowlab/HOI-Edit)
+
+* **[ICML 2026]** ***TexEditor:*** *Structure-Preserving Text-Driven Texture Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=kxUb6VuYbY) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/KlingAIResearch/TexEditor/tree/main)
+
+* **[ICML 2026]** *Timestep Rescheduling in Diffusion Inversion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=WsZwXIx5r8) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/sunshangquan/TRDI)
+
+* **[ICML 2026]** ***TransLight:*** *Image-Guided Customized Lighting Control with Generative Decoupling*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=zFw9qaYGXd)
+
+* **[ICML 2026]** ***When the Prompt Becomes Visual:*** *Vision-Centric Jailbreak Attacks for Large Image Editing Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=wQxRphkfxn) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://csu-jpg.github.io/vja.github.io/)
+
+* **[ICML 2026]** ***World-Shaper:*** *A Unified Framework for 360° Panoramic Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=FXy0GCaHq1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://world-shaper-project.github.io/)
+
 </details>
 
 <details>
@@ -2330,7 +2931,6 @@
 - [S$^2$Edit: Text-Guided Image Editing with Precise Semantic and Spatial Control](http://arxiv.org/abs/2507.04584v1) [![GitHub Stars](https://img.shields.io/github/stars/JohnDreamer/DualCycleDiffusion?style=social)](https://github.com/JohnDreamer/DualCycleDiffusion) 
 - [Pose-Star: Anatomy-Aware Editing for Open-World Fashion Images](http://arxiv.org/abs/2507.03402v1) [![GitHub Stars](https://img.shields.io/github/stars/NDYBSNDY/Pose-Star?style=social)](https://github.com/NDYBSNDY/Pose-Star) 
 - [LACONIC: A 3D Layout Adapter for Controllable Image Creation](http://arxiv.org/abs/2507.03257v2)
-- [Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](http://arxiv.org/abs/2507.01908v1) [![GitHub Stars](https://img.shields.io/github/stars/hithqd/ReasonBrain?style=social)](https://github.com/hithqd/ReasonBrain) 
 - [ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation](http://arxiv.org/abs/2507.01496v1) [![GitHub Stars](https://img.shields.io/github/stars/wlaud1001/ReFlex?style=social)](https://github.com/wlaud1001/ReFlex) 
 - [QC-OT: Optimal Transport with Quasiconformal Mapping](http://arxiv.org/abs/2507.01456v1)
 - [A Unified Framework for Stealthy Adversarial Generation via Latent Optimization and Transferability Enhancement](http://arxiv.org/abs/2506.23676v1)
@@ -2765,6 +3365,54 @@
 * **[ICLR 2026]** ***UniVideo:*** *Unified Understanding, Generation, and Editing for Videos*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/pdf/2510.08377.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://congwei1230.github.io/UniVideo/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/KwaiVGI/UniVideo) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/KwaiVGI/UniVideo)
 
 * **[ICLR 2026]** ***Zebra-CoT:*** *A Dataset for Interleaved Vision-Language Reasoning*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=c6XIVI3TiQ)
+
+* **[ICML 2026]** ***AlphaGRPO:*** *Unlocking Self-Reflective Multimodal Generation in Unified Multimodal Models via Decompositional Verifiable Reward*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=mtcGhTTDgN) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://huangrh99.github.io/AlphaGRPO/)
+
+* **[ICML 2026]** ***Best of Both Worlds:*** *Multimodal Reasoning and Generation via Unified Discrete Flow Matching*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=hZhJTTjmUM) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://plan-lab.github.io/projects/unidflow/)
+
+* **[ICML 2026]** ***Breaking Dual Bottlenecks:*** *Evolving Unified Multimodal Models into Self-Adaptive Interleaved Visual Reasoners*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=O7HYkWVMCW)
+
+* **[ICML 2026]** ***DiffThinker:*** *Towards Generative Multimodal Reasoning with Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=jQ2DRkSir0) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://diffthinker-project.github.io/)
+
+* **[ICML 2026]** ***DIVA:*** *Harnessing the Representation Divergence in Unified Multimodal Models for Mutual Reinforcement*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=UWwmMJjlCb) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Jayyy-H/DIVA)
+
+* **[ICML 2026]** *Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=cGqHvj7Q3B) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/gxx27/UniKE)
+
+* **[ICML 2026]** ***Do Vision and Text Cues Exhibit Evidential Coupling? UFO:*** *A Benchmark for Compositional Multimodal Reasoning in Unified Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=6UKaYYRM3h)
+
+* **[ICML 2026]** *Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=uYaNE2Cys2)
+
+* **[ICML 2026]** ***LaTtE-Flow:*** *Layerwise Timestep-Expert Flow-based Transformer*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=dxVnCJRSm8)
+
+* **[ICML 2026]** ***Lavida-R1:*** *Advancing Reasoning for Unified Multimodal Diffusion Language Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=pVcEcaHHD2)
+
+* **[ICML 2026]** ***MentisOculi:*** *Revealing the Limits of Reasoning with Mental Imagery*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=sxvuK2x3eA) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jana-z.github.io/mentis-oculi/)
+
+* **[ICML 2026]** ***Omni-Diffusion:*** *Unified Multimodal Understanding and Generation with Masked Discrete Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=EulXRTtFCd)
+
+* **[ICML 2026]** ***OpenGPT-4o-Image:*** *A Comprehensive Dataset for Advanced Image Generation and Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=juGAf5Y7V2)
+
+* **[ICML 2026]** *Towards Unified Multimodal Pretraining*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=xAKrRYm6pc) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://beyond-llms.github.io/)
+
+* **[ICML 2026]** *Unified Multimodal Autoregressive Modeling with Shared Context—Visual Tokenizer is Key to Unification*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=jwRAIYoVJn) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sharelab-sii.github.io/uniar-web/)
+
+* **[ICML 2026]** ***Unison:*** *Benchmarking Unified Multimodal Models via Synergistic Understanding and Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=EAH54wIQNb) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fudancvl.github.io/Unison/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/FudanCVL/Unison)
 
 </details>
 
