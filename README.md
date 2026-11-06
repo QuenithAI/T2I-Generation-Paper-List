@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Nov 6th, 2026)**: We have updated all accepted papers in **ECCV 2026**.
 - **(Nov 2nd, 2026)**: We have updated all accepted papers in **ICML 2026**.
 - **(Oct 29th, 2026)**: We have updated all accepted papers in **ACL 2026**.
 - **(Oct 24th, 2026)**: We have updated all accepted papers in **ICLR 2026**.
@@ -144,6 +145,315 @@
 
 * **[CVPR 2026]** *AutoDebias: Automated Framework for Debiasing Text-to-Image Models*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.00445)
+
+* **[ECCV 2026]** ***AccelAes:*** *Accelerating Diffusion Transformers for Training-Free Aesthetic-Enhanced Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6955.pdf)
+
+* **[ECCV 2026]** *Accelerating Diffusion Transformers with Gaussian Process Rectified Feature Cache*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14290.pdf)
+
+* **[ECCV 2026]** *Achieving Subcategorical Erasure in Text-to-Image Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6326.pdf)
+
+* **[ECCV 2026]** *Analyzing and Improving Training-Free Fast Sampling of Text-to-Image Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3672.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zju-pi/TORS)
+
+* **[ECCV 2026]** ***Anchoring and Steering Diffusion:*** *Enhancing the Faithfulness of Text-to-Image Generation at Inference Time*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10390.pdf)
+
+* **[ECCV 2026]** ***ARVAR:*** *Accelerating Visual Autoregressive Model via Attention Retrospect*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2002.pdf)
+
+* **[ECCV 2026]** *Autoregressive Image Generation Needs Only a Few Lines of Cached Tokens*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4078.pdf)
+
+* **[ECCV 2026]** ***Beyond Linear Shortcuts:*** *Rectifying Diffusion Preference Optimization with Intrinsic Generative Geometry*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9113.pdf)
+
+* **[ECCV 2026]** ***Beyond the Black Box:*** *Identifiable Interpretation and Control in Generative Models via Causal Minimality*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5142.pdf)
+
+* **[ECCV 2026]** ***BiSLW:*** *Bi-Spectral Latent Watermarking for Generative Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10892.pdf)
+
+* **[ECCV 2026]** ***CGCE:*** *Classifier-Guided Concept Erasure in Generative Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6950.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://viettmab.github.io/cgce-page/)
+
+* **[ECCV 2026]** ***CoCo:*** *Code as CoT for Text-to-Image Preview and Rare Concept Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/187.pdf)
+
+* **[ECCV 2026]** *Correlation-Weighted Multi-Reward Optimization for Compositional Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.18528) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thedarkknight-21th.github.io/CMO/)
+
+* **[ECCV 2026]** *Cross-Resolution Distribution Matching for Diffusion Distillation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9960.pdf)
+
+* **[ECCV 2026]** ***Cross-Space Distillation:*** *Teaching One-Step Students with Modern Diffusion Teachers*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7574.pdf)
+
+* **[ECCV 2026]** ***Ctrl-Z Sampling:*** *Scaling Diffusion Sampling with Controlled Random Zigzag Explorations*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3050.pdf)
+
+* **[ECCV 2026]** ***D2PO:*** *Optimizing Diffusion Samplers via Dynamic Preference*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9223.pdf)
+
+* **[ECCV 2026]** ***DC-Gen:*** *Post-Training Diffusion Acceleration with Deeply Compressed Latent Space*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7216.pdf)
+
+* **[ECCV 2026]** *Diagnosing Aerial-View Object Detectors with Foundational Image Generative Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/11570.pdf)
+
+* **[ECCV 2026]** ***DiffPro:*** *Joint Timestep and Layer-Wise Precision Optimization for Efficient Diffusion Inference*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2066.pdf)
+
+* **[ECCV 2026]** ***DiffRGD:*** *An Inference-Time Diffusion Guidance Through Riemannian Gradient Descent*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9638.pdf)
+
+* **[ECCV 2026]** ***Diffusion-SDPO:*** *Safeguarded Direct Preference Optimization for Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8573.pdf)
+
+* **[ECCV 2026]** *Direct Diffusion Score Preference Optimization via Stepwise Contrastive Policy-Pair Supervision*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5313.pdf)
+
+* **[ECCV 2026]** ***DisRM:*** *Reward Modeling as Discriminative Prediction*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9282.pdf)
+
+* **[ECCV 2026]** *Distribution Matching Distillation Meets Reinforcement Learning*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5517.pdf)
+
+* **[ECCV 2026]** ***DiverseVAR:*** *Balancing Diversity and Quality of Next-Scale Visual Autoregressive Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5316.pdf)
+
+* **[ECCV 2026]** ***DreamLite:*** *A Lightweight On-Device Unified Model for Image Generation and Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5330.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://carlofkl.github.io/dreamlite/)
+
+* **[ECCV 2026]** ***Drift-AR:*** *Single-Step Visual Autoregressive Generation via Anti-Symmetric Drifting*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7831.pdf)
+
+* **[ECCV 2026]** ***DriftScope:*** *Measuring The Hidden Effects of Diffusion Model Fine-Tuning*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1757.pdf)
+
+* **[ECCV 2026]** ***DRPO:*** *Disentangling Demographic Bias from Rewards for Fair Diffusion Alignment*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2663.pdf)
+
+* **[ECCV 2026]** ***DynEval:*** *Holistic Evaluations of T2I Generative Models in the Wild*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10581.pdf)
+
+* **[ECCV 2026]** *Early Estimation of Language to Latent Alignment in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/13053.pdf)
+
+* **[ECCV 2026]** ***ELDiff:*** *When Evidential Learning Meets Text-to-Image Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4445.pdf)
+
+* **[ECCV 2026]** ***EM3M:*** *An Electron Micrograph Dataset for Microstructural Segmentation and Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.16239)
+
+* **[ECCV 2026]** ***EMAG:*** *Self-Rectifying Diffusion Sampling with Exponential Moving Average Guidance*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4814.pdf)
+
+* **[ECCV 2026]** ***EndoCoT:*** *Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4965.pdf)
+
+* **[ECCV 2026]** ***EruDiff:*** *Refactoring Knowledge in Diffusion Models for Advanced Text-to-Image Synthesis*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2875.pdf)
+
+* **[ECCV 2026]** *Exposing Implicit Vulnerabilities in Text-to-Image Models via Adversarial Agentic Probing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8137.pdf)
+
+* **[ECCV 2026]** ***FairSteer:*** *Cross-Attention Steering Towards a Fairer Text-Guided Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6515.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Atmyre/EquiSteer)
+
+* **[ECCV 2026]** *Finite Difference Flow Optimization for RL Post-Training of Text-to-Image Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10054.pdf)
+
+* **[ECCV 2026]** ***Flash-BoN:*** *Instant Drafts for Inference-Time Scaling in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4270.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://flash-bon.github.io/)
+
+* **[ECCV 2026]** ***GenAgent:*** *Scaling Text-to-Image Generation via Agentic Multimodal Reasoning*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3910.pdf)
+
+* **[ECCV 2026]** *Generative Refinement Network for Visual Synthesis*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2328.pdf)
+
+* **[ECCV 2026]** ***Glance:*** *Accelerating Diffusion Models with 1 Sample*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3520.pdf)
+
+* **[ECCV 2026]** ***GR-GRPO:*** *Graph-Diffused Credit for Autoregressive Image RL Alignment*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6006.pdf)
+
+* **[ECCV 2026]** ***GRAN-TED:*** *Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7052.pdf)
+
+* **[ECCV 2026]** ***Hi-DiT:*** *Hybrid Latent-Pixel Diffusion Transformer for Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7486.pdf)
+
+* **[ECCV 2026]** ***HRDiT:*** *Training-Free High-Resolution Image Generation with Off-the-Shelf Diffusion Transformer Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5093.pdf)
+
+* **[ECCV 2026]** *Importance-Aware Low-Rank Distillation of Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6498.pdf)
+
+* **[ECCV 2026]** ***Improved Immiscible Diffusion:*** *Accelerating Diffusion Training by Reducing Miscibility*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/11938.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/yhli123/Immiscible-Diffusion)
+
+* **[ECCV 2026]** *Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1782.pdf)
+
+* **[ECCV 2026]** *Intermediate Text Representation Guided Text-to-Image Generation for Enhancing One-and-Only Alignment*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/11233.pdf)
+
+* **[ECCV 2026]** ***LACON:*** *Training Text-to-Image Model from Uncurated Data*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/622.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zhiyangliang.github.io/LACON/)
+
+* **[ECCV 2026]** ***LinCa:*** *Accelerating Diffusion Models via Learnable Decomposed Feature Caching*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/966.pdf)
+
+* **[ECCV 2026]** ***LISA:*** *Locality-Informed Speculative Decoding for Accelerating Autoregressive Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1222.pdf)
+
+* **[ECCV 2026]** *Locality-Aware Continual Unlearning for Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/11566.pdf)
+
+* **[ECCV 2026]** ***Logit Refiner:*** *Improving Visual Autoregressive Models via Intra-Scale Dependency Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1425.pdf)
+
+* **[ECCV 2026]** *Look But Don't Touch with Sparse Autoencoders for Unlearning in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4430.pdf)
+
+* **[ECCV 2026]** ***LUA:*** *Latent Upscaling Adapter for Diffusion-Based Image Synthesis*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/13699.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://razinaleksandr.github.io/latent-upscaling-adapter/)
+
+* **[ECCV 2026]** ***MPO:*** *Single-Stream Policy Optimization for Efficient Text-to-Image Alignment*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3856.pdf)
+
+* **[ECCV 2026]** *Multi-dimensional Preference Alignment by Conditioning Reward Itself*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2257.pdf)
+
+* **[ECCV 2026]** ***NoiseTilt:*** *Noise-Tilted Reverse Kernels for Diffusion Reward Alignment*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3432.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/KAIST-Visual-AI-Group/NoiseTilt)
+
+* **[ECCV 2026]** ***Obliviate:*** *Erasing Concepts from Autoregressive Image Generation Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8021.pdf)
+
+* **[ECCV 2026]** *On-Policy Diffusion Reinforcement Learning Meets Off-Policy Quality Anchoring*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8906.pdf)
+
+* **[ECCV 2026]** ***OrthoEraser:*** *Coupled-Neuron Orthogonal Projection for Concept Erasure*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/83.pdf)
+
+* **[ECCV 2026]** ***OTCache:*** *Optimal Transport for Geometry-Aware Caching in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8566.pdf)
+
+* **[ECCV 2026]** *Phase-Aligned RoPE for Mixed-Resolution Diffusion Transformer*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4444.pdf)
+
+* **[ECCV 2026]** ***POET:*** *Preference Optimization for Enhanced Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5095.pdf)
+
+* **[ECCV 2026]** *Push–Pull Attentional Anchoring for Diffusion Concept Erasure*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3977.pdf)
+
+* **[ECCV 2026]** ***Q-REAL:*** *Towards Naturalness and Distortion Evaluation for AI-Generated Content*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3206.pdf)
+
+* **[ECCV 2026]** ***R-ESC:*** *Robustly Erasing Space Concepts via Stochastic Feature Remapping*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5795.pdf)
+
+* **[ECCV 2026]** ***RADIANCE:*** *Relative Adaptive Denoising with IP-Adapter for Novel Concept Enhancement*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4753.pdf)
+
+* **[ECCV 2026]** ***RawGen:*** *Learning Camera Raw Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/898.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dy112.github.io/rawgen-page/)
+
+* **[ECCV 2026]** ***Rdm:*** *Re-conceptualizing Distribution Matching as a Reward for Diffusion Distillation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/12118.pdf)
+
+* **[ECCV 2026]** ***RealGen:*** *Photorealistic Text-to-Image Generation via Detector-Guided Rewards*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3727.pdf)
+
+* **[ECCV 2026]** *Region-Aware Test-Time Scaling for Compositional Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4326.pdf)
+
+* **[ECCV 2026]** ***ResilPhase:*** *Plug-and-Play Phase Mapping and Noise-Resilient Macro-Trajectory Extrapolation for Diffusion Acceleration*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4717.pdf)
+
+* **[ECCV 2026]** *Rethinking Robust Adversarial Concept Erasure in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8684.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Qhong-522/S-GRACE)
+
+* **[ECCV 2026]** *Rethinking Token Reduction for Diffusion Models via Output-Similarity-Awareness*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/12374.pdf)
+
+* **[ECCV 2026]** ***RubricRL:*** *Simple Generalizable Rewards for Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4381.pdf)
+
+* **[ECCV 2026]** ***SAND:*** *Stage-Aware Noise Decomposition for Training-Free Diffusion Guidance*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7660.pdf)
+
+* **[ECCV 2026]** ***SCALE:*** *Semantic-Calibrated Guidance Enhancement for Prompt-Faithful Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/11101.pdf)
+
+* **[ECCV 2026]** ***Scientific Image Synthesis:*** *Benchmarking, Methodologies, and Downstream Utility*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1572.pdf)
+
+* **[ECCV 2026]** ***SciIR:*** *A Large-scale Training Dataset and Benchmark for Scientific Image Reasoning Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/13008.pdf)
+
+* **[ECCV 2026]** ***ScrollScape:*** *Unlocking 32K Image Generation With Video Diffusion Priors*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3789.pdf)
+
+* **[ECCV 2026]** ***SD3.5-Flash:*** *Distribution-Guided Distillation of Generative Flows*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4147.pdf)
+
+* **[ECCV 2026]** ***Self-transcendence:*** *Is External Feature Guidance Indispensable for Accelerating Diffusion Transformer Training?*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/940.pdf)
+
+* **[ECCV 2026]** ***Semantic Browsing:*** *Controllable Diversity for Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5974.pdf)
+
+* **[ECCV 2026]** *Spectral Prior for Reducing Exposure Bias in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9319.pdf)
+
+* **[ECCV 2026]** ***SPQR:*** *A Multi-Dimensional Benchmark for Safety Alignment under Benign Model Adaptation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/11560.pdf)
+
+* **[ECCV 2026]** ***SynVAR:*** *Synergizing Spatial and Semantic Alignment in Visual Autoregressive Model*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/13325.pdf)
+
+* **[ECCV 2026]** ***TexTailor:*** *Inference-Time Textual Guidance Tailoring for Multimodal Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9600.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/phil329/TexTailor)
+
+* **[ECCV 2026]** *The Illusion of High Utility in Safety Alignment of Text-to-Image Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10292.pdf)
+
+* **[ECCV 2026]** ***The Map Is Not the Territory:*** *Embedding-Coverage Blacklists for Safe Diffusion Steering*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/15044.pdf)
+
+* **[ECCV 2026]** *The Path to Reconciling Quality and Safety Alignment in Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10091.pdf)
+
+* **[ECCV 2026]** ***Think in Strokes, Not Pixels:*** *Process-Driven Image Generation via Interleaved Reasoning*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8392.pdf)
+
+* **[ECCV 2026]** ***TMI:*** *Text-to-Image Meets Image-to-Image for Complementary Data Synthesis to Boost Long-Tailed Instance Segmentation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4666.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://seokhunchoi.github.io/TMI/)
+
+* **[ECCV 2026]** ***To Erase, or Not to Erase:*** *Robust Training-Free Concept Erasure with Preservation aware Adaptive Ranked Subspace Expansion*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14902.pdf)
+
+* **[ECCV 2026]** *Towards Scalable Pre-training of Visual Tokenizers for Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4035.pdf)
+
+* **[ECCV 2026]** *Trust-Region Noise Search for Black-Box Alignment of Diffusion and Flow Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8246.pdf)
+
+* **[ECCV 2026]** ***UltraGen:*** *Efficient Ultra-High-Resolution Image Generation with Hierarchical Local Attention*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1770.pdf)
+
+* **[ECCV 2026]** *Unified Backbone Refinement for Diffusion Models via Internal-Latent Analysis*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/13281.pdf)
+
+* **[ECCV 2026]** ***When Cars Have Stereotypes:*** *Auditing Demographic Bias in Objects from Text-to-Image Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14062.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Dasol-Choi/soda-framework)
 
 * **[ICLR 2026]** ***Easier Painting Than Thinking:*** *Can Text-to-Image Models Set the Stage, but Not Direct the Play?*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=iqAFhWistW) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://t2i-corebench.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/KlingAIResearch/T2I-CoReBench)
@@ -1154,7 +1464,6 @@
 - [Exploring Diffusion Models for Generative Forecasting of Financial Charts](http://arxiv.org/abs/2509.02308v1)
 - [Data‑Driven Loss Functions for Inference‑Time Optimization in Text‑to‑Image Generation](http://arxiv.org/abs/2509.02295v1)
 - [Palette Aligned Image Diffusion](http://arxiv.org/abs/2509.02000v1)
-- [Discrete Noise Inversion for Next‑scale Autoregressive Text‑based Image Editing](http://arxiv.org/abs/2509.01984v2)
 - [RealMat: Realistic Materials with Diffusion and Reinforcement Learning](http://arxiv.org/abs/2509.01134v1)
 - [CompSlider: Compositional Slider for Disentangled Multiple‑Attribute Image Generation](http://arxiv.org/abs/2509.01028v2)
 - [Prompting Away Stereotypes? Evaluating Bias in Text‑to‑Image Models for Occupations](http://arxiv.org/abs/2509.00849v1)
@@ -1180,7 +1489,6 @@
 - [Improving Performance, Robustness, and Fairness of Radiographic AI Models with Finely‑Controllable Synthetic Data](http://arxiv.org/abs/2508.16783v1)
 - [A Framework for Benchmarking Fairness‑Utility Trade‑offs in Text‑to‑Image Models via Pareto Frontiers](http://arxiv.org/abs/2508.16752v1)
 - [A‑FloPS: Accelerating Diffusion Sampling with Adaptive Flow Path Sampler](http://arxiv.org/abs/2509.00036v1)
-- [UniEM‑3M: A Universal Electron Micrograph Dataset for Microstructural Segmentation and Generation](http://arxiv.org/abs/2508.16239v1)
 - [RAGSR: Regional Attention Guided Diffusion for Image Super‑Resolution](http://arxiv.org/abs/2508.16158v1)
 - [Waver: Wave Your Way to Lifelike Video Generation](http://arxiv.org/abs/2508.15761v2)
 - [GenTune: Toward Traceable Prompts to Improve Controllability of Image Refinement in Environment Design](http://arxiv.org/abs/2508.15227v1)
@@ -1741,6 +2049,66 @@
 * **[CVPR 2026]** *Cycle-Consistent Tuning for Layered Image Decomposition*<br>
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2602.20989) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vcc.tech/research/2026/ImgDecom) ![GitHub](https://img.shields.io/badge/GitHub-N/A-lightgrey?style=for-the-badge&logo=github) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-N/A-lightgrey?style=for-the-badge)
 
+* **[ECCV 2026]** ***Attribute Token Arithmetic:*** *Disentangled and Continuous Semantic Control for Visual Autoregressive Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3822.pdf)
+
+* **[ECCV 2026]** ***DICT:*** *Data Injection and Contrastive Trajectory Refinement for Conditional Image Generation with Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/13621.pdf)
+
+* **[ECCV 2026]** ***FlowLess:*** *Controlling Abstract Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/13783.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amirhertz.github.io/flowless/)
+
+* **[ECCV 2026]** ***From Open Loop to Closed Loop:*** *A Test-Time Iterative Optimization Framework for Reference-Consistent Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3424.pdf)
+
+* **[ECCV 2026]** *Histogram-constrained Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2606.31683)
+
+* **[ECCV 2026]** ***InstanceControl:*** *Controllable Complex Image Generation without Instance Labeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8872.pdf)
+
+* **[ECCV 2026]** *Layout-Conditioned Autoregressive Text-to-Image Generation via Structured Masking*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/373.pdf)
+
+* **[ECCV 2026]** ***Learning to Stylize by Learning to Destylize:*** *A Scalable Paradigm for Supervised Style Transfer*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2484.pdf)
+
+* **[ECCV 2026]** ***LINA:*** *Learning INterventions Adaptively for Physical Alignment and Counterfactual Generation in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7202.pdf)
+
+* **[ECCV 2026]** ***MetaPoint:*** *Unlocking Precise Spatial Control in Visual Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1882.pdf)
+
+* **[ECCV 2026]** ***NumColor:*** *Precise Numeric Color Control in Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/438.pdf)
+
+* **[ECCV 2026]** ***PosterCopilot:*** *Toward Layout Reasoning and Controllable Editing for Professional Graphic Design*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4671.pdf)
+
+* **[ECCV 2026]** ***Semantic Line Diffusion:*** *Character-Consistent Line Art from text-annotated Storyboards*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10656.pdf)
+
+* **[ECCV 2026]** ***Setting the Stage:*** *Text-Driven Scene-Consistent Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4687.pdf)
+
+* **[ECCV 2026]** ***SGP2:*** *Coarse-to-Fine Controllable Multimodal Remote Sensing Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1200.pdf)
+
+* **[ECCV 2026]** ***TerraDiT-Ω:*** *Unified Spatial Control for Satellite Image Synthesis with Any Geospatial Primitive*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6284.pdf)
+
+* **[ECCV 2026]** *Text-Conditioned Background Generation for Editable Multi-Layer Documents*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2072.pdf)
+
+* **[ECCV 2026]** ***Through Van Gogh’s Eyes:*** *Global Style Transfer with Diffusion Model*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10389.pdf)
+
+* **[ECCV 2026]** *Towards In-Context Tone Style Transfer with A Large-Scale Triplet Dataset*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6672.pdf)
+
+* **[ECCV 2026]** ***WaterGen:*** *Decoupling Scene and Medium in Underwater Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8304.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tianfwang.github.io/watergen/)
+
 * **[ICLR 2026]** ***CreatiDesign:*** *A Unified Multi-Conditional Diffusion Transformer for Creative Graphic Design*<br>
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Wtda8HpVp2) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://huizhang0812.github.io/CreatiDesign/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/HuiZhang0812/CreatiDesign) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/HuiZhang0812/CreatiDesign)
 
@@ -2225,8 +2593,6 @@
 
 * **[CVPR 2026]** ***ConceptPrism:*** *Concept Disentanglement in Personalized Diffusion Models via Residual Token Optimization*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.19575)
 
-* **[CVPR 2026 Findings]** ***OpenSubject:*** *Leveraging Video-Derived Identity and Diversity Priors for Subject-driven Image Generation and Manipulation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2512.08294) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/LAW1223/OpenSubject) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/AIPeanutman/OpenSubject)
-
 * **[CVPR 2026]** ***The Consistency Critic:*** *Correcting Inconsistencies in Generated Images via Reference-Guided Attentive Alignment*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2511.20614) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ouyangziheng.github.io/ImageCritic-Page/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/HVision-NKU/ImageCritic) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/ziheng1234/ImageCritic)
 
 * **[CVPR 2026]** ***Proxy-Tuning:*** *Tailoring Multimodal Autoregressive Models for Subject-Driven Image Generation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.10125)
@@ -2234,6 +2600,48 @@
 * **[CVPR 2026]** ***CRAFT-LoRA:*** *Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.18936)
 
 * **[CVPR 2026]** ***IdGlow:*** *Dynamic Identity Modulation for Multi-Subject Generation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.00607)
+
+* **[ECCV 2026]** ***Beyond Pixel Mimicry:*** *Disentangled Self-Similarity Rewards for Diverse Subject-Driven Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9176.pdf)
+
+* **[ECCV 2026]** ***DSH-Bench:*** *A Difficulty- and Scenario-Aware Benchmark with Hierarchical Subject Taxonomy for Subject-Driven Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/13063.pdf)
+
+* **[ECCV 2026]** *Dynamic Image Prompt Adapter for Scalable Zero-shot Personalized Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5841.pdf)
+
+* **[ECCV 2026]** ***FlowFace:*** *Rectifying Identity Conditioning with Riemannian Geometry for Face Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2287.pdf)
+
+* **[ECCV 2026]** ***NearID:*** *Identity Representation Learning via Near-identity Distractors*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10974.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gorluxor.github.io/NearID/)
+
+* **[ECCV 2026]** ***OpenSubject:*** *Leveraging Video-Derived Identity and Diversity Priors for Subject-driven Image Generation and Manipulation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2512.08294) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/LAW1223/OpenSubject) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/AIPeanutman/OpenSubject)
+
+* **[ECCV 2026]** *Personalized Reward Modeling for Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5468.pdf)
+
+* **[ECCV 2026]** ***PIPBench:*** *A Profile-Inclusive Framework for Personalized Image Generation Evaluation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/203.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wuyuhang05.github.io/PIPBench/)
+
+* **[ECCV 2026]** ***RefDiT:*** *Local Attribute Guidance in Reference-Based Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/11852.pdf)
+
+* **[ECCV 2026]** ***RefRetouch:*** *Personalized Image Retouching without Test-time Fine-tuning*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14017.pdf)
+
+* **[ECCV 2026]** *Scaling Multi-Reference Image Generation with Dynamic Reward Optimization*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7429.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://weistrass.github.io/Projects/DyRef/)
+
+* **[ECCV 2026]** ***TextFace:*** *Compositional Text-Guided Identity Preserving Face Synthesis for Face Recognition*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/13564.pdf)
+
+* **[ECCV 2026]** ***TOPA:*** *Mitigating Concept Dominance in Diffusion Personalization via Target-Oriented Perturbation Augmentation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5128.pdf)
+
+* **[ECCV 2026]** *Zero-Shot Image Personalization from Personas*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9987.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://behavior-in-the-wild.github.io/zipp.html)
 
 * **[ICLR 2026]** *MOSAIC: Multi-Subject Personalized Generation via Correspondence-Aware Alignment and Disentanglement*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=7AH0y1OtnC) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bytedance-fanqie-ai.github.io/MOSAIC/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/bytedance-fanqie-ai/MOSAIC) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/ByteDance-FanQie/MOSAIC)
 
@@ -2595,6 +3003,174 @@
 
 * **[CVPR 2026]** *InstructMix2Mix: Consistent Sparse-View Editing Through Multi-View Model Personalization*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.14899) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danielgilo.github.io/instruct-mix2mix/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/DanielGilo/instruct-mix2mix/)
 
+* **[ECCV 2026]** ***A²-Edit:*** *Precise Reference-Guided Image Editing of Arbitrary Objects and Ambiguous Masks*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4160.pdf)
+
+* **[ECCV 2026]** *Accelerated Likelihood Maximization for Diffusion-based Versatile Content Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7054.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hleephilip.github.io/ALM)
+
+* **[ECCV 2026]** ***BlenderFusion:*** *3D-Grounded Visual Editing and Generative Compositing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8718.pdf)
+
+* **[ECCV 2026]** ***CHARTSTYLE-100K:*** *A Large-Scale Dataset for Structured Visualization Style Transfer*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/11449.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chartstyle-100k.github.io/)
+
+* **[ECCV 2026]** *Consistent Feature Transport for Image Relighting*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/11502.pdf)
+
+* **[ECCV 2026]** ***CORE-V:*** *Chain-Of-thought REasoning for Image Editing with Visual Interaction*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/273.pdf)
+
+* **[ECCV 2026]** *Discrete Noise Inversion for Next-scale Autoregressive Text-based Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2509.01984)
+
+* **[ECCV 2026]** ***DiTailed:*** *Ensuring Visual Object Consistency in Text-Image-to-Image Flow Matching Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1899.pdf)
+
+* **[ECCV 2026]** ***Dress-ED:*** *Instruction-Guided Editing for Virtual Try-On and Try-Off*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8117.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aimagelab.github.io/Dress-ED/)
+
+* **[ECCV 2026]** ***EditHF-1M:*** *A Million-Scale Rich Human Preference Feedback for Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4262.pdf)
+
+* **[ECCV 2026]** *Editing Everything Everywhere All at Once*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/13356.pdf)
+
+* **[ECCV 2026]** ***EraseLoRA:*** *MLLM-Driven Foreground Exclusion and Background Subtype Aggregation for Dataset-Free Object Removal*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9679.pdf)
+
+* **[ECCV 2026]** ***FaceArmor:*** *A Universal Facial Image Protection Against Diffusion-Based Manipulations*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/13026.pdf)
+
+* **[ECCV 2026]** ***FED-Bench:*** *A Cross-Granular Benchmark for Disentangled Evaluation of Facial Expression Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14102.pdf)
+
+* **[ECCV 2026]** ***FineEdit:*** *Fine-Grained Image Edit with Bounding Box Guidance*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6715.pdf)
+
+* **[ECCV 2026]** ***GIDE:*** *Unlocking Diffusion LLMs for Precise Training-Free Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8609.pdf)
+
+* **[ECCV 2026]** ***GRADE:*** *Benchmarking Discipline-Informed Reasoning in Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2706.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://grade-bench.github.io/)
+
+* **[ECCV 2026]** ***H-Adapter:*** *Pose-Robust Hairstyle Transfer via Attention-Derived, Source-Aligned Hair Masks*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/12240.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanghunpark.github.io/hadapter_page/)
+
+* **[ECCV 2026]** ***h-Flow:*** *Flexible Flow-based Image Editing via Doob's h-Transform*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10512.pdf)
+
+* **[ECCV 2026]** ***In-context Region-based Drag:*** *Drag Any Region to Any Shape*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1950.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/bcmi/ICRDrag-Region-Drag-Editing)
+
+* **[ECCV 2026]** ***InnoText:*** *A Unified Model for Visual Text Generation and Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/29.pdf)
+
+* **[ECCV 2026]** ***InstaEdit:*** *Instant Image Editing via Optimized Noise Prediction*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9581.pdf)
+
+* **[ECCV 2026]** ***LayerVerse:*** *Finding the Sweet Spot for KV-Injection in Training-Free Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6255.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://v-gen-ai.github.io/LayerVerse/)
+
+* **[ECCV 2026]** ***Learn Once, Edit Anywhere:*** *Visual Direction Transfer for Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/691.pdf)
+
+* **[ECCV 2026]** *Linear Fusion MultiDiffusion for Fast Training-Free Spherical Panorama Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8052.pdf)
+
+* **[ECCV 2026]** ***MirrorPPR:*** *Exemplar-Based Portrait Photo Retouching*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/12317.pdf)
+
+* **[ECCV 2026]** ***Moebius:*** *0.2B Lightweight Image Inpainting Framework with 10B-Level Performance*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6177.pdf)
+
+* **[ECCV 2026]** *Multi-History-Step SDE Inversion for Image Editing with Superior Regional Awareness*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/12120.pdf)
+
+* **[ECCV 2026]** ***OSOR:*** *One-Step Diffusion Inpainting for Effect-Aware Object Removal*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10344.pdf)
+
+* **[ECCV 2026]** ***PhyEditBench:*** *A Real-World Multi-Stage Benchmark for Physics-Aware Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8592.pdf)
+
+* **[ECCV 2026]** ***PhysEdit:*** *Physically Consistent Image Editing via Causal Enforcement*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9693.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/HiDream-ai/PhysEdit)
+
+* **[ECCV 2026]** ***RankT2I:*** *A Submodular Framework for Discovering Interpretable and Diverse Semantics in Text-to-Image Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3331.pdf)
+
+* **[ECCV 2026]** ***RCEdit-500K:*** *Reference Completion for Image-Conditioned Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14529.pdf)
+
+* **[ECCV 2026]** ***Recolour What Matters:*** *Region-Aware Colour Editing via Token-Level Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5913.pdf)
+
+* **[ECCV 2026]** ***RePlan:*** *Reasoning-Guided Region Planning for Complex Instruction-Based Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1332.pdf)
+
+* **[ECCV 2026]** ***SAEdit:*** *Token-Level Control for Continuous Image Editing via Sparse Autoencoder*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3755.pdf)
+
+* **[ECCV 2026]** *Semantically Aligned Gradient-Driven Context-Preserving Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14030.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/IAB-IITJ/IABEdit)
+
+* **[ECCV 2026]** ***SONIC:*** *Spectral Optimization of Noise for Inpainting with Consistency*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14616.pdf)
+
+* **[ECCV 2026]** *Spanning Tree Autoregressive Visual Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5087.pdf)
+
+* **[ECCV 2026]** ***SR-Edit:*** *Region-Aware Image Editing via Self-Refinement*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/13867.pdf)
+
+* **[ECCV 2026]** ***StereoEdit:*** *A Diffusion-Based Framework for Stereo-Consistent Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8980.pdf)
+
+* **[ECCV 2026]** *Target-aware Image Editing via Cycle-consistent Constraints*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6700.pdf)
+
+* **[ECCV 2026]** *Training-Free Multi-Concept Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3184.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nickyfot.github.io/cds/)
+
+* **[ECCV 2026]** ***UNet-Twice:*** *A Simple Structured Reference-based Inpainting Framework*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1460.pdf)
+
+* **[ECCV 2026]** ***UniREditBench:*** *A Unified Reasoning-based Image Editing Benchmark*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4799.pdf)
+
+* **[ECCV 2026]** ***UniTranslator:*** *A Unified Multi-modal framework for End-to-end In-Image Machine Translation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4594.pdf)
+
+* **[ECCV 2026]** *Universal Image Immunization against Diffusion-based Image Editing via Semantic Injection*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/750.pdf)
+
+* **[ECCV 2026]** *Unlocking Complex Image Editing via Natively Interleaved Visual Textual CoT with Deep Confidence Reasoning*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9141.pdf)
+
+* **[ECCV 2026]** ***V-HOLD:*** *Stabilizing Flow Trajectories to Rethink the Edit–Preservation Trade-off*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/11268.pdf)
+
+* **[ECCV 2026]** ***VGEdit:*** *Unlocking Video Generation Priors for Reasoning-Informed Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/723.pdf)
+
+* **[ECCV 2026]** *Vision Bridge Transformer at Scale*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/490.pdf)
+
+* **[ECCV 2026]** ***VLTR:*** *Vision-Language Tool Reasoning for Instruction-Guided Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14573.pdf)
+
+* **[ECCV 2026]** ***VSDiffusion:*** *Taming Ill-Posed Shadow Generation via Visibility-Constrained Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2609.pdf)
+
+* **[ECCV 2026]** ***VTEdit-Bench:*** *A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3000.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Hiuyee124/VTEdit-Bench)
+
+* **[ECCV 2026]** *Wavelet-Guided Semantic Signal Compensation for Inversion-Free Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8615.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zoey-tang-33.github.io/wavelet-edit-project)
+
+* **[ECCV 2026]** ***WeEdit:*** *A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5462.pdf)
+
 * **[ICLR 2026]** ***VINCIE:*** *Unlocking In-context Image Editing from Video*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2506.10941) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vincie2025.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ByteDance-Seed/VINCIE) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/ByteDance-Seed/VINCIE-7B)
 
 * **[ICLR 2026]** ***Draw-In-Mind:*** *Rebalancing Designer-Painter Roles in Unified Multimodal Models Benefits Image Editing*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2509.01986) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/showlab/DIM) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/stdKonjac/DIM-4.6B-Edit)
@@ -2876,7 +3452,6 @@
 - [From Editor to Dense Geometry Estimator](http://arxiv.org/abs/2509.04338v1) [![GitHub Stars](https://img.shields.io/github/stars/AMAP-ML/FE2E?style=social)](https://github.com/AMAP-ML/FE2E) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://amap-ml.github.io/FE2E/)
 - [Improved 3D Scene Stylization via Text-Guided Generative Image Editing with Region-Based Control](http://arxiv.org/abs/2509.05285v1)
 - [Fidelity-preserving enhancement of ptychography with foundational text-to-image models](http://arxiv.org/abs/2509.04513v1)
-- [Discrete Noise Inversion for Next-scale Autoregressive Text-based Image Editing](http://arxiv.org/abs/2509.01984v2)
 - [Delta Velocity Rectified Flow for Text-to-Image Editing](http://arxiv.org/abs/2509.05342v1)
 - [Neural Scene Designer: Self-Styled Semantic Image Manipulation](http://arxiv.org/abs/2509.01405v1)
 - [LatentEdit: Adaptive Latent Control for Consistent Semantic Editing](http://arxiv.org/abs/2509.00541v1)
@@ -3280,6 +3855,81 @@
 
 * **[CVPR 2026]** ***U-Mind:*** *A Unified Framework for Real-Time Multimodal Interaction with Audiovisual Generation*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-D15E5E?style=for-the-badge)](https://arxiv.org/abs/2602.23739)
 
+* **[ECCV 2026]** ***Cheers:*** *Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4739.pdf)
+
+* **[ECCV 2026]** ***COMPASS:*** *Grounding Composition-Intent Guidance in Unified Multimodal Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10372.pdf)
+
+* **[ECCV 2026]** *Discrete Diffusion Models with MLLMs for Unified Medical Multimodal Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/751.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jwmao1.github.io/MeDiM_web/)
+
+* **[ECCV 2026]** *Enhancing Alignment for Unified Multimodal Models via Semantically-Grounded Supervision*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7284.pdf)
+
+* **[ECCV 2026]** ***EvoTok:*** *A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3387.pdf)
+
+* **[ECCV 2026]** ***FlowInOne:*** *Unifying Multimodal Generation as Image-in, Image-out Flow Matching*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1971.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://csu-jpg.github.io/FlowInOne.github.io/)
+
+* **[ECCV 2026]** *Illuminating Unified Multimodal Model for Free-form Interleaved Text-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7335.pdf)
+
+* **[ECCV 2026/ICLR 2026]** ***LightFusion/LightBagel:*** *A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8407.pdf) [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=kBpcpfoT8t) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ucsc-vlaa.github.io/LightBagel/)
+
+* **[ECCV 2026]** ***MANGO:*** *Unleashing Image Generation Capability of Unified Multimodal Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/843.pdf)
+
+* **[ECCV 2026]** ***MindBlock:*** *Probing Spatial Assembly and Structure in Unified Multimodal Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6769.pdf)
+
+* **[ECCV 2026]** ***MMDiff:*** *Extending Diffusion Transformers for Multi-Modal Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8290.pdf)
+
+* **[ECCV 2026]** ***OmniMamba:*** *Efficient and Unified Multimodal Understanding and Generation via State Space Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.08686) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/hustvl/OmniMamba) [![GitHub Stars](https://img.shields.io/github/stars/hustvl/OmniMamba?style=social)](https://github.com/hustvl/OmniMamba)
+
+* **[ECCV 2026]** ***Query-Kontext:*** *An Unified Multimodal Model for Image Generation and Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1622.pdf)
+
+* **[ECCV 2026]** *Semantic Generative Tuning for Unified Multimodal Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3064.pdf)
+
+* **[ECCV 2026]** ***SPAR:*** *Semantic-Pixel Self-Alignment and Adaptive Routing for Unified Multimodal Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5523.pdf)
+
+* **[ECCV 2026]** ***SpecV:*** *Specification Verification for Robust Unified Multimodal Evaluation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6821.pdf)
+
+* **[ECCV 2026]** ***SRUM:*** *Fine-Grained Self-Rewarding for Unified Multimodal Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/4870.pdf)
+
+* **[ECCV 2026]** *Transferability Between Understanding and Generation in Unified Multimodal Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/15.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cvlab-kaist.github.io/UMM_Transferability/)
+
+* **[ECCV 2026]** ***UEval:*** *A Benchmark for Unified Multimodal Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1054.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zlab-princeton.github.io/UEval/)
+
+* **[ECCV 2026]** ***UniDDT:*** *Unifying Multimodal Understanding and Generation with Decoupled Diffusion Transformer*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/13353.pdf)
+
+* **[ECCV 2026]** ***UniGP:*** *Taming Diffusion Transformer for Prior-Preserved Unified Generation and Perception*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/11975.pdf)
+
+* **[ECCV 2026]** ***UniMotion:*** *A Unified Framework for Motion-Text-Vision Understanding and Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1306.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wangzy01.github.io/UniMotion/)
+
+* **[ECCV 2026]** ***UniReflect:*** *Self-Reflection Tuning for Unified Multimodal Understanding and Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8574.pdf)
+
+* **[ECCV 2026]** ***Unsafe by Reciprocity:*** *How Generation–Understanding Coupling Undermines Safety in Unified Multimodal Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6548.pdf)
+
+* **[ECCV 2026]** ***WinTok:*** *A Win-Win Hybrid Tokenizer via Decomposing Visual Understanding and Generation with Transferable Tokens*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/7433.pdf)
+
 * **[ICLR 2026]** ***BLIP3-o:*** *A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=9aI6XUDYLX) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blip3o.salesforceresearch.ai/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/JiuhaiChen/BLIP3o) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/BLIP3o/BLIP3o-Model-8B)
 
 * **[ICLR 2026]** ***UniLiP:*** *Adapting CLIP for Unified Multimodal Understanding, Generation and Editing*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=6tx4BGjwJP) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/nnnth/UniLIP) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/kanashi6/UniLIP-3B)
@@ -3301,8 +3951,6 @@
 * **[ICLR 2026]** ***UniCMs:*** *A Unified Consistency Model For Efficient Multimodal Generation and Understanding*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=DaHOgSDE5U) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/SJTU-DENG-Lab/UniCMs) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/SJTU-DENG-Lab/UniCMs-512)
 
 * **[ICLR 2026]** ***VUGEN:*** *Visual Understanding priors for GENeration*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=tubF5vyrQ0)
-
-* **[ICLR 2026]** ***LightBagel:*** *A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=kBpcpfoT8t) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ucsc-vlaa.github.io/LightBagel/)
 
 * **[ICLR 2026]** ***UniFlow:*** *A Unified Pixel Flow Tokenizer for Visual Understanding and Generation*<br> [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=AwxGRIG8Fb) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ZhengrongYue/UniFlow) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/yuezhengrong/UniFlow)
 
@@ -3485,7 +4133,6 @@
 * [Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding and Generation](https://arxiv.org/abs/2506.15564) [![GitHub Stars](https://img.shields.io/github/stars/SkyworkAI/UniPic?style=social)](https://github.com/SkyworkAI/UniPic)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/spaces/Skywork/UniPic)
 * [MindOmni: Unleashing Reasoning Generation in Vision Language Models with RGPO](https://arxiv.org/abs/2505.13031) [![GitHub Stars](https://img.shields.io/github/stars/TencentARC/MindOmni?style=social)](https://github.com/TencentARC/MindOmni)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/spaces/stevengrove/MindOmni)
 * [UniFluid: Unified Autoregressive Visual Generation and Understanding with Continuous Tokens](https://arxiv.org/abs/2503.13436)
-* [OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models](https://arxiv.org/abs/2503.08686) [![GitHub Stars](https://img.shields.io/github/stars/hustvl/OmniMamba?style=social)](https://github.com/hustvl/OmniMamba)
 * [Janus‑Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling](https://arxiv.org/abs/2501.17811) [![GitHub Stars](https://img.shields.io/github/stars/deepseek-ai/Janus?style=social)](https://github.com/deepseek-ai/Janus)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/spaces/deepseek-ai/Janus-Pro-7B)
 * [VARGPT‑v1.1: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning](https://arxiv.org/abs/2504.02949) [![GitHub Stars](https://img.shields.io/github/stars/VARGPT-family/VARGPT-v1.1?style=social)](https://github.com/VARGPT-family/VARGPT-v1.1)
 * [ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement](https://arxiv.org/abs/2504.01934) [![GitHub Stars](https://img.shields.io/github/stars/illume-unified-mllm/ILLUME_plus?style=social)](https://github.com/illume-unified-mllm/ILLUME_plus)
