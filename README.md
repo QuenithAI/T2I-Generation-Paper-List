@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Nov 9th, 2026)**: We have updated all accepted papers in **ACM MM 2026**.
 - **(Nov 6th, 2026)**: We have updated all accepted papers in **ECCV 2026**.
 - **(Nov 2nd, 2026)**: We have updated all accepted papers in **ICML 2026**.
 - **(Oct 29th, 2026)**: We have updated all accepted papers in **ACL 2026**.
@@ -127,6 +128,105 @@
 
 * **[ACL 2026]** ***Unified Thinker:*** *A General Reasoning Core for Image Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.484.pdf)
+
+* **[ACM MM 2026]** *Accelerating Masked Image Generation by Learning Controlled Latent Dynamics*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.23996) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Kaiwen-Zhu/MIGM-Shortcut)
+
+* **[ACM MM 2026]** ***ALIEN:*** *Analytic Latent Watermarking for Controllable Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.06101)
+
+* **[ACM MM 2026]** ***BRACE:*** *Taming Sharp Irregularities via Barycentric Rational Forecasting for Fast Diffusion Transformers Inference*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2608.07572) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://youngkinlon.github.io/BRACE-Taming-Sharp-Irregularities-via-Barycentric-Rational-Forecasting-for-Fast-DiT-Inference/)
+
+* **[ACM MM 2026]** *Concept-Level Risk and Calibration for Governance in Diffusion Foundation Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2609.08517)
+
+* **[ACM MM 2026]** ***Diagnose-to-Generate:*** *Eliminating Structural Distortions in Flow Models via Patch-Level Grounded Alignment*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2610.17882)
+
+* **[ACM MM 2026]** ***Dual Inversion for Text-to-Image Diffusion Models:*** *From Both Prompt and Noise Perspectives*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2607.26735)
+
+* **[ACM MM 2026]** ***Erase but Preserve:*** *Controllable Removal of Copyrighted Animation Characters via Optimized Semantic Anchors*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2608.12806)
+
+* **[ACM MM 2026]** ***ETPDesigner:*** *Multi-Agent Orchestration for Interactive Multimodal Electronic Theater Program*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2607.19947)
+
+* **[ACM MM 2026]** *Explore or Converge? Stage-Guided Per-Step Optimization for Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2608.06768)
+
+* **[ACM MM 2026]** ***HPSv3++:*** *Scaling Reward Models Across the Full Spectrum of Diffusion Model Capabilities*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2606.14657) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/PlantPotatoOnMoon/HPSv3-PlusPlus)
+
+* **[ACM MM 2026]** *Interpreting Object-Dependent Concept Brittleness in Text-to-Image Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2609.09909) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Metecade/Object-Dependent-Concept-Brittleness)
+
+* **[ACM MM 2026]** ***Learning to Credit the Right Steps:*** *Objective-aware Process Optimization for Visual Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.19234)
+
+* **[ACM MM 2026]** ***MAR-GRPO:*** *Stabilized GRPO for AR-diffusion Hybrid Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.06966) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/AMAP-ML/mar-grpo)
+
+* **[ACM MM 2026]** ***Navigating the Open-Source Model Ecosystem:*** *An Empirical Study of Creator Practices in Artistic Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2607.10538)
+
+* **[ACM MM 2026]** ***Noise as a Probe:*** *Membership Inference Attacks on Diffusion Models Leveraging Initial Noise*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2601.21628) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/S3IC-Lab/NoiseMIA)
+
+* **[ACM MM 2026]** *On Semiotic-Grounded Interpretive Evaluation of Generative Art*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.08641) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/songrise/SemJudge)
+
+* **[ACM MM 2026]** *On the Limitations of Cross-Lingual Consistency in Multilingual Text-to-image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2608.11002) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/RISys-Lab/LingT2I)
+
+* **[ACM MM 2026]** *Open Multimodal Retrieval-Augmented Factual Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2510.22521)
+
+* **[ACM MM 2026]** ***PAST:*** *Prompt-Adaptive Sampling Termination for Efficient Diffusion Model*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2608.06794)
+
+* **[ACM MM 2026]** ***PixARG:*** *Pixel-Asynchronous Retrieval-Augmented Diffusion for Fast and Realistic Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2610.14713)
+
+* **[ACM MM 2026]** ***Predict to Skip:*** *Linear Multistep Feature Forecasting for Efficient Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.18093)
+
+* **[ACM MM 2026]** *Rare Concept Generation via Counterfactual Inference in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2607.14765) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/200204jzy/CI-Diff)
+
+* **[ACM MM 2026]** ***Reading Between the Pixels:*** *An Inscriptive Jailbreak Attack on Text-to-Image Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.05853)
+
+* **[ACM MM 2026]** *Reward-Aware Trajectory Shaping for Few-step Visual Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.14910)
+
+* **[ACM MM 2026]** *Safeguarding Text-to-Image Generation via Inference-Time Prompt-Noise Optimization*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2412.03876)
+
+* **[ACM MM 2026]** ***Semantic Steering for Controllable Generation:*** *Tuning-Free Concept Erasure in Multimodal Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2608.12829)
+
+* **[ACM MM 2026]** ***Simile Understanding in Text-to-Image Models:*** *An Evaluation Framework*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2608.04750)
+
+* **[ACM MM 2026]** ***SJD-PV:*** *Speculative Jacobi Decoding with Phrase Verification for Autoregressive Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.06666)
+
+* **[ACM MM 2026]** ***Step Back to Move Forward:*** *Reflection-Aware Preference Optimization for Visual Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2609.04282)
+
+* **[ACM MM 2026]** ***SwiftExplorer:*** *Training-free diffusion model alignment with Swift Diversity Exploration*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2609.06651)
+
+* **[ACM MM 2026]** ***TIQA:*** *Human-Aligned Perceptual Text Quality Assessment in Generated Images*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.07119)
+
+* **[ACM MM 2026]** ***ZEUS:*** *Accelerating Diffusion Models with Only Second-Order Predictor*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.01552) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Ting-Justin-Jiang/ZEUS)
+
+* **[ACM MM 2026]** ***Z²-Sampling:*** *Zero-Cost Zigzag Trajectories for Semantic Alignment in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2604.23536)
 
 * **[CVPR 2026]** *Improving Text-to-Image Generation with Intrinsic Self-Confidence Rewards*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.00918) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://wookiekim.github.io/SOLACE/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/wookiekim/SOLACE)
@@ -1792,7 +1892,6 @@
 - [LayerFusion: Harmonized Multi-Layer Text-to-Image Generation with Generative Priors](http://arxiv.org/abs/2412.04460v1)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://layerfusion.github.io/)
 - [T2I-FactualBench: Benchmarking the Factuality of Text-to-Image Models with Knowledge-Intensive Concepts](http://arxiv.org/abs/2412.04300v3)
 - [BodyMetric: Evaluating the Realism of Human Bodies in Text-to-Image Generation](http://arxiv.org/abs/2412.04086v2)
-- [Safeguarding Text-to-Image Generation via Inference-Time Prompt-Noise Optimization](http://arxiv.org/abs/2412.03876v1)
 - [DynamicControl: Adaptive Condition Selection for Improved Text-to-Image Generation](http://arxiv.org/abs/2412.03255v2) [![GitHub Stars](https://img.shields.io/github/stars/hithqd/DynamicControl?style=social)](https://github.com/hithqd/DynamicControl)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://hithqd.github.io/projects/Dynamiccontrol/)
 - [The Role of Text-to-Image Models in Advanced Style Transfer Applications: A Case Study with DALL-E 3](http://arxiv.org/abs/2412.05325v1)
 - [Towards Understanding and Quantifying Uncertainty for Text-to-Image Generation](http://arxiv.org/abs/2412.03178v1)
@@ -2042,6 +2141,36 @@
 
 * **[ACL 2026]** ***Vector Calligrapher:*** *Generating Scalable Vector Graphics via Structured Linguistic Supervision*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.511.pdf)
+
+* **[ACM MM 2026]** ***Bridging Language and Spherical Space:*** *Object-Centric Control for Text-to-Panorama Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2608.20691)
+
+* **[ACM MM 2026]** ***Efficient Training with Foresight:*** *Multi-Token Auxiliary Supervision for Autoregressive Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2608.25386)
+
+* **[ACM MM 2026]** *Learning to Expand Images for Efficient Visual Autoregressive Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2511.15499)
+
+* **[ACM MM 2026]** ***OmniAlpha:*** *Aligning Transparency-Aware Generation via Multi-Task Unified Reinforcement Learning*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2511.20211)
+
+* **[ACM MM 2026]** ***PoseAdapter:*** *Dual-Stream 2.5D Controllable Image Generation for Complex Multi-Object Scenes*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2608.15583) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/cyf23/PoseAdapter)
+
+* **[ACM MM 2026]** ***RadAR:*** *Accelerating Autoregressive Visual Generation with Radial Decoding*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2512.24639)
+
+* **[ACM MM 2026]** ***StructGen:*** *Disambiguating Multi-Reference Image Generation via Structured Context Modeling*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2607.15619) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jianingpeng0382.github.io/StructGen/)
+
+* **[ACM MM 2026]** ***To Blend In, First Decouple:*** *Rethinking Camouflage Image Generation via Context-Decoupled Representations*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2607.17768)
+
+* **[ACM MM 2026]** ***TRACE-Bench:*** *Decomposing and Diagnosing Multi-Reference Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2608.16765) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amuseum-whr.github.io/TraceBench/)
+
+* **[ACM MM 2026]** ***VersaVogue:*** *Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2604.07210)
 
 * **[CVPR 2026]** *EmoStyle: Emotion-Driven Image Stylization*<br>
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2512.05478) ![Project Page](https://img.shields.io/badge/Project-N/A-lightgrey?style=for-the-badge&logo=googlechrome&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/JingyuanYY/EmoStyle) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/lilwhit3/EmoStyle)
@@ -2575,6 +2704,15 @@
 * **[ACL 2026]** *Multimodal Large Language Models for Multi-Subject In-Context Image Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.1518.pdf)
 
+* **[ACM MM 2026]** ***BeyondFacial:*** *Identity-Preserving Personalized Generation Beyond Facial Close-ups*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2511.11989)
+
+* **[ACM MM 2026]** ***MultiCompose:*** *Multi-Concept Personalized Composition with Per-Subject Attribute Binding*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2608.03708) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/I2-Multimedia-Lab/MultiCompose)
+
+* **[ACM MM 2026]** ***RAVA:*** *Retrieval-Augmented Viewpoint Alignment for Subject-Driven Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2606.17619)
+
 * **[CVPR 2026]** ***USO:*** *Unified Style and Subject-Driven Generation via Disentangled and Reward Learning*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.18966) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bytedance.github.io/USO/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/bytedance/USO) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/bytedance-research/USO)
 
 * **[CVPR 2026]** ***UMO:*** *Scaling Multi-Identity Consistency for Image Customization via Matching Reward*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2509.06818) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bytedance.github.io/UMO/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/bytedance/UMO) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/bytedance-research/UMO)
@@ -2972,6 +3110,39 @@
 
 * **[ACL 2026]** ***I2E:*** *From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.2076.pdf)
+
+* **[ACM MM 2026]** ***DARS:*** *Dual-Level Credit Assignment RL with Structured Reasoning for Instruction-Based Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2608.20161)
+
+* **[ACM MM 2026]** *Diffusion Image Editing via Asynchronous Token Decoding*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2608.09322)
+
+* **[ACM MM 2026]** *Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2504.04784)
+
+* **[ACM MM 2026]** ***Insert In Style:*** *A Zero-Shot Generative Framework for Harmonious Cross-Domain Object Composition*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2511.15197)
+
+* **[ACM MM 2026]** *Multi-Layer Diffusion Strategy for Multi-IP Interaction-Aware Human Erasing*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2508.06543) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mild-multi-layer-diffusion.github.io/)
+
+* **[ACM MM 2026]** ***PhyEdit:*** *Towards Real-World Object Manipulation via Physically-Grounded Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2604.07230) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/nenhang/PhyEdit)
+
+* **[ACM MM 2026]** ***PrismGPT:*** *Proxy-Guided Learning for Region-Aware Photo Editing with Self-Synthesized Reasoning*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2609.24768)
+
+* **[ACM MM 2026]** ***Rethinking Where to Edit:*** *Task-Aware Localization for Instruction-Based Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2604.20258) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jessie459.github.io/TAL/)
+
+* **[ACM MM 2026]** ***SI-Edit:*** *Toward Sketch-Instruction Guided Local Image Editing with Pixel-Level Precision*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2608.09097)
+
+* **[ACM MM 2026]** ***SNR-Edit:*** *Structure-Aware Noise Rectification for Inversion-Free Flow-Based Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2601.19180)
+
+* **[ACM MM 2026]** *Training-Free Image Editing with Visual Context Integration and Concept Alignment*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2604.04487)
 
 * **[CVPR 2026]** *Delta Velocity Rectified Flow for Text-to-Image Editing*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.05342) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Harvard-AI-and-Robotics-Lab/DeltaVelocityRectifiedFlow)
 
@@ -3848,6 +4019,9 @@
 
 * **[ACL 2026]** ***UniCorn:*** *Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://aclanthology.org/2026.acl-long.621.pdf)
+
+* **[ACM MM 2026]** ***EAR:*** *Erasing Concepts from Unified Autoregressive Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-D15E5E?style=for-the-badge)](https://arxiv.org/abs/2506.20151) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/immc-lab/ear/)
 
 * **[CVPR 2026]** ***DREAM:*** *Where Visual Understanding Meets Text-to-Image Generation*<br> [![Paper](https://img.shields.io/badge/Paper-arXiv-D15E5E?style=for-the-badge)](https://arxiv.org/abs/2603.02667) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/chaoli-charlie/dream) 
 
