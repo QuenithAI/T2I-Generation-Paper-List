@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Nov 12th, 2026)**: We have updated all accepted papers in **NeurIPS 2026**.
 - **(Nov 9th, 2026)**: We have updated all accepted papers in **ACM MM 2026**.
 - **(Nov 6th, 2026)**: We have updated all accepted papers in **ECCV 2026**.
 - **(Nov 2nd, 2026)**: We have updated all accepted papers in **ICML 2026**.
@@ -1341,6 +1342,255 @@
 * **[ICML 2026]** ***Z-Erase:*** *Enabling Concept Erasure in Single Stream Diffusion Transformers*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=fCvS9dhzhM)
 
+* **[NeurIPS 2026]** ***Auto-Rubric as Reward:*** *From Implicit Preference to Explicit Generative Criteria*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Zf9vqc7AeL)
+
+* **[NeurIPS 2026]** ***Better Source, Better Flow:*** *Learning Condition-Dependent Source Distribution for Flow Matching*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=vtr94l6tFI)
+
+* **[NeurIPS 2026]** ***BitDance:*** *Scaling Autoregressive Generative Models with Binary Tokens*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=HI2nlULbg7)
+
+* **[NeurIPS 2026]** *Boosting Text-to-Image Diffusion Models via Core Token Attention-Based Seed Selection*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=TK7VVYFzeK)
+
+* **[NeurIPS 2026]** ***Breaking the Static:*** *Dynamic Text Conditioning for Diverse Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ThOsV8XidT)
+
+* **[NeurIPS 2026]** ***CAB:*** *Accelerating Flow and Diffusion Sampling via Rectification and Corrected Adams-Bashforth*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=hpZ7epyUY4)
+
+* **[NeurIPS 2026]** *Channel-wise Vector Quantization*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=VFeBuEITNa)
+
+* **[NeurIPS 2026]** *Coarse-to-Fine Compositional Diffusion for Long-Horizon Planning*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=xTMCXC32qJ)
+
+* **[NeurIPS 2026]** *Consistency-Preserving Concept Erasure via Unsafe–Safe Pairing and Directional Fisher-weighted Adaptation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=aHNQKnXHXJ)
+
+* **[NeurIPS 2026]** *Continual Learning in Modern Hopfield Networks with an Application to Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=UyZlLEPgiU)
+
+* **[NeurIPS 2026]** ***CSFlow:*** *Aligning Flow Matching with Human Contrast Sensitivity*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=DKVqS2hVS1)
+
+* **[NeurIPS 2026]** *Cyclic Denoising Reveals Ultrastable Memories in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=JaiESGVAVn)
+
+* **[NeurIPS 2026]** ***D2D:*** *Detector-to-Differentiable Critic for Improved Numeracy in Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=MFUdIySxW3)
+
+* **[NeurIPS 2026]** ***DecQ:*** *Detail-Condensing Queries for Enhanced Reconstruction and Generation in Representation Autoencoders*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=TujfWq01JT)
+
+* **[NeurIPS 2026]** ***DeFlowCritic:*** *Dense Latent Reward Alignment for Text-to-Image Flow Matching Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=DYlByUybv0)
+
+* **[NeurIPS 2026]** ***Diff-Aid:*** *Inference-time Adaptive Interaction Denoising for Rectified Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=mUAzPnYiWX)
+
+* **[NeurIPS 2026]** ***DifFRACT:*** *Diffusion Feature Reconstruction and Attribution for Circuit Tracing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=hwwQnLpJt5)
+
+* **[NeurIPS 2026]** *Diffusion Meta-Prompting and Steering for Generalizable Foundation Model Adaptation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=EbyKAh8h40)
+
+* **[NeurIPS 2026]** ***DiRotQ:*** *Rotation-Aware Quantization for 4-bit Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=2vvKmRgMuy)
+
+* **[NeurIPS 2026]** *Disentangled Sparse Representations for Concept-Separated Diffusion Unlearning*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=5Ls4MY5nvC)
+
+* **[NeurIPS 2026]** ***DyCoRM:*** *Dynamic Criterion-Aware Reward Modeling for Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=zzottG3vbp)
+
+* **[NeurIPS 2026]** *Efficient Adjoint Matching for Fine-tuning Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=vSHTrySbQc)
+
+* **[NeurIPS 2026]** *Efficient bias mitigation in T2I diffusion models using Concept Graphs*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=vOSMBUB46a)
+
+* **[NeurIPS 2026]** *Enabling Preference-driven Unlearning in Few-step Distilled Text-to-Image Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=AMoAi3Al48)
+
+* **[NeurIPS 2026]** ***EntiRE:*** *Invariant Learning for Robust Concept Erasure in Text-to-Image Generative Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ch8Vn8e6ZM)
+
+* **[NeurIPS 2026]** *Example-Based Spatial Guidance for Training-Free Concept Erasure in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=kCWbL63oQy)
+
+* **[NeurIPS 2026]** *Exploring Advertising Manipulation in Diffusion Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=qzXTcdJ3oV)
+
+* **[NeurIPS 2026]** ***Few Channels Draw The Whole Picture:*** *Revealing Massive Activations in Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=0GAdp0EnE3)
+
+* **[NeurIPS 2026]** *Few-Shot Visual Concept Extraction for Steering Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=fMSQSo0vsU)
+
+* **[NeurIPS 2026]** ***Follow the Mean:*** *Reference-Guided Flow Matching*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=dtoO1TcUb8)
+
+* **[NeurIPS 2026]** ***FreqCa:*** *Accelerating Image generation and editing via Frequency-Aware Caching*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=xRAhPVJ1wk)
+
+* **[NeurIPS 2026]** ***From Static Geometry to Dynamical Singularity:*** *Detecting Memorization in Diffusion Models via Score Evolution*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=3KVTmKRBPc)
+
+* **[NeurIPS 2026]** ***From Structural Feedback to Prompt Policies:*** *Learning Faithful Text-to-Image Prompt Editors*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=DikML74WUt)
+
+* **[NeurIPS 2026]** ***GARDO:*** *Reinforcing Diffusion Models without Reward Hacking*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=dmPzzDSb7m)
+
+* **[NeurIPS 2026]** ***GDMD:*** *Guiding Distribution Matching Distillation with Gradient-Based Reinforcement Learning*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=RFJrFfNSEC)
+
+* **[NeurIPS 2026]** ***Generation Navigator:*** *A State-Aware Agentic Framework for Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=HS7Cbd4eu1)
+
+* **[NeurIPS 2026]** ***GenEvolve:*** *Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=1wiUEkM8XE)
+
+* **[NeurIPS 2026]** ***GeoSPRINT:*** *Geometric Redundancy-Aware Step Pruning for Inference in Diffusion Trajectories*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=qj6phkQ9Bx)
+
+* **[NeurIPS 2026]** ***HEART:*** *Hyperspherical Embedding Alignment via Kent-Representation Traversal in Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=0jVJaUEE17)
+
+* **[NeurIPS 2026]** *How Diffusion Models Memorize*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=2b5I5iwFrW)
+
+* **[NeurIPS 2026]** ***HyperTransport:*** *Amortized Conditioning of T2I Generative Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Rhug0gm51O)
+
+* **[NeurIPS 2026]** ***IdealCache:*** *Rethinking Cache Scheduling in Diffusion Transformers via Ideal Trajectories*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=3jq55sxmcq)
+
+* **[NeurIPS 2026]** ***KroQuant:*** *Kronecker-Structured Block Transforms for Efficient Post-Training Quantization of Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=oBmgoOB66g)
+
+* **[NeurIPS 2026]** ***LoRAtorio:*** *An intrinsic approach to LoRA Skill Composition*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.11624)
+
+* **[NeurIPS 2026]** ***MaskSense:*** *Confronting the Visual Exploration Trap in Masked Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=7HT2OEIoEN)
+
+* **[NeurIPS 2026]** ***ORCA:*** *Hunting Compositional Failures in Text-to-Image Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Ar6frZW38L)
+
+* **[NeurIPS 2026]** *Panoptic Scene Program Diffusion Transformer*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=fagdsZ9hps)
+
+* **[NeurIPS 2026]** ***ParaLin:*** *Accelerating Parallel Diffusion Integrator via Intrinsic Partially Linear Structure*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=2iMSq9oirM)
+
+* **[NeurIPS 2026]** ***ParaPC-FM:*** *Accelerating Parallel Sampling via Principled Initialization*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=l8sEnyVlRf)
+
+* **[NeurIPS 2026]** ***PermuQuant:*** *Lowering Per-Group Quantization Error by Reordering Channels for Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=bQr7RtVC2C)
+
+* **[NeurIPS 2026]** ***Phase-wise Velocity Distillation:*** *Towards Effective Image Generation with A Single NFE*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=g9V4RTYjMF)
+
+* **[NeurIPS 2026]** *Pixel-space Autoregressive Image Synthesis via Spectrum Serialization and Flow-based Refinement*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=sHRb3N6tLL)
+
+* **[NeurIPS 2026]** ***ProGraf:*** *Profile-Guided Planning for Step-by-Step Generation of Structured Non-Natural Images*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=8I8z7rkr9Q)
+
+* **[NeurIPS 2026]** ***RankE:*** *End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=JKAhKqd78L)
+
+* **[NeurIPS 2026]** ***RAVEL:*** *Rare Concept Generation and Editing via Graph-driven Relational Guidance*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=kU5GAMEqa5)
+
+* **[NeurIPS 2026]** ***Read It Back:*** *Pretrained MLLMs Are Zero-shot Reward Models for Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=60UfWy2Mx4)
+
+* **[NeurIPS 2026]** ***Reinforce Adjoint Matching:*** *Scaling RL Post-Training of Diffusion and Flow Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=AoBtAENiPy)
+
+* **[NeurIPS 2026]** *Representation Preconditioning for Efficient Diffusion Model Training*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ZNtVdfSWVX)
+
+* **[NeurIPS 2026]** *Rethinking Cross-Layer Information Routing in Diffusion Transformer*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=FV5fsUXnll)
+
+* **[NeurIPS 2026]** ***RISE:*** *Red-teaming via Iterative Strategy Evolution for Modern Text-to-Image Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=gOoC1Kh4q4)
+
+* **[NeurIPS 2026]** ***SARA:*** *Step-Adaptive Rank Adjustment for Diffusion Inference Acceleration*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=cRkKhecFAQ)
+
+* **[NeurIPS 2026]** ***Scale Where It Matters:*** *Training-Free Localized Scaling for Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=EAcDRgtXAi)
+
+* **[NeurIPS 2026]** ***SCULPT:*** *Advancing Masked Discrete Diffusion for High-Resolution Image Synthesis.*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=9Qv7b21CM4)
+
+* **[NeurIPS 2026]** ***SEGA:*** *Spectral-Energy Guided Attention for Resolution Extrapolation in Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=IUujREirW0)
+
+* **[NeurIPS 2026]** ***Semantic Routing:*** *Exploring Multi-Layer LLM Feature Weighting for Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=bRpXPKp716)
+
+* **[NeurIPS 2026]** ***SpaG-DiT:*** *Enhancing Spatial Grounding for Diffusion Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=OKeNQCptbZ)
+
+* **[NeurIPS 2026]** *Spectral Progressive Diffusion for Efficient Image and Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ddRju4BSEw)
+
+* **[NeurIPS 2026]** *Stay Fair! Ensuring Group Fairness in Diffusion Models Across Guidance Scales*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=tIDWhFyqX7)
+
+* **[NeurIPS 2026]** ***Steering Away from Memorization:*** *Reachability-Constrained Reinforcement Learning for Text-to-Image Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=s8BKAZHA8D)
+
+* **[NeurIPS 2026]** ***Steering Fields:*** *Adaptive Vector Fields for Safe Image Generation and Beyond*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=yUc9CsiZvu)
+
+* **[NeurIPS 2026]** *Structure-Semantic Co-optimized Latent Diffusion Model for Fast Visual Anagram Synthesis*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=vWSKzHnaou)
+
+* **[NeurIPS 2026]** ***TIDE:*** *Trajectory-Aware Watermark Propagation for Text-to-Image Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=1tohGAfGuc)
+
+* **[NeurIPS 2026]** ***TokenRepel:*** *Generating Diverse Image Sets Without Sacrificing Quality*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=xJDcbc6iWs)
+
+* **[NeurIPS 2026]** ***VAR-Q:*** *Tuning-free KV Cache Quantization for Visual Autoregressive Image and Video Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=cKR2ed5g34)
+
+* **[NeurIPS 2026]** ***VASR:*** *Variance-Aware Systematic Resampling for Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=QqtrK76QV1)
+
+* **[NeurIPS 2026]** ***VisionCreator-R1:*** *A Reflection-Enhanced Native Visual-Generation Agentic Model*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=zGiLxdshrQ)
+
+* **[NeurIPS 2026]** ***When Policy Entropy Constraint Fails:*** *Preserving Diversity in Flow-based RLHF via Perceptual Entropy*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=2TmlUKr7RZ)
+
+* **[NeurIPS 2026]** ***Where to Look Is Not How to Fix:*** *Pre-Denoising Diagnostics and Modality-Dependent Control in Diffusion Composition*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=E9pAceKeYu)
+
+* **[NeurIPS 2026]** ***Where, What, Why, and Importance:*** *Structured Defect Grounding for Text-to-Image Feedback*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=L8plGNGlQq)
+
+* **[NeurIPS 2026]** *Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=cDWOMIJrbJ)
+
+* **[NeurIPS 2026]** ***X2HDR:*** *HDR Image Generation in a Perceptually Uniform Space*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=xjyKFJeXLL)
+
+* **[NeurIPS 2026]** ***You Can’t Have It Both Ways:*** *Concept Entanglement Limits Diffusion Model Unlearning*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=81WMbko8Qr)
+
+* **[NeurIPS 2026]** ***Z-Cache:*** *Accelerating Diffusion Transformers via Self-Reflection*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=18HPiP28RE)
+
 </details>
 
 <details>
@@ -1608,7 +1858,6 @@
 - [DeCoT: Decomposing Complex Instructions for Enhanced Text‑to‑Image Generation with Large Language Models](http://arxiv.org/abs/2508.12396v1)
 - [Navigating the Exploration‑Exploitation Tradeoff in Inference‑Time Scaling of Diffusion Models](http://arxiv.org/abs/2508.12361v1)
 - [SafeCtrl: Region‑Based Safety Control for Text‑to‑Image Diffusion via Detect‑Then‑Suppress](http://arxiv.org/abs/2508.11904v1)
-- [LoRAtorio: An intrinsic approach to LoRA Skill Composition](http://arxiv.org/abs/2508.11624v1)
 - [SPG: Style‑Prompting Guidance for Style‑Specific Content Creation](http://arxiv.org/abs/2508.11476v1)
 - [Match & Choose: Model Selection Framework for Fine‑tuning Text‑to‑Image Diffusion Models](http://arxiv.org/abs/2508.10993v1)
 - [CountCluster: Training‑Free Object Quantity Guidance with Cross‑Attention Map Clustering for Text‑to‑Image Generation](http://arxiv.org/abs/2508.10710v1)
@@ -2421,6 +2670,33 @@
 * **[ICML 2026]** *Visual Implicit Autoregressive Modeling*<br>
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=YnAT2dUBNO) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mobiushy/VIAR)
 
+* **[NeurIPS 2026]** ***CLeaR:*** *A Unified Framework for Resolving the Leakage–Degradation Dilemma in Style Transfer*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=XYaKipdytC)
+
+* **[NeurIPS 2026]** ***Paint Anything:*** *Toward Any-Color Controllable Image Generation and Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=pfRkR1nSI5)
+
+* **[NeurIPS 2026]** ***PixelART:*** *Image-to-Layer Decomposition without Latents or Text-to-Image Pretraining*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=d0YFvkRclJ)
+
+* **[NeurIPS 2026]** ***PixelPonder:*** *Dynamic Patch Adaptation for Enhanced Multi-Conditional Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=OZZyhPmeOO)
+
+* **[NeurIPS 2026]** ***StatLUT:*** *Statistical Feature-Driven Multimodal 3D LUT Generation for Photorealistic Style Transfer*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Ly4kWIst8U)
+
+* **[NeurIPS 2026]** ***StyleRoute:*** *Diffusion Style Transfer via Regional Routing and Conflict-aware Projection*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=4kfUQ7cPeY)
+
+* **[NeurIPS 2026]** *Test-Time Conditioning with Representation-Aligned Visual Features*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=uJPI1xg4IN)
+
+* **[NeurIPS 2026]** ***TrioPose:*** *Native Triple-Stream Diffusion Transformers for Pose-Guided Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=lfuXuQqXhm)
+
+* **[NeurIPS 2026]** ***UniVL:*** *Unified Vision-Language Embedding for Spatially Grounded Contextual Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=EPyIDzDBau)
+
 </details>
 
 <details>
@@ -2845,6 +3121,39 @@
 
 * **[ICML 2026]** ***UFO:*** *Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=mporzu6RNi)
+
+* **[NeurIPS 2026]** *CompJudge: Fine-Grained Comparative Evaluation using Multimodal LLM for Subject-Driven Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=vRf7unujMa)
+
+* **[NeurIPS 2026]** *CrossID: Cross-Supervised Spatio-Temporal Gated Fusion for Personalized Portrait Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=fYVQT7T0IU)
+
+* **[NeurIPS 2026]** *Disentangling Dual Image References in Frequency Aware Diffusion Models for Personalized Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=l5xRQDiYkv)
+
+* **[NeurIPS 2026]** *Identifying and Mitigating Diversity Collapse in Zero-Shot Personalization with I2I Editing Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=tDe4M34lN8)
+
+* **[NeurIPS 2026]** *Learning Preference Representations for Preference-Conditioned Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=D2Ld3EwMVg)
+
+* **[NeurIPS 2026]** *LITHE: Lattice-Indexed Twin Hadamard Encoding for Diffusion Personalization*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=aFYphrxbNI)
+
+* **[NeurIPS 2026]** *LoRASpace: A Pool-Wide Shared Substrate for Static and Dynamic Multi-LoRA Composition*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=edpJ8ipgAp)
+
+* **[NeurIPS 2026]** *Manifold-Aligned Adversarial Perturbation for Anti-Customization under Diffusion-based Purification*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=2MUQVPJZ7T)
+
+* **[NeurIPS 2026]** *Mix-Opt: Mixed Optimization for Memory-Efficient Personalization of Text-to-Image Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=UPmtFh7dKd)
+
+* **[NeurIPS 2026]** *MorphSIG: Subject-Driven Image Generation via Decoupled Anchoring and Feature Transport*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=0oGyeFWXOQ)
+
+* **[NeurIPS 2026]** *Toward Semantically-Consistent Tuning-Free Customization for Rectified Flow Transformers*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Qbw59DT7mb)
 
 </details>
 
@@ -3522,6 +3831,72 @@
 
 * **[ICML 2026]** ***World-Shaper:*** *A Unified Framework for 360° Panoramic Editing*<br>
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=FXy0GCaHq1) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://world-shaper-project.github.io/)
+
+* **[NeurIPS 2026]** *Accelerated Image Editing via Consistency-Aware Source Token Pruning*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=mrTRzrrt4V)
+
+* **[NeurIPS 2026]** ***AIR:*** *Rethinking Image-Text Offset Alignment in Multimodal Contrastive Representation Space*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=bqgwUpKHsr)
+
+* **[NeurIPS 2026]** *Amortized Guidance for Image Inpainting with Pretrained Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=PVo9A82GnZ)
+
+* **[NeurIPS 2026]** ***AsymPipe:*** *Accelerating Large-scale DiTs Image Editing via Asymmetry-Aware Pipeline Parallelism*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=zvdQTz8byr)
+
+* **[NeurIPS 2026]** ***Barycentric Guidance:*** *Turning Foundation Image Editors into Continuous Affective Controllers*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Nx9IIc3xpv)
+
+* **[NeurIPS 2026]** ***DeCoRL:*** *Decomposed Consistency Reinforcement Learning for Multi-Image Composition*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=xVnuPOotSj)
+
+* **[NeurIPS 2026]** ***Drag as Evidence:*** *Motion-Grounded Latent Recomposition for Drag-Based Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=oHUIgcRFWk)
+
+* **[NeurIPS 2026]** ***Escape the Context Manifold:*** *Preventing DiT In-Context Editing via Conditional Flow Hijacking*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=06nMkjyRaB)
+
+* **[NeurIPS 2026]** ***GlyphAnchor:*** *Enhancing Visual Text Rendering via Position-Anchored Glyph Priors*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=c3aMyawBN4)
+
+* **[NeurIPS 2026]** ***GMO-E²DIT:*** *Grounded Multi-Operation Editing for E-Commerce Images*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=VXvQ42upd6)
+
+* **[NeurIPS 2026]** *Inline Critic Steers Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=RT1DXXQkZm)
+
+* **[NeurIPS 2026]** *Internalize External Competence for Visual Instruction Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=mKfQzVpQIM)
+
+* **[NeurIPS 2026]** ***ParetoSlider:*** *Diffusion Models Post-Training for Continuous Reward Control*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=FikEkhzT3F)
+
+* **[NeurIPS 2026]** *Scalable Minimal-Change Learning for Controllable Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=N7RrgL2N5Y)
+
+* **[NeurIPS 2026]** ***SpatialFlow-GRPO:*** *Where Spatial Credit Drives Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=vOr0WAaBeN)
+
+* **[NeurIPS 2026]** ***StitchEdit:*** *Stitching Depth Priors into Image Editors via Per-Layer Gradient Probing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=Q7G74v5nSs)
+
+* **[NeurIPS 2026]** *Test-time Scaling of Diffusions with Flow Maps*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=EtFrLaqiA4)
+
+* **[NeurIPS 2026]** *Text-Vision Co-Instructed Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=yC4H5QD0ot)
+
+* **[NeurIPS 2026]** *The Unreasonable Effectiveness of Text Embedding Interpolation for Continuous Image Steering*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=654S7hINSk)
+
+* **[NeurIPS 2026]** ***Thinking in Boxes:*** *3D Editing in Real Images Made Easy*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=8Qgiwfryfr)
+
+* **[NeurIPS 2026]** *Unlocking Any-Order Generation in Pretrained Autoregressive Image Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=UVG9WWadYE)
+
+* **[NeurIPS 2026]** *Why Do DiT Editors Drift? Plug-and-Play Low Frequency Alignment in VAE Latent Space*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ceVqStm5S2)
 
 </details>
 
@@ -4235,6 +4610,63 @@
 
 * **[ICML 2026]** ***Unison:*** *Benchmarking Unified Multimodal Models via Synergistic Understanding and Generation*<br>
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=EAH54wIQNb) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fudancvl.github.io/Unison/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/FudanCVL/Unison)
+
+* **[NeurIPS 2026]** *Exploring MLLM-Diffusion Information Transfer with MetaCanvas*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=d8GC1xLs92)
+
+* **[NeurIPS 2026]** ***FiRe:*** *Fine-grained Multimodal Reasoning for Enhanced Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=RBlcBaykle)
+
+* **[NeurIPS 2026]** *Holistic EvoLution via Intrinsic eXchange for Unified Multimodal Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=qbmMJso3Wa)
+
+* **[NeurIPS 2026]** ***Hydra-X:*** *Native Unified Multimodal Models with Holistic Visual Tokenizers*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=3mwm6O3FZt)
+
+* **[NeurIPS 2026]** ***HYDRA:*** *Representation Harmonized Tokenization for Multimodal Generation and Understanding*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=sNTc0XTEDc)
+
+* **[NeurIPS 2026]** *Latent Reasoning in Continuous Space for Unified Multimodal Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=IMiTprHzAl)
+
+* **[NeurIPS 2026]** *Logit-Conditioned Diffusion Decoding for Frozen Discrete-Token VLMs*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=ICK4e2LwDl)
+
+* **[NeurIPS 2026]** ***MedIGen:*** *Reliable Medical Illustration Generation via Interleaved Introspective Reasoning*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=RyrXhwjZ2I)
+
+* **[NeurIPS 2026]** ***OBJECT-UNI:*** *A Unified Model for Object-Centric Spatial Understanding and Controllable Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=GDwGbEZvpN)
+
+* **[NeurIPS 2026]** ***Rosetta:*** *Composable Native Multimodal Pretraining*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=X7davuwy7B)
+
+* **[NeurIPS 2026]** ***STARFlow2:*** *Bridging Language Models and Normalizing Flows for Unified Multimodal Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=L7AuyR68b3)
+
+* **[NeurIPS 2026]** *Steering Visual Generation in Unified Multimodal Models with Understanding Supervision*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=3K0MBUbZGh)
+
+* **[NeurIPS 2026]** *Structural Self-Teaching for Compositional Generation in Unified Multimodal Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=7dwd2Ok9fy)
+
+* **[NeurIPS 2026]** *The Design Space of Tri-Modal Masked Diffusion Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=NBUCuy2uaq)
+
+* **[NeurIPS 2026]** ***Think, Plan, Paint:*** *Layout-Aware Reasoning for Controllable Image Generation in Unified Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=lpI5QYN2jv)
+
+* **[NeurIPS 2026]** ***Tuna-2:*** *Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=C9czc9fdwn)
+
+* **[NeurIPS 2026]** ***Uni-Synergy:*** *Bridging Understanding and Generation for Personalized Reasoning*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=SkKUoQjWc7)
+
+* **[NeurIPS 2026]** ***UNICOM:*** *Unified Multimodal Modeling via Compressed Continuous Semantic Representations*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=0iUmETfbJj)
+
+* **[NeurIPS 2026]** *Unifying Contrastive and Generative Objectives for Visual Understanding and Text-to-Image Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-OpenReview-D15E5E?style=for-the-badge&logo=open-collective)](https://openreview.net/forum?id=iUP2tlq1du)
 
 </details>
 
